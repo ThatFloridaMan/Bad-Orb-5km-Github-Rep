@@ -2919,30 +2919,30 @@ $grp SplineShapeEntity {
    }
   }
   {
-   RoadGeneratorEntity : "{1E681E4ED25E5E20}Prefabs/WEGenerators/Roads/Asphalt/Asphalt_rough_7m_fd.et" {
+   RoadGeneratorEntity : "{7CB45DA728C4BA7F}Prefabs/WEGenerators/Roads/Asphalt/Asphalt_Dashed_Primary_fd.et" {
     coords 0 0 0
     {
      RoadEntity {
-      ID "556C6C02C8F45A73"
+      ID "556C6556FAB8EA7A"
       SplinePoints {
-       ShapePoint "{556C6C02BD077CFC}" {
+       ShapePoint "{556C6556BF2A9CBB}" {
         Position -0.45 -3.326 1.52
        }
-       ShapePoint "{556C6C02BD077389}" {
+       ShapePoint "{556C6556BF2A9DE7}" {
         Position 10.04 -3.8 -18.878
        }
-       ShapePoint "{613CE345D4D472EA}" {
+       ShapePoint "{64CB5978212C9EF9}" {
         Position 14.967 -5.185 -37.446
        }
-       ShapePoint "{613CE345D4D472AB}" {
+       ShapePoint "{64CB5978212C9EA4}" {
         Position 11.644 -7.664 -62.469
        }
-       ShapePoint "{613CE345D4D47D7B}" {
+       ShapePoint "{64CB5978212C9974}" {
         Position 4.177 -7.784 -80.768
        }
       }
       IsClosedSpline 0
-      Width 8
+      Width 9
      }
     }
    }

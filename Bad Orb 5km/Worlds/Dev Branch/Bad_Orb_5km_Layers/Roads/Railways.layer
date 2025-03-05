@@ -36,6 +36,8 @@ SplineShapeEntity {
   RoadGeneratorEntity : "{EEB3D2A6FCAADFD7}Prefabs/WEGenerators/Roads/Concrete/RG_Road_ConcretePanel_01_fd_fd.et" {
    coords 0 0 0
    AdjustHeightMap 1
+   RoadClearance 5
+   RoadWidth 5
    {
     RoadEntity {
      ID "59E881FE6E5B4479"
@@ -72,7 +74,7 @@ SplineShapeEntity {
       }
      }
      IsClosedSpline 0
-     Width 3.5
+     Width 5
     }
    }
   }
