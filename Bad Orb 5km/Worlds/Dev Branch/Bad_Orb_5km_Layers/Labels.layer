@@ -33,18 +33,18 @@ $grp GenericEntity {
   }
   coords 3397.203 178.034 4420.629
  }
- Hof_Lowelsberg {
+ Hof_Lomelsberg {
   components {
    SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
     m_EntityType COMMENT
     m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
-     Name "Hof Lowelsberg"
+     Name "Hof Lomelsberg"
     }
     m_bAutoRegister ALWAYS
     m_Flags 6200
    }
    SCR_MapDescriptorComponent "{64C95E6491A91086}" {
-    DisplayName "Hof Lowelsberg"
+    DisplayName "Hof Lomelsberg"
     MainType "Name Local"
    }
   }
@@ -169,18 +169,18 @@ $grp GenericEntity {
   }
   coords 4312.837 243.759 2607.809
  }
- Firstberg {
+ Ersteberg {
   components {
    SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
     m_EntityType COMMENT
     m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
-     Name "Firstberg"
+     Name "Ersteberg"
     }
     m_bAutoRegister ALWAYS
     m_Flags 6200
    }
    SCR_MapDescriptorComponent "{64C95E6491A91086}" {
-    DisplayName "Firstberg"
+    DisplayName "Ersteberg"
     MainType "Name Local"
    }
   }
