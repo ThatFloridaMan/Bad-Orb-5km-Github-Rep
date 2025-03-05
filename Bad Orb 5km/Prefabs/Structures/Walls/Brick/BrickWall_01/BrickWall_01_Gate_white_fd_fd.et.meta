@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{1669D3F4D37ACA6E}Prefabs/Structures/Walls/Brick/BrickWall_01/BrickWall_01_Gate_white.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

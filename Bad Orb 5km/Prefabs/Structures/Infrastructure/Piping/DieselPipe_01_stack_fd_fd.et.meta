@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{641131C69F64B84E}Prefabs/Structures/Infrastructure/Piping/DieselPipe_01_stack.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

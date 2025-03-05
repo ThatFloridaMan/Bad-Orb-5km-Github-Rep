@@ -1,0 +1,260 @@
+ForestGeneratorEntity {
+ ID "616937462E7CF772"
+ coords 0 0 0
+ Flags 1048579
+ GeneratorType GeneratorTypeForest "{616937462E7CF762}" {
+ }
+ m_bAvoidObjects 1
+ m_bAvoidRoads 1
+ m_bAvoidRivers 1
+ m_bAvoidPowerLines 1
+ m_bAvoidTracks 1
+ m_bAvoidLakes 1
+ m_iSeed 16
+ m_bPrintArea 1
+ m_bPrintEntitiesCount 1
+ m_aLevels {
+  ForestGeneratorTopLevel Top_level {
+   m_aTreeGroups {
+    TreeGroupClass Picea_abies {
+     m_aTrees {
+      ForestGeneratorTreeTall Picea_abies_3f {
+       m_Prefab "{A442F3F261E1F173}Prefabs/Vegetation/Tree/t_picea_abies_3f_fd_fd.et"
+       m_fRandomPitchAngle 5
+       m_fRandomRollAngle 5
+       m_fMidDistance 1
+       m_fTopDistance 3
+      }
+     }
+    }
+   }
+   m_fDensity 3
+   m_fClusterRadius 10
+  }
+  ForestGeneratorBottomLevel Bottom_level {
+   m_aTreeGroups {
+    TreeGroupClass Spruces {
+     m_fWeight 0.5
+     m_aTrees {
+      ForestGeneratorTreeShort picea_abies_0 {
+       m_fMinScale 0.75
+       m_Prefab "{7D5C8883A0DF9D96}PrefabLibrary/Vegetation/Trees/t_picea_abies_1f.et"
+      }
+      ForestGeneratorTreeShort picea_abies_1s {
+       m_fMinScale 1.2
+       m_fMaxScale 2
+       m_Prefab "{053196EF2505964A}PrefabLibrary/Vegetation/Trees/t_picea_abies_0.et"
+      }
+      ForestGeneratorTreeShort picea_abies_1f {
+       m_fMinScale 0.6
+       m_Prefab "{CED0732AEAD82213}PrefabLibrary/Vegetation/Trees/t_picea_abies_1s.et"
+       m_fWeight 1
+      }
+     }
+    }
+    TreeGroupClass Stubs {
+     m_fWeight 1.2
+     m_aTrees {
+      ForestGeneratorTreeShort Picea_abies_stump {
+       m_fMinScale 0.8
+       m_fMaxScale 1.3
+       m_Prefab "{603BCB377D9AF8A8}PrefabLibrary/Vegetation/Trees/t_picea_abies_stump_01_forest.et"
+       m_fBotDistance 2
+       m_fWeight 1
+      }
+      ForestGeneratorTreeShort Picea_abies_stump_02 {
+       m_fMinScale 0.5
+       m_Prefab "{5CA1D12C1B27CAE2}PrefabLibrary/Vegetation/Trees/t_picea_abies_stump_02.et"
+       m_fBotDistance 2
+       m_fWeight 0.2
+      }
+      FallenTree Picea_abies_fallen {
+       m_fMinScale 0.4
+       m_Prefab "{05A3738C33E15AA8}PrefabLibrary/Vegetation/Trees/t_picea_abies_3d_fallen_mossy.et"
+       m_fBotDistance 2
+       m_fWeight 0.5
+       m_CapsuleStartInEditor 0 0 12
+       m_CapsuleEndInEditor 0 0 -12
+       m_bAlignToNormal 0
+      }
+     }
+    }
+   }
+   m_fDensity 500
+  }
+  ForestGeneratorBottomLevel Rocks {
+   m_aTreeGroups {
+    TreeGroupClass Boulders {
+     m_aTrees {
+      ForestGeneratorTreeShort GraniteStone_01 {
+       m_fMinScale 0.6
+       m_Prefab "{926C09375D2DAA4D}PrefabLibrary/Rocks/Granite/GraniteStone_01.et"
+       m_fRandomPitchAngle 6
+       m_fRandomRollAngle 6
+      }
+      ForestGeneratorTreeShort GranitStone_022 {
+       m_fMinScale 0.6
+       m_Prefab "{FE383DD7E1E92563}PrefabLibrary/Rocks/Granite/GraniteStone_02.et"
+       m_fRandomPitchAngle 6
+       m_fRandomRollAngle 6
+      }
+      ForestGeneratorTreeShort GranitStone_03 {
+       m_fMinScale 0.6
+       m_Prefab "{1BA4712EED0CB208}PrefabLibrary/Rocks/Granite/GraniteStone_03.et"
+       m_fRandomPitchAngle 6
+       m_fRandomRollAngle 6
+      }
+     }
+    }
+   }
+   m_fDensity 14
+  }
+ }
+ m_aClusters {
+  ForestGeneratorCircleCluster Betula {
+   m_aObjects {
+    SmallForestGeneratorClusterObject Betula_Pendula_2sw {
+     m_fMinScale 0.7
+     m_Prefab "{C8E68C4C6AF159DA}PrefabLibrary/Vegetation/Trees/t_betula_pendula_2sw.et"
+     m_iMinCount 0
+     m_fMinRadius 0
+     m_fMaxRadius 7
+    }
+    SmallForestGeneratorClusterObject corylus_avellana_1s {
+     m_Prefab "{A35E15EBC6033C07}PrefabLibrary/Vegetation/Bushes/b_corylus_avellana_1.et"
+     m_iMinCount 0
+     m_iMaxCount 3
+     m_fMinRadius 0
+     m_fMaxRadius 6
+    }
+    SmallForestGeneratorClusterObject Betula_pendula_1s {
+     m_Prefab "{425761285F36BF16}PrefabLibrary/Vegetation/Trees/t_betula_pendula_1s.et"
+     m_fRandomPitchAngle 2
+     m_fRandomRollAngle 2
+     m_iMinCount 0
+     m_iMaxCount 2
+     m_fMinRadius 0
+     m_fMaxRadius 4
+    }
+    SmallForestGeneratorClusterObject Corylus_avellana_1l {
+     m_Prefab "{DA7492F3E6B63251}PrefabLibrary/Vegetation/Bushes/b_corylus_avellana_1l.et"
+     m_iMinCount 0
+     m_iMaxCount 5
+     m_fMinRadius 0
+     m_fMaxRadius 4
+    }
+    SmallForestGeneratorClusterObject Betula_Pendula_1f {
+     m_Prefab "{F1DB9A8115310093}PrefabLibrary/Vegetation/Trees/t_betula_pendula_1f.et"
+     m_fBotDistance 0.7
+     m_fRandomPitchAngle 2
+     m_fRandomRollAngle 2
+     m_iMinCount 0
+     m_fMinRadius 0
+     m_fMaxRadius 4
+    }
+    SmallForestGeneratorClusterObject Betula_1sw {
+     m_fMinScale 0.6
+     m_Prefab "{70692C116A6B4177}Prefabs/Vegetation/Tree/t_betula_pendula_1sw.et"
+     m_fBotDistance 0.6
+     m_fRandomPitchAngle 2
+     m_fRandomRollAngle 2
+     m_iMinCount 0
+     m_fMinRadius 0
+     m_fMaxRadius 4
+    }
+    SmallForestGeneratorClusterObject Betula_0 {
+     m_Prefab "{531BB93086610CA1}PrefabLibrary/Vegetation/Trees/t_betula_pendula_0.et"
+     m_fBotDistance 0.6
+     m_fRandomPitchAngle 2
+     m_fRandomRollAngle 2
+     m_iMinCount 0
+     m_iMaxCount 4
+     m_fMaxRadius 5
+    }
+   }
+   m_fMinCDENSHA 2
+   m_fMaxCDENSHA 5
+  }
+  ForestGeneratorCircleCluster BushesStones {
+   m_aObjects {
+    SmallForestGeneratorClusterObject Stone_01 {
+     m_fMinScale 0.5
+     m_Prefab "{926C09375D2DAA4D}PrefabLibrary/Rocks/Granite/GraniteStone_01.et"
+     m_fBotDistance 0.65
+     m_iMaxCount 4
+     m_fMinRadius 0
+     m_fMaxRadius 3
+    }
+    SmallForestGeneratorClusterObject Stone_02 {
+     m_fMinScale 0.5
+     m_Prefab "{1BA4712EED0CB208}PrefabLibrary/Rocks/Granite/GraniteStone_03.et"
+     m_fBotDistance 0.65
+     m_iMinCount 0
+     m_iMaxCount 4
+     m_fMinRadius 0
+     m_fMaxRadius 5
+    }
+    SmallForestGeneratorClusterObject Stone_03 {
+     m_fMinScale 0.5
+     m_fMaxScale 1.2
+     m_Prefab "{1BA4712EED0CB208}PrefabLibrary/Rocks/Granite/GraniteStone_03.et"
+     m_fBotDistance 0.65
+     m_iMaxCount 3
+     m_fMinRadius 0
+     m_fMaxRadius 4
+    }
+    SmallForestGeneratorClusterObject Stone_small {
+     m_fMinScale 0.2
+     m_fMaxScale 0.6
+     m_Prefab "{926C09375D2DAA4D}PrefabLibrary/Rocks/Granite/GraniteStone_01.et"
+     m_iMinCount 0
+     m_iMaxCount 5
+     m_fMinRadius 2
+     m_fMaxRadius 6
+    }
+    SmallForestGeneratorClusterObject betula_pendula_1s {
+     m_fMinScale 0.5
+     m_fMaxScale 0.9
+     m_Prefab "{425761285F36BF16}PrefabLibrary/Vegetation/Trees/t_betula_pendula_1s.et"
+     m_fBotDistance 0.3
+     m_iMinCount 0
+     m_iMaxCount 0
+     m_fMinRadius 0
+     m_fMaxRadius 3
+    }
+    SmallForestGeneratorClusterObject corylus_avellana_1s {
+     m_Prefab "{A35E15EBC6033C07}PrefabLibrary/Vegetation/Bushes/b_corylus_avellana_1.et"
+     m_iMinCount 0
+     m_iMaxCount 3
+     m_fMinRadius 0
+     m_fMaxRadius 3
+    }
+   }
+   m_fMinCDENSHA 10
+   m_fMaxCDENSHA 10
+  }
+  ForestGeneratorCircleCluster Pines {
+   m_aObjects {
+    SmallForestGeneratorClusterObject Pinus_1s {
+     m_fMinScale 0.6
+     m_Prefab "{2FE01B5E743D5205}PrefabLibrary/Vegetation/Trees/t_pinus_sylvestris_1s.et"
+     m_fBotDistance 0.6
+     m_iMaxCount 7
+     m_fMaxRadius 4
+    }
+    SmallForestGeneratorClusterObject Pinus_1f {
+     m_Prefab "{9C6CE0F73E3AED80}PrefabLibrary/Vegetation/Trees/t_pinus_sylvestris_1f.et"
+     m_fBotDistance 0.7
+     m_fRandomPitchAngle 2
+     m_fRandomRollAngle 2
+     m_iMinCount 0
+     m_iMaxCount 3
+     m_fMinRadius 0
+     m_fMaxRadius 3
+    }
+   }
+   m_fMinCDENSHA 2
+   m_fMaxCDENSHA 7
+  }
+ }
+}

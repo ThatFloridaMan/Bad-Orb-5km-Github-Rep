@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{A78DD7E6DCAC3B4D}Prefabs/Structures/Signs/Warnings/SignJunctionMain_01_pole.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

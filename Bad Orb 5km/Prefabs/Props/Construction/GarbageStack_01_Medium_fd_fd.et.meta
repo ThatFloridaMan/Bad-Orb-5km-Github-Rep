@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{EC5E5F652AAECC5E}Prefabs/Props/Construction/GarbageStack_01/GarbageStack_01_Medium.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

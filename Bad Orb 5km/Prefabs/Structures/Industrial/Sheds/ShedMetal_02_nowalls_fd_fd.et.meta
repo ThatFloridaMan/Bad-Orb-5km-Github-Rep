@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{137E98DD5A116B69}Prefabs/Structures/Industrial/Sheds/ShedMetal_02/ShedMetal_02_nowalls.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

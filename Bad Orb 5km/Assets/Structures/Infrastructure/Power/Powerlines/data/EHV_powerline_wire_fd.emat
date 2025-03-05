@@ -1,0 +1,12 @@
+MatPBRCable {
+ Color 0.352 0.342 0.337 1
+ Diffuse 0.479 0.479 0.479 1
+ RoughnessScale 0.83
+ MetalnessScale 0
+ BCRMap "{6D8FCF72B491F7C5}Assets/_SharedData/Fabric/ST_Rope_BW_BCR.edds"
+ NMOMap "{555774E06DE6A55B}Assets/_SharedData/Fabric/ST_Rope_BW_NMO.edds"
+ UScale 2
+ MinSagPerMeter 4
+ MaxSagPerMeter 4
+ CableThickness 8
+}

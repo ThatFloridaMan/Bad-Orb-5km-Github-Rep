@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{70231867B54741BC}Prefabs/Structures/Cultural/Castles/Castle_01_Bridge_Pillar.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

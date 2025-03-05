@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{986F38072A8DD564}Prefabs/Props/Garbage/Generic/Junk_01/Junk_01_single_planks.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{46FD0B3F23D1FF8E}Prefabs/Structures/Infrastructure/Waterworks/WaterReservoir_01/WaterReservoir_01.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

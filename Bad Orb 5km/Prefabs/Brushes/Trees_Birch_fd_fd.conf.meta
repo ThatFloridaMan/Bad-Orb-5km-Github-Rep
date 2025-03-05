@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{9548146AB7A4DC10}Prefabs/Brushes/Poplar_Trees.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

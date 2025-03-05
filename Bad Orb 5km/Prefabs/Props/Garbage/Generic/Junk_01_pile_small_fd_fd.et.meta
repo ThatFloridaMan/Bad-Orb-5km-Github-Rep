@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{74D1DB7828061BD8}Prefabs/Props/Garbage/Generic/Junk_01/Junk_01_pile_small.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

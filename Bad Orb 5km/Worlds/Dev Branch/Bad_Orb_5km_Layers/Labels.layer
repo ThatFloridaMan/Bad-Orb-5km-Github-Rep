@@ -1,0 +1,444 @@
+$grp GenericEntity {
+ Westen_Bad_Orb {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Westen Bad Orb"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Westen Bad Orb"
+    MainType "Name Town"
+   }
+  }
+  coords 4740.082 198.49 3557.094
+ }
+ Wasserversorgung_Bad_Orb {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Wasserversorgung Bad Orb"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Wasserversorgung Bad Orb"
+    MainType "Name Local"
+   }
+  }
+  coords 3397.203 178.034 4420.629
+ }
+ Hof_Lowelsberg {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Hof Lowelsberg"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Hof Lowelsberg"
+    MainType "Name Local"
+   }
+  }
+  coords 1763.041 179.842 4079.536
+ }
+ Ruckberg {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Ruckberg"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Ruckberg"
+    MainType "Name Local"
+   }
+  }
+  coords 2290.82 238.724 3977.414
+ }
+ Allenburg {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Allenburg"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Allenburg"
+    MainType "Name Local"
+   }
+  }
+  coords 3246.948 257.911 3331.795
+ }
+ Kasselberg {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Kasselberg"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Kasselberg"
+    MainType "Name Local"
+   }
+  }
+  coords 3490.555 332.883 2838.655
+ }
+ Huhnerberg {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Huhnerberg"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Huhnerberg"
+    MainType "Name Local"
+   }
+  }
+  coords 3711.327 369.271 1984.825
+ }
+ Sonnenberg {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Sonnenberg"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Sonnenberg"
+    MainType "Name Local"
+   }
+  }
+  coords 3740.186 371.678 1712.822
+ }
+ Bocksberg {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Bocksberg"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Bocksberg"
+    MainType "Name Local"
+   }
+  }
+  coords 4453.958 367.34 1720.837
+ }
+ Schubert_Ranch {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Schubert Ranch"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Schubert Ranch"
+    MainType "Name Local"
+   }
+  }
+  coords 4312.837 243.759 2607.809
+ }
+ Firstberg {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Firstberg"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Firstberg"
+    MainType "Name Local"
+   }
+  }
+  coords 2019.707 281.896 2842.962
+ }
+ Schaltstation_34J {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Schaltstation 34J"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Schaltstation 34J"
+    MainType "Name Local"
+   }
+  }
+  coords 1360.79 163.165 4171.791
+ }
+ Schaltstation_35T {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Schaltstation 35T"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Schaltstation 35T"
+    MainType "Name Local"
+   }
+  }
+  coords 4476.599 177.068 3844.751
+ }
+ Funf_wege {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Funf-Wege"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Funf-Wege"
+    MainType "Name Village"
+   }
+  }
+  coords 4289.817 211.159 4349.458
+ }
+ Forstfahrzeug_Wartungshof {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Forstfahrzeug-Wartungshof"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Forstfahrzeug-Wartungshof"
+    MainType "Name Local"
+   }
+  }
+  coords 4409.599 263.091 4789.375
+ }
+ Bad_Orb_Spielfeld {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Bad Orb Spielfeld"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Bad Orb Spielfeld"
+    MainType "Name Local"
+   }
+  }
+  coords 3840.554 176.165 4117.064
+ }
+ Krestberg {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Krestberg"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Krestberg"
+    MainType "Name Local"
+   }
+  }
+  coords 3622.83 252.428 4984.954
+ }
+ Wasserberg {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Wasserberg"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Wasserberg"
+    MainType "Name Local"
+   }
+  }
+  coords 3485.785 288.396 3578.829
+ }
+ Orb_River {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Orb"
+    }
+    m_bAutoRegister NEVER
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Orb"
+    MainType "Name Water Minor"
+   }
+  }
+  coords 1124.114 139.5 4393.078
+ }
+ Orb_River3 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Orb"
+    }
+    m_bAutoRegister NEVER
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Orb"
+    MainType "Name Water Minor"
+   }
+  }
+  coords 1570.898 140.023 4428.282
+ }
+ Orb_River5 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Orb"
+    }
+    m_bAutoRegister NEVER
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Orb"
+    MainType "Name Water Minor"
+   }
+  }
+  coords 1998.493 142.976 4549.421
+ }
+ Orb_River7 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Orb"
+    }
+    m_bAutoRegister NEVER
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Orb"
+    MainType "Name Water Minor"
+   }
+  }
+  coords 2398.426 147.313 4462.582
+ }
+ Orb_River9 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Orb"
+    }
+    m_bAutoRegister NEVER
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Orb"
+    MainType "Name Water Minor"
+   }
+  }
+  coords 3196.082 150.65 4390.688
+ }
+ Orb_River11 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Orb"
+    }
+    m_bAutoRegister NEVER
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Orb"
+    MainType "Name Water Minor"
+   }
+  }
+  coords 3736.308 159.516 4100.498
+ }
+ Orb_River13 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Orb"
+    }
+    m_bAutoRegister NEVER
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Orb"
+    MainType "Name Water Minor"
+   }
+  }
+  coords 4392.14 163.699 3834.686
+ }
+ Orb_River15 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Orb"
+    }
+    m_bAutoRegister NEVER
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Orb"
+    MainType "Name Water Minor"
+   }
+  }
+  coords 5018.623 166.573 3398.593
+ }
+}

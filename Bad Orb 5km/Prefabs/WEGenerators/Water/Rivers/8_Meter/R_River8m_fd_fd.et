@@ -1,0 +1,6 @@
+RiverEntity : "{EFF9AED298BAD573}Prefabs/WEGenerators/Water/River/R_River6m.et" {
+ ID "585CE010C8CF2CF1"
+ Width 10
+ SplineOffsetUp 1.2
+ GUID "60BB61EC4378B3DE"
+}

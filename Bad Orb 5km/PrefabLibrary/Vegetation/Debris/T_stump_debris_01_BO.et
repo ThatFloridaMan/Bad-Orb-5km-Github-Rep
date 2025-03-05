@@ -1,0 +1,11 @@
+GenericEntity : "{64D5230774EE692C}Prefabs/Vegetation/Tree/Debris/T_stump_debris_01.et" {
+ ID "52C89373CE84C7ED"
+ editorData {
+  RandomizationEditorData "{61F935B341F4B1BD}" {
+   randomYaw 1
+   alignToNormal 1
+   randomScale 0.8 1.2
+   randomPitchAngle 5
+  }
+ }
+}

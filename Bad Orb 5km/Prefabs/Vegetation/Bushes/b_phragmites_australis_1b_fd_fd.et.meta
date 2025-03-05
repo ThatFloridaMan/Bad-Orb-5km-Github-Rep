@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{62E18D43E3AFAC48}Prefabs/Vegetation/Bush/b_phragmites_australis_1b.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

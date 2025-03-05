@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{18E55E3AA7C8C645}Prefabs/Structures/Infrastructure/Naval/Piers/Pier_04.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,5 @@
+TerrainMaterial : "{916E4B9FEFDDDAAC}Terrains/Common/Surfaces/MountainGrass_01.emat" {
+ SatMapBlend 0
+ SatMapBrightness 0
+ PlantMat "{6587069AC8C1DDED}Assets/Clutter/Procedural/cp_MountainGrass_01_fd.emat"
+}

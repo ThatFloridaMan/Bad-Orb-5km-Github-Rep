@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{FF391BC34318D597}Prefabs/WEGenerators/Pavements/Asphalt/WG_Asphalt_Pavement_01_Wide.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

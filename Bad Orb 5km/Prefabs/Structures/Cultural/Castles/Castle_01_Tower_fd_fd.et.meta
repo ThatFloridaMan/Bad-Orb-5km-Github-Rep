@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{5BD837BF70427133}Prefabs/Structures/Cultural/Castles/Castle_01_Tower.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

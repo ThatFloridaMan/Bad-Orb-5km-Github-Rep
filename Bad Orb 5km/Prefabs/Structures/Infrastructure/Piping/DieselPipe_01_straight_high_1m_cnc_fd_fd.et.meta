@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{0B0E73ED2357A05C}Prefabs/Structures/Infrastructure/Piping/DieselPipe_01_straight_high_1m_cnc.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,58 @@
+$grp SCR_DestructibleBuildingEntity : "{460C3F0B0DE1F90D}Prefabs/Structures/Infrastructure/Bridges/ConcreteBridge_01/ConcreteBridge_01_Wide_PillarBig.et" {
+ {
+  coords 450.813 138.126 3431.105
+  angleY -42
+ }
+ {
+  coords 442.091 138.157 3440.762
+  angleY -42
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{4943BEB1103ADC45}Prefabs/Structures/Walls/Concrete/ConcreteRetainingWall_01/ConcreteRetainingWall_01_4m_90.et" {
+ {
+  coords 460.378 133.749 3431.552
+  angleY 138.363
+  Flags 3
+ }
+ {
+  coords 443.412 133.728 3450.701
+  angleY 48.104
+  Flags 3
+ }
+ {
+  coords 450.819 133.749 3457.367
+  angleY -41.637
+  Flags 3
+ }
+ {
+  coords 467.785 133.836 3438.218
+  angleY -131.896
+  Flags 3
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{7DB8D77A68940D61}Prefabs/Structures/Walls/Concrete/ConcreteRetainingWall_01/ConcreteRetainingWall_01_8m.et" {
+ {
+  coords 457.182 133.782 3436.289
+  angleY 48.363
+ }
+ {
+  coords 452.01 133.782 3442.107
+  angleY 48.363
+ }
+ {
+  coords 447.597 133.782 3447.071
+  angleY 48.363
+ }
+ {
+  coords 454.015 133.782 3452.63
+  angleY -131.637
+ }
+ {
+  coords 459.187 133.782 3446.812
+  angleY -131.637
+ }
+ {
+  coords 463.6 133.782 3441.848
+  angleY -131.637
+ }
+}

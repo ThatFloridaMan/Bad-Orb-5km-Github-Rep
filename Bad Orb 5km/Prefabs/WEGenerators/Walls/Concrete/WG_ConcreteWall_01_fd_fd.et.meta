@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{2D864D5F1C4AB0C1}Prefabs/WEGenerators/Walls/Concrete/WG_ConcreteWall_01.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

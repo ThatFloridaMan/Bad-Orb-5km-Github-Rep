@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{69C0826D0263EB73}Prefabs/Structures/Airport/AirfieldPipeline_01/AirfieldPipeline_01_pump.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

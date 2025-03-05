@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{F9CF7B0E9B97B013}Prefabs/WEGenerators/Powerline/PG_PowerLine_HV_01_Concrete.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

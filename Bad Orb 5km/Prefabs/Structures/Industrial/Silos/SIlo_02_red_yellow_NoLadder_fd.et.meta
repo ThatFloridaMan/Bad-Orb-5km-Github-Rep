@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{F66B55C95EADE6D5}Prefabs/Structures/Industrial/Silos/SIlo_02_red_yellow_NoLadder_fd.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

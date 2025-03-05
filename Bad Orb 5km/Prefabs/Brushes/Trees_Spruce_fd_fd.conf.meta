@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{ACB321B9D7FA0836}Prefabs/Brushes/Trees_Spruce.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}

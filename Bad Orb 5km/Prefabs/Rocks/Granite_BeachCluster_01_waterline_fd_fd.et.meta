@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{4C170E579853FDBC}Prefabs/Rocks/Granite/Granite_BeachCluster_01_waterline.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

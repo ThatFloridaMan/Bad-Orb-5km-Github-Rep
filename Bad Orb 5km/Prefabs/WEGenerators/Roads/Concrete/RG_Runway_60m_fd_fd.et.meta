@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{ECDB72CAC0EFF240}Prefabs/WEGenerators/Roads/Concrete/RG_Runway_60m.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

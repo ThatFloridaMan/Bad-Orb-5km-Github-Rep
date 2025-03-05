@@ -1,0 +1,5 @@
+Grass : "{3FC4219441C1A234}Assets/Clutter/Procedural/cp_forest_con_01.emat" {
+ SpecularMul 0.5
+ Plants 45
+ Height 0.25
+}

@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{26CB07AAAAA7AE09}Prefabs/Vegetation/Tree/t_tilia_cordata_3s.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{18B3FC16114F6548}Prefabs/WEGenerators/Water/River/R_Deformer8m.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

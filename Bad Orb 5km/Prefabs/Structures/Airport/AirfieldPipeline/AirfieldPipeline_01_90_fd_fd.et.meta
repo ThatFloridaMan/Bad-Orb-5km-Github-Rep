@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{C961CFEF127BA48D}Prefabs/Structures/Airport/AirfieldPipeline_01/AirfieldPipeline_01_90.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,13 @@
+WallGeneratorEntity : "{1D54F9B155264349}Prefabs/WEGenerators/Walls/Brick/WG_BrickWall_01.et" {
+ ID "4F83A784C9F9EF8E"
+ Flags 1048579
+ m_aWallGroups {
+  WallLengthGroup "{4F83A784C39D6AAB}" {
+   m_aWallPrefabs {
+    WallWeightPair "{4F83A7843D643BBC}" {
+     m_fWeight 0
+    }
+   }
+  }
+ }
+}

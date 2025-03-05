@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{AF7963912D50ABFB}Prefabs/Props/Airport/RunwayLightPortable_01/RunwayLightPortable_01_red.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

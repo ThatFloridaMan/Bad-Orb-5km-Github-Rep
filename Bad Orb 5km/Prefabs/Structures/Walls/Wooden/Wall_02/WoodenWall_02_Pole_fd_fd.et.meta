@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{AF741E541119E679}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_Pole.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

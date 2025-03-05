@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{9D1D30F36F79B0B4}Prefabs/Vegetation/Tree/t_betula_pendula_2s.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

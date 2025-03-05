@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{22325E7D9CC399D7}Prefabs/Props/Garbage/Cardboard/Cardboard_Pile_06.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

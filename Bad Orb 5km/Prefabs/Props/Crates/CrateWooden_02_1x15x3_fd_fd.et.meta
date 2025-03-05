@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{75AAC4EE3A3E4A3E}Prefabs/Props/Crates/CrateWooden_02/CrateWooden_02_1x15x3.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

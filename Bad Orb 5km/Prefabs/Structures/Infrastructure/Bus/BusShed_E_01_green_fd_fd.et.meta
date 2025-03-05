@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{285B05C74F242593}Prefabs/Structures/Infrastructure/Bus/BusShed_E_01/BusShed_E_01_green.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

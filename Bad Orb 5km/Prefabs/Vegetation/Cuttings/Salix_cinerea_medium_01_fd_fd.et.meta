@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{D16F58EC1C0027D8}Prefabs/Vegetation/Cuttings/Salix_cinerea_medium_01.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

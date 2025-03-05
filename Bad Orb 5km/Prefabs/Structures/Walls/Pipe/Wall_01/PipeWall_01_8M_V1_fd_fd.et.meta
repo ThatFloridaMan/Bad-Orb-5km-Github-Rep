@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{364CF9548851C9C0}Prefabs/Structures/Walls/Pipe/PipeWall_01/PipeWall_01_8M_V1.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

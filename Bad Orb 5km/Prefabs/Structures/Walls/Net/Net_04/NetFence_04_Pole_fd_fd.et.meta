@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{8D12D233C4F7BE12}Prefabs/Structures/Walls/Net/NetFence_04/NetFence_04_Pole.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

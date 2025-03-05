@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{048E081E0B7E57E5}Prefabs/Structures/Agriculture/Hotbed/Hotbed_01_Open.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

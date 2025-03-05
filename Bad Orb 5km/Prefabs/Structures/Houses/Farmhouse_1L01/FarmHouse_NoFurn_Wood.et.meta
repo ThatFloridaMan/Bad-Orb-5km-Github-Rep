@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{1F28F8D4BDBD3EBC}Prefabs/Structures/Houses/Farmhouse_1L01/FarmHouse_NoFurn_Wood.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

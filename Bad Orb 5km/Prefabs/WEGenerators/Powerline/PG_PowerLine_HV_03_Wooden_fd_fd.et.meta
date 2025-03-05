@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{B060731772C6D28E}Prefabs/WEGenerators/Powerline/PG_PowerLine_HV_03_Wooden.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

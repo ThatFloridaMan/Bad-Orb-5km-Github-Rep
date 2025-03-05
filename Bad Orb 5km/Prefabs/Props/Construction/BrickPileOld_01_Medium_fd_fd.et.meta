@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{B2B3CD9072A310F4}Prefabs/Props/Construction/BrickPile/BrickPileOld_01_Medium.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

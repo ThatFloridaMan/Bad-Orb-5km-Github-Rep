@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{F54738CD001CB337}Prefabs/Structures/Signs/Warnings/SignDangerCurve_01_left.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

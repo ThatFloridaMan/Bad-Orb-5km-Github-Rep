@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{17CE085B2BE64EF6}Prefabs/Vegetation/Tree/t_picea_abies_3s.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

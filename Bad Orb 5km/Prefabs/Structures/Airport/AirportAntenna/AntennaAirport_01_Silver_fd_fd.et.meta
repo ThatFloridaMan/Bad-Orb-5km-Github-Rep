@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{3D7A7A6C8F6C6BE1}Prefabs/Structures/Airport/AntennaAirport_01/AntennaAirport_01_Silver.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

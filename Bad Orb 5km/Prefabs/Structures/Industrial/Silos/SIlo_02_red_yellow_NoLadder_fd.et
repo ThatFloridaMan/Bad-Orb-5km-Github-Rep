@@ -1,0 +1,16 @@
+SCR_DestructibleBuildingEntity : "{D8C72E00AA25C06A}Prefabs/Structures/Industrial/Silos/Silo_02_red_yellow_fd_fd.et" {
+ ID "F0DBA538AC2A0552"
+ coords 3240.85 1.206 3363.56
+ angleY 68
+ scale 0.041
+ {
+  GameEntity {
+   ID "55E6DB5EA1CC75E5"
+   components {
+    LadderComponent "{588EECC514BB6DFC}" {
+     Enabled 0
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{6F71AF21742BD63C}Prefabs/WEGenerators/Powerline/PG_Powerline_EHV_Half.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

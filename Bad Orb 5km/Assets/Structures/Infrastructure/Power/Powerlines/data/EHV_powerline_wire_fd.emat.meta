@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{6645934A706237B6}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire_fd.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

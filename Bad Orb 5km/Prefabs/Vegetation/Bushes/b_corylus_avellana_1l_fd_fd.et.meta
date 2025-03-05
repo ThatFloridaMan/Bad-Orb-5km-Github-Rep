@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{0D0A8FDAA4C367BB}Prefabs/Vegetation/Bush/b_corylus_avellana_1l.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{AB93A765E4B83BD8}Prefabs/Structures/Infrastructure/Naval/Slipway_01/Slipway_01_winch.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

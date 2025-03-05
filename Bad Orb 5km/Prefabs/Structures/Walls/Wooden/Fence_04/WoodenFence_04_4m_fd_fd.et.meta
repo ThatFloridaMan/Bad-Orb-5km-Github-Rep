@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{0B1CD1CD3EABEA2E}Prefabs/Structures/Walls/Wooden/WoodenFence_04/WoodenFence_04_4m.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

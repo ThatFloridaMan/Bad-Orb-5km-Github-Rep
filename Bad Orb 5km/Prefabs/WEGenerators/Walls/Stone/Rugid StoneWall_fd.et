@@ -1,0 +1,22 @@
+WallGeneratorEntity : "{AFBC8775A67A25AB}Prefabs/WEGenerators/Walls/Stone/WG_StoneWall_01.et" {
+ ID "5644A9A660138177"
+ Flags 1048579
+ FirstObjectOffsetUp -0.25
+ LastObjectOffsetUp -0.25
+ m_fOvershoot 5
+ m_aWallGroups {
+  WallLengthGroup "{5644A9A6C0E629A7}" {
+   m_aWallPrefabs {
+    WallWeightPair "{5644A9A608EBC51E}" {
+     m_fWeight 0.2
+    }
+    WallWeightPair "{61E10E43167227B9}" {
+     m_sWallAsset "{EEE23553967B32A8}Prefabs/Structures/Walls/Stone/StoneWall_01/StoneWall_01_8m.et"
+     m_fPrePadding -1
+     m_fPostPadding -1
+    }
+   }
+  }
+ }
+ ExactPlacement 1
+}

@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{1FE98F22E001FD1A}Prefabs/Vegetation/Plant/CurbsideWeeds_03.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

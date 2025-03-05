@@ -1,0 +1,13 @@
+WallGeneratorEntity : "{2F2706D3952846F0}Prefabs/WEGenerators/Walls/Wooden/WG_WoodenWall_02.et" {
+ ID "55BA69B28EECB2C2"
+ Flags 1048579
+ m_aWallGroups {
+  WallLengthGroup "{55BA69BDC82071EB}" {
+   m_aWallPrefabs {
+    WallWeightPair "{55BA69BD56ADF1C6}" {
+     m_fWeight 0.2
+    }
+   }
+  }
+ }
+}

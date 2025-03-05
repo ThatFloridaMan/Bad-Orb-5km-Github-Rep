@@ -1,0 +1,5 @@
+TerrainMaterial : "{07FC277559849F54}Terrains/Common/Surfaces/Crop_Field_01.emat" {
+ SatMapBlend 0
+ SatMapBrightness 0
+ PlantMat "{35145F64CF900A9F}Assets/Clutter/Procedural/cp_wheat_01_fd.emat"
+}

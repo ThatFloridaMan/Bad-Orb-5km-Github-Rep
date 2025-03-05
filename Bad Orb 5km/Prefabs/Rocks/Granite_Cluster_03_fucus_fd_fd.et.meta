@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{F1CA2255BAE3B522}Prefabs/Rocks/Granite/Granite_Cluster_03_fucus.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

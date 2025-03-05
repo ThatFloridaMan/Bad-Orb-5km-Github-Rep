@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{66014E6A199735B7}Prefabs/Structures/Infrastructure/Naval/Piers/PierConcrete_01_corner_90.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

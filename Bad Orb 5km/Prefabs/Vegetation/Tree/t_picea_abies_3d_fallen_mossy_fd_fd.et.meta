@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{8368AB77B4188CD1}Prefabs/Vegetation/Tree/t_picea_abies_3d_fallen_mossy.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

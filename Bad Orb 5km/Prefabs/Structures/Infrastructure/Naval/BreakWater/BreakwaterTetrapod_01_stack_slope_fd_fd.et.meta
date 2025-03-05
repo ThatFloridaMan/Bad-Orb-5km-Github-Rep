@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{6911F64610CD275C}Prefabs/Structures/Infrastructure/Naval/Breakwater/BreakwaterTetrapod_01_stack_slope.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

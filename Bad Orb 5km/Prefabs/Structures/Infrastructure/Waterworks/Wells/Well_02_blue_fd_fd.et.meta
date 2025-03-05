@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{187372A6977B0DD0}Prefabs/Structures/Infrastructure/Waterworks/Well_02/Well_02_blue.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{F85FC719F392E7A6}Prefabs/Rocks/Granite/Granite_Boulder_02_Fucus.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

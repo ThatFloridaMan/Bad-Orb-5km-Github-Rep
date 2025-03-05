@@ -1,0 +1,896 @@
+SCR_DestructibleBuildingEntity : "{A43A100E3C377DB2}Prefabs/Structures/Core/Building_Base.et" {
+ ID "F0DBA538AC2A0552"
+ components {
+  MeshObject "{506EDA9D46FC6C06}" {
+   Object "{64ED080B5D3952D1}Assets/Structures/Houses/Farm/FarmHouse_E_1L01/FarmHouse_E_1L01.xob"
+  }
+  RigidBody "{506EDA9CBE1B57FF}" {
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ coords 1986.518 0.576 2841.9
+ angleY 88
+ SlotBoneMappings {
+  SlotBoneMappingObject "{50B8825DB562C14D}" {
+   BonePrefix "socket_door_ext_left"
+   Prefab "{79F622DEBB73D581}Prefabs/Structures/BuildingParts/Doors/DoorSet_Village_E_01_L_EXT_COV_B_brown.et"
+  }
+  SlotBoneMappingObject "{50C67D56CD8A128D}" {
+   BonePrefix "socket_door_int_left"
+   Prefab "{66A908B66DC3277A}Prefabs/Structures/BuildingParts/Doors/DoorSet_Village_E_01_L_INT_COV_B.et"
+  }
+  SlotBoneMappingObject "{50C67D56166C7D43}" {
+   BonePrefix "socket_win_110x142"
+   Prefab "{203AFC658425D62D}Prefabs/Structures/BuildingParts/Windows/Win_FarmHouse_E_A/win_FarmHouse_E_A_110x142_2_B.et"
+  }
+  SlotBoneMappingObject "{50C67D5609D5CFBB}" {
+   BonePrefix "socket_win_130x142"
+   Prefab "{4D1DF12D134D10A6}Prefabs/Structures/BuildingParts/Windows/Win_FarmHouse_E_A/win_FarmHouse_E_A_130x142_333_B.et"
+  }
+  SlotBoneMappingObject "{50C67D56037A9B6B}" {
+   BonePrefix "Socket_Win_130x72"
+   Prefab "{718A5E3465E90E3C}Prefabs/Structures/BuildingParts/Windows/Win_village_e_a_130x72_2_M1_brown.et"
+  }
+  SlotBoneMappingObject "{50C67D560503413A}" {
+   BonePrefix "socket_win_70x72"
+   Prefab "{DF739D7D6C6DF9A8}Prefabs/Structures/BuildingParts/Windows/Win_FarmHouse_E_A/win_FarmHouse_E_A_70x72_1_B.et"
+  }
+  SlotBoneMappingObject "{50E86A95A04347F5}" {
+   BonePrefix "Socket_Win_50x75"
+   Prefab "{1F11CE1131DB97E8}Prefabs/Structures/BuildingParts/Windows/win_roof_50x75_1_B.et"
+  }
+  SlotBoneMappingObject "{50E86A958469C2F9}" {
+   BonePrefix "Socket_Win_90x130"
+   Prefab "{4FD835A00626678F}Prefabs/Structures/BuildingParts/Windows/Win_FarmHouse_E_A/win_FarmHouse_E_A_90x130_2_M1.et"
+  }
+  SlotBoneMappingObject "{555CDCE35A4637A5}" {
+   BonePrefix "socket_entry"
+   Prefab "{FA188839C5E6DAD3}Prefabs/Structures/BuildingParts/Entry/Entry_Direct_01_narrow.et"
+  }
+ }
+ {
+  Building : "{1F11CE1131DB97E8}Prefabs/Structures/BuildingParts/Windows/win_roof_50x75_1_B.et" {
+   ID "615B19C49D6E3739"
+   components {
+    Hierarchy "{555CDCE34C255BDE}" {
+     Enabled 1
+     PivotID "Socket_Win_50x75_01"
+     AutoTransform 1
+    }
+   }
+   coords 0 0 0
+  }
+  $grp Building : "{203AFC658425D62D}Prefabs/Structures/BuildingParts/Windows/Win_FarmHouse_E_A/win_FarmHouse_E_A_110x142_2_B.et" {
+   {
+    ID "615B19C49D6DB61E"
+    components {
+     Hierarchy "{555CDCE34C22F56F}" {
+      Enabled 1
+      PivotID "Socket_Win_110x142_005"
+      AutoTransform 1
+     }
+    }
+    coords 0 0 0
+   }
+   {
+    ID "615B19C49D6E0BA0"
+    components {
+     Hierarchy "{555CDCE34C23091C}" {
+      Enabled 1
+      PivotID "Socket_Win_110x142_002"
+      AutoTransform 1
+     }
+    }
+    coords 0 0 0
+   }
+   {
+    ID "615B19C49D6E0BA1"
+    components {
+     Hierarchy "{555CDCE34C2325C6}" {
+      Enabled 1
+      PivotID "Socket_Win_110x142_01"
+      AutoTransform 1
+     }
+    }
+    coords 0 0 0
+   }
+   {
+    ID "615B19C49D6E0BA2"
+    components {
+     Hierarchy "{555CDCE34C231DD0}" {
+      Enabled 1
+      PivotID "Socket_Win_110x142_003"
+      AutoTransform 1
+     }
+    }
+    coords 0 0 0
+   }
+   {
+    ID "615B19C49D6E0BA3"
+    components {
+     Hierarchy "{555CDCE34C22E1CA}" {
+      Enabled 1
+      PivotID "Socket_Win_110x142_004"
+      AutoTransform 1
+     }
+    }
+    coords 0 0 0
+   }
+   {
+    ID "615B19C49D6E3722"
+    components {
+     Hierarchy "{555CDCE34C22A3F6}" {
+      Enabled 1
+      PivotID "Socket_Win_110x142_007"
+      AutoTransform 1
+     }
+    }
+    coords 0 0 0
+   }
+   {
+    ID "615B19C49D6E3724"
+    components {
+     Hierarchy "{555CDCE34C22D83A}" {
+      Enabled 1
+      PivotID "Socket_Win_110x142_006"
+      AutoTransform 1
+     }
+    }
+    coords 0 0 0
+   }
+   {
+    ID "615B19C49D6E3725"
+    components {
+     Hierarchy "{555CDCE34C22B462}" {
+      Enabled 1
+      PivotID "Socket_Win_110x142_008"
+      AutoTransform 1
+     }
+    }
+    coords 0 0 0
+   }
+  }
+  $grp GenericEntity : "{2352CDA5DE899D42}Prefabs/Props/Furniture/CurtainsWindow_01/CurtainsWindow_01_small_V1.et" {
+   {
+    ID "615B19C49D6D7B0B"
+    coords 4.803 1.754 -5.346
+    angleY -90
+   }
+   {
+    ID "615B19C49D6D81C8"
+    coords 2.12 1.764 -8.369
+   }
+   {
+    ID "615B19C49D6DB612"
+    coords -2.113 1.764 -8.369
+   }
+  }
+  GenericEntity : "{28411B0C79460DF8}Prefabs/Structures/Core/BuildingFurniture_base.et" {
+   ID "615B19C49D6CD7E7"
+   coords 0 0 0
+   {
+    $grp GenericEntity : "{0164749D6EAA4518}Prefabs/Props/Furniture/Bed_01.et" {
+     {
+      ID "615B19C49D6CD7E5"
+      coords -7.829 3.583 -6.704
+      angleY -90
+     }
+     {
+      ID "615B19C49D6CD7EA"
+      coords -7.872 3.583 -3.955
+      angleY -90
+     }
+    }
+    GenericEntity : "{027DFD4BB8D66F61}Prefabs/Props/Furniture/BenchWooden_03.et" {
+     ID "615B19C49D6CD7EB"
+     coords 4.634 0.278 3.399
+     angleY 90
+    }
+    GenericEntity : "{0879933F4FDD2C2B}Prefabs/Props/Civilian/SackUniversal_01_Pile.et" {
+     ID "615B19C49D6CD7E9"
+     coords 3.647 3.531 -1.188
+    }
+    GenericEntity : "{0DC4F830876C6671}Prefabs/Props/Furniture/Chair_02/Chair_02_green.et" {
+     ID "615B19C49D6CD7EC"
+     coords 0.658 0.28 -7.691
+     angleY 86.9
+    }
+    GenericEntity : "{1112756E8A13445B}Prefabs/Props/Industrial/Pallets/Pallet_01_Pile.et" {
+     ID "615B19C49D6CD7ED"
+     coords -1.431 0.278 3.725
+     angleY 0
+    }
+    GenericEntity : "{1AB7A2C69A30391D}Prefabs/Props/Furniture/CoatRack_01.et" {
+     ID "615B19C49D6CD7D3"
+     coords -8.978 0.278 -4.343
+     angleY -90
+    }
+    $grp GenericEntity : "{23EDC2B8CDEE124F}Prefabs/Props/Furniture/Cupboard_01_F.et" {
+     {
+      ID "615B19C49D6C7C47"
+      coords 4.858 0.285 -7.701
+      angleY -90
+     }
+     {
+      ID "615B19C49D6CD7D7"
+      coords -2.15 3.583 -3.556
+      angleY -90
+     }
+    }
+    GenericEntity : "{29BA0E995E24468D}Prefabs/Props/Furniture/PlantRoom_03.et" {
+     ID "615B19C49D6C7C44"
+     coords 4.469 1.29 -3.824
+    }
+    GenericEntity : "{2B0BD0720F8FB3A7}Prefabs/Props/Industrial/Workbench_Vice_01.et" {
+     ID "615B19C49D6C7C4A"
+     coords 1.059 1.287 10.166
+     angleY -90.876
+    }
+    GenericEntity : "{2B1D0128ED660BE9}Prefabs/Props/Crates/BoxWooden_01.et" {
+     ID "615B19C49D6C7C48"
+     coords 0.276 0.689 -1.507
+    }
+    GenericEntity : "{2BF58454BEAB913D}Prefabs/Props/Industrial/Pallets/WoodenPalletBox_01_Wood.et" {
+     ID "615B19C49D6C7C49"
+     coords 4.321 0.278 10.09
+    }
+    GenericEntity : "{2ED930A7BA4156F5}Prefabs/Props/Furniture/MirrorBathroom_01.et" {
+     ID "615B19C49D6C7C4F"
+     coords -2.115 1.622 -3.007
+     angleY -90
+    }
+    GenericEntity : "{313CC1F195E06A6E}Prefabs/Props/Furniture/TVSet_01.et" {
+     ID "615B19C49D6C7C4C"
+     coords 4.455 1.062 -6.843
+     angleY -91.882
+    }
+    GenericEntity : "{32A8909F76A32A71}Prefabs/Props/Decorations/Paintings/PaintingBig_02_V5.et" {
+     ID "615B19C49D6C7C52"
+     coords 0.53 4.947 -7.338
+    }
+    $grp GenericEntity : "{34F74A7DBAD46974}Prefabs/Props/Furniture/LightWall_01.et" {
+     {
+      ID "615B19C49D6BAB58"
+      coords -0.593 2.928 -1.862
+      angleY 2.638
+     }
+     {
+      ID "615B19C49D6BFEB2"
+      coords -3.079 2.689 -2.253
+      angleY -180
+     }
+     {
+      ID "615B19C49D6BFEB3"
+      coords -1.913 4.196 -3.718
+      angleY 87.28
+     }
+    }
+    GenericEntity : "{4107C4893DF2D0D7}Prefabs/Props/Furniture/Chair_02/Chair_02_red.et" {
+     ID "615B19C49D6BAB5B"
+     coords 1.058 0.28 -7.034
+     angleY 172.96
+    }
+    $grp GenericEntity : "{4549BE7A1D414EDA}Prefabs/Props/Furniture/PlantRoom_01.et" {
+     {
+      ID "615B19C49D6B6355"
+      coords 4.605 1.262 -4.36
+      angleY -67.073
+      scale 1.152
+     }
+     {
+      ID "615B19C49D6BAB5A"
+      coords -5.03 4.583 -3.729
+      angleY -90
+     }
+    }
+    GenericEntity : "{49012FE1DEF653EE}Prefabs/Props/Furniture/Sink_01.et" {
+     ID "615B19C49D6B0422"
+     coords -2.121 0.403 -2.986
+     angleY -90
+    }
+    GenericEntity : "{49FF07D895A26DBE}Prefabs/Props/Furniture/LightCeiling_03.et" {
+     ID "615B19C49D6B0424"
+     coords -6.323 6.219 -5.344
+     scale 0.599
+    }
+    GenericEntity : "{4A91907093866B99}Prefabs/Structures/BuildingParts/Misc/ShowerDrain_01.et" {
+     ID "615B19C49D6B0426"
+     coords -3.251 0.274 -4.235
+     angleY -90
+    }
+    $grp GenericEntity : "{5152F05C17652ADB}Prefabs/Props/Civilian/PaintCan_01.et" {
+     {
+      ID "615B19C49D6AA175"
+      coords -0.219 1.668 -1.559
+      angleY -73.133
+     }
+     {
+      ID "615B19C49D6ABF97"
+      coords 4.47 3.601 -0.232
+     }
+     {
+      ID "615B19C49D6B042B"
+      coords 0.107 1.668 -1.559
+     }
+    }
+    GenericEntity : "{51B08BDA20AF8FF7}Prefabs/Props/Industrial/Pallets/WoodenPalletBox_01.et" {
+     ID "615B19C49D6ABF96"
+     coords 4.289 0.278 8.767
+     angleY -0.23
+    }
+    GenericEntity : "{53506DCB398C7EBE}Prefabs/Props/Furniture/Table_01.et" {
+     ID "615B19C49D6ABF90"
+     coords 1.035 0.28 -7.666
+     angleY 91.667
+    }
+    GenericEntity : "{6105032F794BA64B}Prefabs/Props/Civilian/LogChopping_01.et" {
+     ID "615B19C49D6ABF93"
+     coords 1.156 0.278 0.582
+    }
+    $grp GenericEntity : "{62B2ADC4243454F9}Prefabs/Props/Civilian/Jerrycan_01.et" {
+     {
+      ID "615B19C49D6A4932"
+      coords 4.523 0.278 4.63
+     }
+     {
+      ID "615B19C49D6ABF92"
+      coords 4.763 0.278 4.63
+     }
+    }
+    GenericEntity : "{6435D97D7A23D208}Prefabs/Props/Crates/Crate_01_white.et" {
+     ID "615B19C49D6A494C"
+     coords 4.481 1.082 5.68
+    }
+    GenericEntity : "{660BD816AA043589}Prefabs/Props/Furniture/Piano_01_Base.et" {
+     ID "615B19C49D6A494F"
+     coords 1.527 0.278 -2.39
+     angleY 179.729
+    }
+    GenericEntity : "{6E3320C3C37CAFE5}Prefabs/Props/Garbage/Cardboard/Cardboard_Pile_04.et" {
+     ID "615B19C49D6A4949"
+     coords 2.149 0.278 1.32
+     angleY 69.398
+    }
+    GenericEntity : "{726635B9C5427FFB}Prefabs/Props/Civilian/VacuumCleaner_01/VacuumCleaner_01_base.et" {
+     ID "615B19C49D6A4948"
+     coords -0.186 0.278 -1.405
+     angleY -88.425
+    }
+    GenericEntity : "{728DD36004461456}Prefabs/Props/Furniture/Cupboard_01_B.et" {
+     ID "615B19C49D6A494B"
+     coords 0.407 3.578 -4.278
+     angleY 179.096
+    }
+    $grp GenericEntity : "{79F22B7D032BD309}Prefabs/Props/Furniture/TableSmall_01/TableSmall_01_Base.et" {
+     {
+      ID "615B19C49D6A2F39"
+      coords -8.984 3.583 -5.293
+      angleY -90
+     }
+     {
+      ID "615B19C49D6A4945"
+      coords -8.868 0.278 -7.793
+      angleY -90
+     }
+    }
+    $grp GenericEntity : "{85FC23A6E1F49BBE}Prefabs/Structures/BuildingParts/Eletrical/LightSwitch_02.et" {
+     {
+      ID "615B19C49D6838C4"
+      coords -6.107 1.585 -2.817
+      angleY 90
+     }
+     {
+      ID "615B19C49D688D93"
+      coords -6.326 1.586 -6.353
+      angleY -90
+     }
+     {
+      ID "615B19C49D68A8CE"
+      coords -6.326 1.586 -2.899
+      angleY -90
+     }
+     {
+      ID "615B19C49D68C250"
+      coords -1.927 1.668 -4.992
+      angleY 90
+     }
+     {
+      ID "615B19C49D68C257"
+      coords -1.904 4.898 -5.223
+      angleY 90
+     }
+     {
+      ID "615B19C49D68FA35"
+      coords -2.104 4.888 -5.264
+      angleY -90
+     }
+     {
+      ID "615B19C49D695510"
+      coords 2.483 1.603 -2.253
+      angleY -180
+     }
+     {
+      ID "615B19C49D695511"
+      coords -1.926 1.618 7.701
+      angleY 90
+     }
+     {
+      ID "615B19C49D69AF57"
+      coords -6.326 1.586 -2.722
+      angleY -90
+     }
+     {
+      ID "615B19C49D69B0E0"
+      coords -6.127 1.586 -6.253
+      angleY 90
+     }
+     {
+      ID "615B19C49D6A2F38"
+      coords 2.483 1.603 -1.855
+     }
+     {
+      ID "615B19C49D6A2F3B"
+      coords 0.552 1.598 2.147
+      angleY 180
+     }
+    }
+    GenericEntity : "{8987B3EE79A24A44}Prefabs/Structures/BuildingParts/Heating/StoveColumn_01_brown.et" {
+     ID "615B19C49D6838C6"
+     coords -1.087 0.304 10.687
+     angleY -180
+    }
+    GenericEntity : "{8BAF6C3ACF99388E}Prefabs/Props/Garbage/Cardboard/Cardboard_Pile_05.et" {
+     ID "615B19C49D6838C7"
+     coords 1.144 0.278 5.79
+    }
+    GenericEntity : "{8F05D427252644F8}Prefabs/Props/Civilian/Suitcase_01.et" {
+     ID "615B19C49D681360"
+     coords 4.518 3.664 0.434
+     angleX 88.816
+     angleY -180
+     angleZ 96.7
+    }
+    GenericEntity : "{95D947E744336F78}Prefabs/Props/Industrial/Workbench_01.et" {
+     ID "615B19C49D68137F"
+     coords 1.472 0.278 9.482
+     angleY -90.876
+    }
+    GenericEntity : "{97119F9908A3833D}Prefabs/Props/Furniture/Cupboard_01_C.et" {
+     ID "615B19C49D68137E"
+     coords 4.812 0.28 -6.168
+     angleY -90
+    }
+    $grp GenericEntity : "{97CCD43778D034CF}Prefabs/Props/Furniture/LightCeiling_01.et" {
+     {
+      ID "615B19C49D67B0B5"
+      coords -1.098 3.172 -6.697
+      angleY -90
+     }
+     {
+      ID "615B19C49D68137D"
+      coords -7.785 3.146 -5.85
+      angleY -90
+     }
+    }
+    GenericEntity : "{985C3871D40C7F7B}Prefabs/Props/Garbage/Generic/Litter_01_small.et" {
+     ID "615B19C49D67B0B3"
+     coords 3.559 0.278 5.18
+     angleY -61.908
+    }
+    GenericEntity : "{9C231B6AC1BD0A26}Prefabs/Props/Civilian/Broom_01.et" {
+     ID "615B19C49D67B0B2"
+     coords 1.299 0.262 0.129
+     angleX -2.722
+     angleY 98.138
+    }
+    GenericEntity : "{9E6BB1D7AA5D0FEB}Prefabs/Props/Furniture/Stove_01.et" {
+     ID "615B19C49D67B0B0"
+     coords -6.108 0.278 -5.255
+     angleY 179.448
+    }
+    GenericEntity : "{9FE49438E0414334}Prefabs/Props/Furniture/Sofa_01.et" {
+     ID "615B19C49D67B0BF"
+     coords 4.364 3.583 -4.893
+     angleY -90.351
+    }
+    GenericEntity : "{A0683DD8CEF09277}Prefabs/Props/Decorations/Paintings/PaintingBig_01_base.et" {
+     ID "615B19C49D67B0BE"
+     coords 1.479 2.133 10.756
+     angleY -180
+    }
+    $grp GenericEntity : "{A319C11D446D88B3}Prefabs/Props/Furniture/Dresser_01.et" {
+     {
+      ID "615B19C49D67B0BD"
+      coords 4.851 0.291 -3.059
+      angleY -90
+     }
+     {
+      ID "615B19C49D67B167"
+      coords -5.875 3.583 -3.328
+      angleY 179.538
+     }
+    }
+    GenericEntity : "{AA25BAA17DCF0A0A}Prefabs/Props/Furniture/Cupboard_01_D.et" {
+     ID "615B19C49D67992D"
+     coords 3.713 3.578 -7.33
+     angleY 0.823
+    }
+    GenericEntity : "{AC98FF880BD0F2C2}Prefabs/Props/Furniture/Chair_01/Chair_01_base.et" {
+     ID "615B19C49D67992B"
+     coords -4.485 3.583 -7.017
+     angleY 22.462
+    }
+    GenericEntity : "{B3283803059E2750}Prefabs/Props/Crates/CrateWooden_01_plain.et" {
+     ID "615B19C49D67992A"
+     coords 4.434 0.278 5.547
+    }
+    GenericEntity : "{B60865AB934AB9A6}Prefabs/Props/Furniture/StoolPiano_01.et" {
+     ID "615B19C49D679929"
+     coords 1.572 0.278 -3.504
+    }
+    GenericEntity : "{BA8BCF7C77F24A56}Prefabs/Props/Civilian/WoodKindling_01.et" {
+     ID "615B19C49D679928"
+     coords -1.622 0.278 9.844
+     angleY 0
+    }
+    GenericEntity : "{BC3EEB0F1E36272F}Prefabs/Props/Forest/DeerSkull_01/DeerSkull_01_board.et" {
+     ID "615B19C49D679915"
+     coords 0.181 2.326 -8.462
+     angleY 178.513
+    }
+    GenericEntity : "{BD65F1D86388640D}Prefabs/Props/Civilian/FireExtinguisher_01.et" {
+     ID "615B19C49D679914"
+     coords 1.936 0.267 -1.765
+    }
+    GenericEntity : "{C0CCCB68B7147DEC}Prefabs/Props/Furniture/Chair_02/Chair_02_Base.et" {
+     ID "615B19C49D679913"
+     coords 1.472 0.28 -7.93
+     angleY -96.501
+    }
+    GenericEntity : "{C260F0E07274ACA1}Prefabs/Props/Furniture/Boiler_01.et" {
+     ID "615B19C49D679912"
+     coords -2.121 2.165 -3.891
+     angleY -90
+    }
+    GenericEntity : "{C76C3AF337109066}Prefabs/Props/Crates/CardboardBoxStack_01.et" {
+     ID "615B19C49D679911"
+     coords 1.057 0.278 -0.427
+    }
+    GenericEntity : "{CB08BA402C299A75}Prefabs/Props/Decorations/AnimalHide_01.et" {
+     ID "615B19C49D679910"
+     coords 4.886 2.125 -3.709
+     angleX 19.542
+     angleZ -90
+    }
+    GenericEntity : "{CBADF2BB9A4BD3DD}Prefabs/Props/Decorations/Paintings/PaintingBig_01_V9.et" {
+     ID "615B19C49D67991E"
+     coords -4.333 2.044 -8.453
+    }
+    $grp GenericEntity : "{D0BD7A55306FC46B}Prefabs/Props/Furniture/Faucet_01.et" {
+     {
+      ID "615B19C49D66BB31"
+      coords -2.124 1.491 -3.009
+      angleY -87.682
+     }
+     {
+      ID "615B19C49D670228"
+      coords -4.929 1.599 -5.215
+      angleY -178.714
+     }
+    }
+    GenericEntity : "{D51E223FD6EDB039}Prefabs/Props/Furniture/ClockWall_01.et" {
+     ID "615B19C49D66BB33"
+     coords -6.131 2.544 -5.88
+     angleY 89.607
+    }
+    GenericEntity : "{D5247F493225CA91}Prefabs/Props/Civilian/WateringCan_01.et" {
+     ID "615B19C49D66BB34"
+     coords 4.111 0.278 4.622
+     angleY -72.418
+    }
+    $grp GenericEntity : "{D5C3CF5996B43A27}Prefabs/Props/Civilian/BasketWicker_01.et" {
+     {
+      ID "615B19C49D66BB35"
+      coords 0.163 3.585 -1.233
+      angleY 0
+     }
+     {
+      ID "615B19C49D66BB36"
+      coords -1.413 0.278 -0.863
+      angleY 0
+     }
+    }
+    GenericEntity : "{D734DC667A46BD1A}Prefabs/Props/Decorations/Paintings/PaintingBig_02_V4.et" {
+     ID "615B19C49D66BB37"
+     coords 2.243 4.848 -2.336
+     angleY 180
+    }
+    GenericEntity : "{DAD9EE3FEBDEE5D9}Prefabs/Structures/BuildingParts/Misc/GrateInt_01.et" {
+     ID "615B19C49D66BB2A"
+     coords -2.755 2.499 -4.652
+     angleY -90
+    }
+    $grp GenericEntity : "{DAFA84A74B550694}Prefabs/Structures/BuildingParts/Heating/RadiatorCastIron_01/RadiatorCastIron_01_95.et" {
+     {
+      ID "615B19C49D65C812"
+      coords 2.138 0.869 -8.462
+      angleY 0.213
+     }
+     {
+      ID "615B19C49D6652CC"
+      coords -2.129 0.892 -8.424
+      angleY 0.213
+     }
+     {
+      ID "615B19C49D66BB2C"
+      coords -9.268 0.848 -5.381
+      angleY 89.916
+     }
+     {
+      ID "615B19C49D66BDF5"
+      coords 4.822 0.858 -5.366
+      angleY -89.503
+     }
+    }
+    GenericEntity : "{DD276F73BF101155}Prefabs/Props/Civilian/Heater_01/Heater_01_orange.et" {
+     ID "615B19C49D65C810"
+     coords -1.682 0.278 0.533
+     angleY 92.386
+    }
+    GenericEntity : "{DEE73EC3DF43A836}Prefabs/Props/Furniture/Shower_01_addon.et" {
+     ID "615B19C49D65460D"
+     coords -3.365 1.242 -4.997
+    }
+    GenericEntity : "{E66C895D628B01A2}Prefabs/Props/Furniture/Kitchen_01_base.et" {
+     ID "615B19C49D65460C"
+     coords -5.418 0.283 -5.218
+     angleY 179.048
+    }
+    $grp GenericEntity : "{E7FB58DA735DB7A0}Prefabs/Props/Garbage/Cardboard/Cardboard_Pile_06.et" {
+     {
+      ID "615B19C49D651D9E"
+      coords 4.39 0.278 7.751
+     }
+     {
+      ID "615B19C49D654603"
+      coords 0.554 3.595 0.903
+     }
+    }
+    GenericEntity : "{EA00F95E0F2A342D}Prefabs/Props/Decorations/Paintings/PaintingBig_02_V3.et" {
+     ID "615B19C49D6485A2"
+     coords -9.264 5.139 -4.275
+     angleY 90
+    }
+    GenericEntity : "{EF49B1F62D20ABD1}Prefabs/Props/Garbage/Cardboard/Cardboard_05.et" {
+     ID "615B19C49D6485A3"
+     coords 3.834 0.278 7.213
+    }
+    GenericEntity : "{F49E9F098C6069AD}Prefabs/Props/Furniture/Toilet_01.et" {
+     ID "615B19C49D6485A0"
+     coords -4.506 0.247 -4.997
+    }
+    $grp GenericEntity : "{F4CA533A99B20DAE}Prefabs/Props/Civilian/SackUniversal_01.et" {
+     {
+      ID "615B19C49D6446BB"
+      coords -1.74 0.12 2.6
+      angleX 14.027
+      angleY 24.559
+      angleZ 0.139
+     }
+     {
+      ID "615B19C49D649E7C"
+      coords -1.613 0.264 -0.269
+      angleX -4.151
+      angleY -91.109
+     }
+    }
+    GenericEntity : "{F6CF869062E6EDB0}Prefabs/Props/Furniture/Rack_01_Long.et" {
+     ID "615B19C49D6446BA"
+     coords 0.671 0.278 -1.841
+    }
+    GenericEntity : "{F6D1E024E82511F9}Prefabs/Props/Crates/Crate_01_base.et" {
+     ID "615B19C49D645060"
+     coords -1.262 1.173 -1.545
+    }
+    GenericEntity : "{F76340CCD79DCC5A}Prefabs/Props/Civilian/RadioSmall_01_red.et" {
+     ID "615B19C49D645067"
+     coords 0.954 1.202 -8.156
+     angleY -12.12
+    }
+    GenericEntity : "{FD47FF9699A52E82}Prefabs/Props/Furniture/Wardrobe_01.et" {
+     ID "615B19C49D63C99E"
+     coords -4.817 3.583 -7.307
+     angleY 0.47
+    }
+    GenericEntity : "{FE47006C7C7869FE}Prefabs/Props/Civilian/LadderWooden_01.et" {
+     ID "615B19C49D63C99F"
+     coords 1.666 0.508 -1.856
+     angleX 14.991
+     angleY 90.532
+     angleZ -90.279
+    }
+    GenericEntity : "{FF8BD8E8A95DB3D2}Prefabs/Props/Furniture/Fridge_01.et" {
+     ID "615B19C49D63BC8F"
+     coords -3.104 0.266 -5.277
+     angleY 88.171
+    }
+   }
+  }
+  $grp Building : "{4D1DF12D134D10A6}Prefabs/Structures/BuildingParts/Windows/Win_FarmHouse_E_A/win_FarmHouse_E_A_130x142_333_B.et" {
+   {
+    ID "615B19C49D6D7B0E"
+    components {
+     Hierarchy "{555CDCE34C22654F}" {
+      Enabled 1
+      PivotID "socket_win_130x142_001"
+      AutoTransform 1
+     }
+    }
+    coords 0 0 0
+   }
+   {
+    ID "615B19C49D6D7B0F"
+    components {
+     Hierarchy "{555CDCE34C25D2A9}" {
+      Enabled 1
+      PivotID "socket_win_130x142_003"
+      AutoTransform 1
+     }
+    }
+    coords 0 0 0
+   }
+   {
+    ID "615B19C49D6D7BF0"
+    components {
+     Hierarchy "{555CDCE34C22093B}" {
+      Enabled 1
+      PivotID "socket_win_130x142_002"
+      AutoTransform 1
+     }
+    }
+    coords 0 0 0
+   }
+  }
+  $grp Building : "{4FD835A00626678F}Prefabs/Structures/BuildingParts/Windows/Win_FarmHouse_E_A/win_FarmHouse_E_A_90x130_2_M1.et" {
+   {
+    ID "615B19C49D6D2341"
+    components {
+     Hierarchy "{555CDCE34C2534EC}" {
+      Enabled 1
+      PivotID "Socket_Win_90x130_01"
+      AutoTransform 1
+     }
+    }
+    coords 0 0 0
+   }
+   {
+    ID "615B19C49D6D7BF2"
+    components {
+     Hierarchy "{555CDCE34C2523B1}" {
+      Enabled 1
+      PivotID "Socket_Win_90x130_02"
+      AutoTransform 1
+     }
+    }
+    coords 0 0 0
+   }
+  }
+  EnvironmentProbeEntity : "{565470F7BA530E0D}Prefabs/Structures/Core/ProbeHouse_Base.et" {
+   ID "615B19C49D6D2347"
+   coords 2.655 2.289 4.876
+  }
+  $grp GenericEntity : "{66A908B66DC3277A}Prefabs/Structures/BuildingParts/Doors/DoorSet_Village_E_01_L_INT_COV_B.et" {
+   {
+    ID "615B19C49D6D2345"
+    components {
+     Hierarchy "{612AE78C85563E26}" {
+      Enabled 1
+      PivotID "socket_door_int_left_002"
+      AutoTransform 1
+     }
+    }
+    coords 0 0 0
+   }
+   {
+    ID "615B19C49D6D2346"
+    components {
+     Hierarchy "{612AE78C85563E26}" {
+      Enabled 1
+      PivotID "socket_door_int_left_01"
+      AutoTransform 1
+     }
+    }
+    coords 0 0 -0.102
+   }
+  }
+  Building : "{718A5E3465E90E3C}Prefabs/Structures/BuildingParts/Windows/Win_village_e_a_130x72_2_M1_brown.et" {
+   ID "615B19C49D6D2344"
+   components {
+    Hierarchy "{555CDCE34C256A34}" {
+     Enabled 1
+     PivotID "socket_win_130x72_001"
+     AutoTransform 1
+    }
+   }
+   coords 0 0 0
+  }
+  GenericEntity : "{AFF73D5B9B383DDF}Prefabs/Structures/BuildingParts/Doors/DoorSet_Village_E_01_L_INT_ST_B_Brown.et" {
+   ID "615B19C49D6D2349"
+   components {
+    Hierarchy "{612AE78C85563E26}" {
+     PivotID "socket_door_int_left_004"
+    }
+   }
+   coords 0 0 -0.021
+  }
+  GenericEntity : "{B6072C47E3447985}Prefabs/Structures/BuildingParts/Doors/DoorSet_Village_E_01_L_EXT_ST_M1.et" {
+   ID "615B19C49D6D2348"
+   components {
+    Hierarchy "{612AE78C85563E26}" {
+     PivotID "socket_door_ext_left_01"
+    }
+   }
+  }
+  GenericEntity : "{C2BCBDB63124A6D3}Prefabs/Structures/BuildingParts/Doors/DoorSet_Village_E_01_L_EXT_ST_B.et" {
+   ID "615B19C49D6D234E"
+   components {
+    Hierarchy "{612AE78C85563E26}" {
+     PivotID "socket_door_ext_left_02"
+    }
+   }
+  }
+  GenericEntity : "{D92709EF3B4E108F}Prefabs/Structures/BuildingParts/Doors/DoorSet_Village_E_01_R_INT_ST_B_brown.et" {
+   ID "615B19C49D6D234C"
+   components {
+    Hierarchy "{612AE78C85563E26}" {
+     PivotID "socket_door_int_left_005"
+    }
+   }
+  }
+  Building : "{DF739D7D6C6DF9A8}Prefabs/Structures/BuildingParts/Windows/Win_FarmHouse_E_A/win_FarmHouse_E_A_70x72_1_B.et" {
+   ID "615B19C49D6D2353"
+   components {
+    Hierarchy "{555CDCE34C2570FC}" {
+     Enabled 1
+     PivotID "Socket_Win_70x72_001"
+     AutoTransform 1
+    }
+   }
+   coords 0 0 0
+  }
+  GenericEntity : "{F41150DA4E5228FE}Prefabs/Structures/BuildingParts/Doors/DoorSet_Village_E_01_L_INT_ST_M1_brown.et" {
+   ID "615B19C49D6D2352"
+   components {
+    Hierarchy "{612AE78C85563E26}" {
+     PivotID "socket_door_int_left_003"
+    }
+   }
+   coords 0 0 -0.02
+  }
+  $grp GenericEntity : "{FA188839C5E6DAD3}Prefabs/Structures/BuildingParts/Entry/Entry_Direct_01_narrow.et" {
+   {
+    ID "615B19C49D6CD7E1"
+    components {
+     Hierarchy "{5488F0388A297CDE}" {
+      Enabled 1
+      PivotID "socket_entry001"
+      AutoTransform 1
+     }
+    }
+    coords 0 0 0
+   }
+   {
+    ID "615B19C49D6D2350"
+    components {
+     Hierarchy "{5488F0388A297CDE}" {
+      Enabled 1
+      PivotID "socket_entry002"
+      AutoTransform 1
+     }
+    }
+    coords 0 0 0
+   }
+  }
+ }
+}

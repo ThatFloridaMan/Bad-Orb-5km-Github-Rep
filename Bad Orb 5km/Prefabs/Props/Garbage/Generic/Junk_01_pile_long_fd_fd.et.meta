@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{A446CB3C732A360E}Prefabs/Props/Garbage/Generic/Junk_01/Junk_01_pile_long.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

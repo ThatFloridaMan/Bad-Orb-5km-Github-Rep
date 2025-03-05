@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{AC19031B62855737}Prefabs/Structures/Infrastructure/Naval/Piers/Pier_01.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

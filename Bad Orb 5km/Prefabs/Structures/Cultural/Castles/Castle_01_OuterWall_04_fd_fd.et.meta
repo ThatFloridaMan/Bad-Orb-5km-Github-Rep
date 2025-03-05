@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{73E276C694D5519D}Prefabs/Structures/Cultural/Castles/Castle_01_OuterWall_04.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

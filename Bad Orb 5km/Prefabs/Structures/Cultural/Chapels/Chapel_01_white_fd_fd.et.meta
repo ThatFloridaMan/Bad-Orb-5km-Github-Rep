@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{5378B50CC2AC5F2B}Prefabs/Structures/Cultural/Chapels/Chapel_01_white.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

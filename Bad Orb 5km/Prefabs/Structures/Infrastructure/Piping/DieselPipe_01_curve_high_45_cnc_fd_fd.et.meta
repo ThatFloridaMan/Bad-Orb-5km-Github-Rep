@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{EBA8CEA81CA379BA}Prefabs/Structures/Infrastructure/Piping/DieselPipe_01_curve_high_45_cnc.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

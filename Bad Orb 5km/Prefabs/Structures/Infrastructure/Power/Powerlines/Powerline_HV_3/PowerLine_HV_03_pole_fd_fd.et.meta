@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{B5C20C5FF3C2CE7D}Prefabs/Structures/Infrastructure/Power/Powerlines/PowerLine_HV_03/PowerLine_HV_03_pole.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

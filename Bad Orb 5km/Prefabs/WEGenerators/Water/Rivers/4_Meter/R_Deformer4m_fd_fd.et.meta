@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{AB9E67F2AF0175A2}Prefabs/WEGenerators/Roads/Dirt/R_DeformerMedium.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

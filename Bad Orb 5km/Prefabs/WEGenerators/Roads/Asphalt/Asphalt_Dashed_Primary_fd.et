@@ -1,0 +1,6 @@
+RoadGeneratorEntity : "{512AB601E1636E27}Prefabs/WEGenerators/Roads/Asphalt/Asphalt_Dashed_Highway_fd.et" {
+ ID "556C6556FAB75B3E"
+ AdjustHeightMapPriority 49
+ RoadClearance 5
+ RoadWidth 9
+}

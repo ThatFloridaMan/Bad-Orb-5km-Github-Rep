@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{B7FE3FE8D2F1DA2A}Prefabs/Structures/Agriculture/Barn/Barn_E_02.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

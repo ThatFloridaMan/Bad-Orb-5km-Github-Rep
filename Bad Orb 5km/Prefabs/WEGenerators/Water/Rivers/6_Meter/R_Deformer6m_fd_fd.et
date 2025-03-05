@@ -1,0 +1,72 @@
+RoadGeneratorEntity : "{F49A6A9439B063BB}Prefabs/WEGenerators/Roads/Dirt/RG_TrailGravel_01.et" {
+ ID "5262CB47BB2B3834"
+ GenerateRoad 0
+ RoadClearance 3
+ RoadWidth 0.1
+ FalloffStartWidth 0.5
+ RoadFalloffWidth 5
+ {
+  RoadEntity {
+   ID "5262CB47BB2B3833"
+   SplinePoints {
+    ShapePoint "{5256DA7852E4536F}" {
+     Position -4.12 -0.162 -0.103
+    }
+    ShapePoint "{5256DA7852E450A5}" {
+     Position 0 0 0
+    }
+    ShapePoint "{60BB2D54509A7946}" {
+     Position 4.785 0.127 -0.025
+    }
+    ShapePoint "{60BB2D54509A7901}" {
+     Position 11.126 0.326 -0.65
+    }
+    ShapePoint "{60BB2D54509A79DF}" {
+     Position 18.514 0.599 -2.042
+    }
+    ShapePoint "{60BB2D54509A79E3}" {
+     Position 22.037 0.766 -4.862
+    }
+    ShapePoint "{60BB2D54509A79B7}" {
+     Position 28.578 1.008 -6.811
+    }
+    ShapePoint "{60BB2D54509A7859}" {
+     Position 35.759 1.317 -5.155
+    }
+    ShapePoint "{60BB2D54509A786F}" {
+     Position 43.524 1.606 -4.25
+    }
+    ShapePoint "{60BB2D54509A783A}" {
+     Position 51.539 1.88 -6.101
+    }
+    ShapePoint "{60BB2D54509A78CF}" {
+     Position 59.843 2.162 -8.467
+    }
+    ShapePoint "{60BB2D54509A789C}" {
+     Position 65.283 2.34 -9.645
+    }
+    ShapePoint "{60BB2D54509A78A1}" {
+     Position 69.958 2.547 -6.793
+    }
+    ShapePoint "{60BB2D54509A7B72}" {
+     Position 73.958 2.801 -2.646
+    }
+    ShapePoint "{60BB2D54509A7B02}" {
+     Position 81.925 3.253 4.379
+    }
+    ShapePoint "{60BB2D54509A7BD2}" {
+     Position 95.698 3.814 8.124
+    }
+    ShapePoint "{60BB2D54509A7BE7}" {
+     Position 112.55 3.35 -3.704
+    }
+    ShapePoint "{60BB2D54509A7BB5}" {
+     Position 118.271 3.154 -8.738
+    }
+   }
+   IsClosedSpline 0
+   Width 0.1
+   Material "{0466DD96755AFBB7}Common/Materials/Default_Transparent_Road.emat"
+  }
+ }
+}

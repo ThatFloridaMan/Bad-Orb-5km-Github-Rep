@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{2FDA5F32B31DA2A8}Prefabs/Vegetation/Tree/Roots/Roots_01_medium.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

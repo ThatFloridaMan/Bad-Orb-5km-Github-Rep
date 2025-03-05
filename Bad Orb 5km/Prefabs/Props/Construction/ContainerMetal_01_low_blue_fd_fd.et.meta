@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{957819AAE28D47B0}Prefabs/Props/Construction/ContainerMetal_01/ContainerMetal_01_low_blue.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

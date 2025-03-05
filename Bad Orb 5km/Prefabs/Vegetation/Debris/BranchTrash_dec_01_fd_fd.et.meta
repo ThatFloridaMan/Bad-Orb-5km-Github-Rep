@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{EC86208E5412E6D3}Prefabs/Vegetation/Tree/Debris/BranchTrash_dec_01.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

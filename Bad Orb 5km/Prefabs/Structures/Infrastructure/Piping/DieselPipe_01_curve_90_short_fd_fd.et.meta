@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{08403A2F4EFF76A5}Prefabs/Structures/Infrastructure/Piping/DieselPipe_01_curve_90_short.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

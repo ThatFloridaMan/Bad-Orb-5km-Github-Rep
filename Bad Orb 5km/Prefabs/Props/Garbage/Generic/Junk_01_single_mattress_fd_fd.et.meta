@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{A8D8015D0E2B600B}Prefabs/Props/Garbage/Generic/Junk_01/Junk_01_single_mattress.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

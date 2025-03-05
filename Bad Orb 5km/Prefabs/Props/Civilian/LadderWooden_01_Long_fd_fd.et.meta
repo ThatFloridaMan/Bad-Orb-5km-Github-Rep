@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{EECACC5F25A31B10}Prefabs/Props/Civilian/LadderWooden_01_Long.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

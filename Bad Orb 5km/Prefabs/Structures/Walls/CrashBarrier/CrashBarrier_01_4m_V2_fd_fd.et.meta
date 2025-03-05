@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{40A7D064D889D322}Prefabs/Structures/Walls/Crashbarrier/CrashBarrier_01/CrashBarrier_01_4m_V2.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

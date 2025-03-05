@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{5E317DC74EA1F1A5}Prefabs/Props/Forest/WoodPile/WoodLog_01_B.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

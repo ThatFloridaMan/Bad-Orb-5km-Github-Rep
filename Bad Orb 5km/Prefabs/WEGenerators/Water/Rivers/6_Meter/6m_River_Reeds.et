@@ -1,0 +1,21 @@
+PrefabGeneratorEntity {
+ ID "61FAE90C2DD86FB2"
+ coords 0 0 0
+ Flags 1048579
+ GeneratorType GeneratorTypeVegetation "{61FAE90C2DD86E78}" {
+ }
+ m_PrefabNames {
+  "{077C695F02F4312C}PrefabLibrary/Vegetation/Bushes/b_phragmites_australis_1.et"
+ }
+ m_Weights {
+  0
+ }
+ m_fDistance 4
+ m_bAlignWithShape 0
+ m_fOffsetVariance 2
+ m_fRandomSpacing 1
+ m_fOffsetForward 0
+ m_fPerlinFrequency 50
+ m_fPerlinSeed 0
+ m_fPerlinAmplitude 10
+}

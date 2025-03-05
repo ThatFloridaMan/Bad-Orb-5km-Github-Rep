@@ -1,0 +1,16 @@
+MatPBRCable {
+ Color 0.037 0.037 0.037 1
+ Diffuse 0.376 0.376 0.376 1
+ MetalnessScale 0
+ BCRMap "{B141E00CC94C086A}Assets/_SharedData/Rubber/ST_Rubber_Aged01_1m_BCR.edds"
+ UScale 4.852
+ MinSagPerMeter 2.5
+ MaxSagPerMeter 15
+ CableThickness 5
+ "Wind power" 2
+ Swingness 0.5
+ Stifness 1.5
+ "Min affection" 0.25
+ "Swingness XZ power" 2.5
+ "Swingness Y power" 2
+}

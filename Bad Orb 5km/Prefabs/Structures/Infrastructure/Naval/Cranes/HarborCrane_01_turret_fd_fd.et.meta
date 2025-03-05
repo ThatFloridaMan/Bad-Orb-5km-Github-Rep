@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{994F6F8925DA98DE}Prefabs/Structures/Infrastructure/Naval/Cranes/HarborCrane_01_turret.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

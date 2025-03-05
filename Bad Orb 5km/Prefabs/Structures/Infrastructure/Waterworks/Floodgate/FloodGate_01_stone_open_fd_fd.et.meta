@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{697E93A839FE85B8}Prefabs/Structures/Infrastructure/Waterworks/FloodGate_01/FloodGate_01_stone_open.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{67B5336A6D63CCA5}Prefabs/Props/Construction/PlankPile/PlankPile_01_Medium.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

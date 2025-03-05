@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{971395BF86B4FACD}Prefabs/WEGenerators/Walls/Wooden/WG_WoodenWall_02_Green.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{77ECC6E87AA5A0FE}Prefabs/Structures/Industrial/Containers/Silos/Silo_01/Silo_01.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

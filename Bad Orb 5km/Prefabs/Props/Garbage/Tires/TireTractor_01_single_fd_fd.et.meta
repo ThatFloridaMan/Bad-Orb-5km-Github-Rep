@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{6929659CE9375CB0}Prefabs/Props/Garbage/Tires/TireTractor_01_single.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

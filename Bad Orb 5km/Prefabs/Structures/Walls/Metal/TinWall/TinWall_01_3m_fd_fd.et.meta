@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{8A9BE6DAD26B4553}Prefabs/Structures/Walls/Metal/TinWall_01/TinWall_01_3m.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

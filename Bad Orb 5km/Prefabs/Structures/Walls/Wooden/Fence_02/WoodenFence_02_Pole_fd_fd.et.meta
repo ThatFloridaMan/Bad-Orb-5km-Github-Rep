@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{F4CF1CAB2276F4CE}Prefabs/Structures/Walls/Wooden/WoodenFence_02/WoodenFence_02_Pole.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

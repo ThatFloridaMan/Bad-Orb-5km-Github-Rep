@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{543E5E3C6A68A10A}Prefabs/Structures/Infrastructure/Power/TransformerSubstation_01/TransformerSubstation_01.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{80C2B17EB509D6D0}Prefabs/Vegetation/Plant/p_echium_vulgare_0s.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

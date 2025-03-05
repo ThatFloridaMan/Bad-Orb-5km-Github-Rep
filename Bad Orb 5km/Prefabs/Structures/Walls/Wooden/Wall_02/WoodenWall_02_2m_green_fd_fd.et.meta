@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{250808BE379F12B0}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_2m_green.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

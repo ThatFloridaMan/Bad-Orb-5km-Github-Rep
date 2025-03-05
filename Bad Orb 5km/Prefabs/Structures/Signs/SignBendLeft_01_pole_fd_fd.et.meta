@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{A8D68D0C7450DFA0}Prefabs/Structures/Signs/Warnings/SignBendLeft_01_pole.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

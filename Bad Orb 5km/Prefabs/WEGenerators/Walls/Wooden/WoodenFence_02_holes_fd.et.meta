@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{D46D8046D79E999A}Prefabs/WEGenerators/Walls/Wooden/WG_WoodenFence_02.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

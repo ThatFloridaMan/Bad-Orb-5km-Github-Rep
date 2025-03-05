@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{3E1FF1C56363D646}Prefabs/Structures/Walls/Stone/StoneWall_01/StoneWall_01_end.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

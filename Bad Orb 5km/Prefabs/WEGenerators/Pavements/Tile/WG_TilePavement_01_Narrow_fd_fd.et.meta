@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{F3A64585B7A6ED02}Prefabs/WEGenerators/Pavements/Tile/WG_TilePavement_01_Narrow.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

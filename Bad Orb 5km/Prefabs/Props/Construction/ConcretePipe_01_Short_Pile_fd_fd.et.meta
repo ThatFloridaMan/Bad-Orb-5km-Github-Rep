@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{630C2872BB87F450}Prefabs/Props/Construction/ConcretePipe/ConcretePipe_01_Short_Pile.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

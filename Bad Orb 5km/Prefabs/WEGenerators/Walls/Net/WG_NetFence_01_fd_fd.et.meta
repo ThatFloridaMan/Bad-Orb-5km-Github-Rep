@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{DAE4AD5CF398E317}Prefabs/WEGenerators/Walls/Net/WG_NetFence_01.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

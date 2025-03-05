@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{4D31B230F47E94E3}Prefabs/Structures/Signs/Traffic/VergePost/StoneVergePost_01_D_V1.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

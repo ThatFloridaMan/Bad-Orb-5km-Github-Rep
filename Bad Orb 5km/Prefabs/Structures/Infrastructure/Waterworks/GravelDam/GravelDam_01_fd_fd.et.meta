@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{52A8D3B9738AB62C}Prefabs/Structures/Infrastructure/Waterworks/GravelDam_01/GravelDam_01.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{3FABF1D81EDD4823}Prefabs/Structures/Signs/Warnings/SignMaxSpeed50_01_pole.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

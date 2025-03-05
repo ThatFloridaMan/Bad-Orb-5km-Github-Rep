@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{901F89CB82C8948D}Prefabs/Props/Recreation/Beach/BlanketBeach_01/BlanketBeach_01_green.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

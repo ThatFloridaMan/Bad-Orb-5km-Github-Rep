@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{BA347CA53952B5AC}Prefabs/Structures/Walls/Pipe/PipeRailing_02/PipeRailing_02_Corner_Wide.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

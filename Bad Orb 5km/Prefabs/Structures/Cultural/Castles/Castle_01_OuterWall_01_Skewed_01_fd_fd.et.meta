@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{A475749953BBBF55}Prefabs/Structures/Cultural/Castles/Castle_01_OuterWall_01_Skewed_01.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

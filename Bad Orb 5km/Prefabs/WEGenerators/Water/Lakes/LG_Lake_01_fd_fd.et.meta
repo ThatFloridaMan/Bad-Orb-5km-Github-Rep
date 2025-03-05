@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{1F2254A7C9C8AA58}Prefabs/WEGenerators/Water/Lake/LG_Lake_01.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

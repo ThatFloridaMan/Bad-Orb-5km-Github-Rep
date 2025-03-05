@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{96EFBE0B8CA30156}Prefabs/Structures/Walls/Concrete/SilageWall_01/SilageWall_01_D.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

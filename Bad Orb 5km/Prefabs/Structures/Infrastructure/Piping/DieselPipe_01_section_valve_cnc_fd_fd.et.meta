@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{4525C1846BB728C0}Prefabs/Structures/Infrastructure/Piping/DieselPipe_01_section_valve_cnc.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

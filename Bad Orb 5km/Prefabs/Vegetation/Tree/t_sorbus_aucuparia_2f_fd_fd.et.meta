@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{A61858BCAD936B5A}Prefabs/Vegetation/Tree/t_sorbus_aucuparia_2f.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

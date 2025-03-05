@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{0A247EB653304FBE}Prefabs/Structures/Infrastructure/Culverts/Culvert_01/Culvert_01_small.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

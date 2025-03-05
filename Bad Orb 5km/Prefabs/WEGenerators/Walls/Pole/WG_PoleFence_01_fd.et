@@ -1,0 +1,52 @@
+WallGeneratorEntity : "{5B6E89F5F31C58DE}Prefabs/WEGenerators/Walls/Pole/WG_PoleFence_01.et" {
+ ID "566A281EA84F93BF"
+ Flags 1048579
+ m_fOvershoot 1
+ m_aWallGroups {
+  WallLengthGroup "{566A2800C8100BD9}" {
+   m_aWallPrefabs {
+    WallWeightPair "{566A280387E98CD0}" {
+     m_fWeight 0
+     m_fPostPadding 2.5
+    }
+    WallWeightPair "{566A2803EBEBA05D}" {
+     m_fWeight 0
+     m_fPostPadding 0
+    }
+   }
+  }
+  WallLengthGroup "{566A28038DEB8BBF}" {
+   m_aWallPrefabs {
+    WallWeightPair "{566A28038F86C7FA}" {
+     m_sWallAsset "{87F830CFF05E74CF}Prefabs/Structures/Walls/Pole/PoleFence_01_3m_fd_fd.et"
+     m_fPrePadding 0
+     m_fPostPadding 0
+    }
+    WallWeightPair "{621329F8E337D7E8}" {
+     m_sWallAsset "{053209D5BAE40DB7}PrefabLibrary/Walls/Pole/PoleFence_01_3m_D.et"
+     m_fPrePadding 0
+     m_fPostPadding 0
+    }
+   }
+  }
+  WallLengthGroup "{62132934EF2FA5EA}" {
+   m_aWallPrefabs {
+    WallWeightPair "{62132934E30A7D25}" {
+     m_sWallAsset "{66A81F198B1F2D11}PrefabLibrary/Walls/Pole/PoleFence_01_D.et"
+     m_fPrePadding 0
+     m_fPostPadding -0.5
+    }
+   }
+  }
+  WallLengthGroup "{621329F8B5263D7A}" {
+   m_aWallPrefabs {
+    WallWeightPair "{62132934E30A7D25}" {
+     m_sWallAsset "{9E0EE1FA239EBA01}Prefabs/Structures/Walls/Pole/PoleFence_01_D_fd_fd.et"
+     m_fPrePadding 0
+     m_fPostPadding -0.5
+    }
+   }
+  }
+ }
+ ExactPlacement 0
+}

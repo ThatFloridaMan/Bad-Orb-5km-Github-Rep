@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{45F7BDF237E75479}Prefabs/Props/Civilian/Birdhouse_01/Birdhouse_01_pole.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

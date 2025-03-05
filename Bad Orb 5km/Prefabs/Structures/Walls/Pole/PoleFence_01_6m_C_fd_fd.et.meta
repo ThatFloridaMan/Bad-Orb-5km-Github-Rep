@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{F422C5D9862763A9}Prefabs/Structures/Walls/Pole/PoleFence_01/PoleFence_01_6m_C.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

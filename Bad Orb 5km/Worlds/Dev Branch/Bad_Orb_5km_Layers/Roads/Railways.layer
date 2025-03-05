@@ -1,0 +1,80 @@
+SplineShapeEntity {
+ coords 2.341 145.822 3595.453
+ Points {
+  ShapePoint "{6169139C6171587C}" {
+   Position 0 0 0
+  }
+  ShapePoint "{6169139C616E2DBC}" {
+   Position 24.018 0.252 30.178
+  }
+  ShapePoint "{6169139C67BE5B52}" {
+   Position 83.18 0.648 117.092
+  }
+  ShapePoint "{6169139C67791D8E}" {
+   Position 151.199 -3.308 232.227
+  }
+  ShapePoint "{6169139C65B3F1E0}" {
+   Position 225.691 -11.162 375.868
+  }
+  ShapePoint "{6169139C6534E474}" {
+   Position 319.882 -8.126 548.291
+  }
+  ShapePoint "{6169139C5DDD166B}" {
+   Position 462.485 -10.033 810.976
+  }
+  ShapePoint "{6169139C53C92D23}" {
+   Position 613.627 -7.507 1087.46
+  }
+  ShapePoint "{6169139C51B63EB2}" {
+   Position 760.786 -9.321 1357.433
+  }
+  ShapePoint "{64A54E27E2BA85E6}" {
+   Position 851.456 -7.86 1522.58
+  }
+ }
+ {
+  RoadGeneratorEntity : "{EEB3D2A6FCAADFD7}Prefabs/WEGenerators/Roads/Concrete/RG_Road_ConcretePanel_01_fd_fd.et" {
+   coords 0 0 0
+   AdjustHeightMap 1
+   {
+    RoadEntity {
+     ID "59E881FE6E5B4479"
+     SplinePoints {
+      ShapePoint "{59E881E1325216A4}" {
+       Position 0 0 0
+      }
+      ShapePoint "{59E881E132521046}" {
+       Position 24.018 0.252 30.178
+      }
+      ShapePoint "{6169139FFCD60B8A}" {
+       Position 83.18 0.648 117.092
+      }
+      ShapePoint "{6169139FFCD60A14}" {
+       Position 151.199 -3.308 232.227
+      }
+      ShapePoint "{6169139FFCD60AD9}" {
+       Position 225.691 -11.162 375.868
+      }
+      ShapePoint "{6169139FFCD60A80}" {
+       Position 319.882 -8.126 548.291
+      }
+      ShapePoint "{6169139FFCD63577}" {
+       Position 462.485 -10.033 810.976
+      }
+      ShapePoint "{6169139FFCD6342D}" {
+       Position 613.627 -7.507 1087.459
+      }
+      ShapePoint "{6169139FFCD6349C}" {
+       Position 760.786 -9.321 1357.432
+      }
+      ShapePoint "{6169139FFCD6374E}" {
+       Position 851.456 -7.86 1522.579
+      }
+     }
+     IsClosedSpline 0
+     Width 3.5
+    }
+   }
+  }
+ }
+}

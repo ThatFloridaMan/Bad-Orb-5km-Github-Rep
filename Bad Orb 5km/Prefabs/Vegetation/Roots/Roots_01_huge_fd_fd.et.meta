@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{794D95ED8AA1742E}Prefabs/Vegetation/Tree/Roots/Roots_01_huge.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

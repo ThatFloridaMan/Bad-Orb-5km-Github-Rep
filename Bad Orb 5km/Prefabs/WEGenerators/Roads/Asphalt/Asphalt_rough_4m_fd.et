@@ -1,0 +1,5 @@
+RoadGeneratorEntity : "{1E681E4ED25E5E1F}Prefabs/WEGenerators/Roads/Asphalt/RG_Road_Asphalt_E_02.et" {
+ ID "556C6C02C8F45A70"
+ RoadClearance 3.5
+ RoadWidth 5
+}

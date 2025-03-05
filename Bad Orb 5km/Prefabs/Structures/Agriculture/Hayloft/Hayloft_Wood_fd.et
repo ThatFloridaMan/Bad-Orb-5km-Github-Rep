@@ -1,0 +1,265 @@
+SCR_DestructibleBuildingEntity : "{DD1503B65ED9DA65}Prefabs/Structures/Agriculture/Hayloft/Hayloft_E_01_base.et" {
+ ID "F0DBA538AC2A0552"
+ components {
+  BaseSlotComponent "{5456DE9EBDD1593F}" {
+   AttachType EntitySlotInfo "{5456DE9EBF82D669}" {
+    PivotID "Socket_Entry_stair_02"
+   }
+   EntityPrefab "{FA188839C5E6DAD3}Prefabs/Structures/BuildingParts/Entry/Entry_Direct_01_narrow.et"
+  }
+  BaseSlotComponent "{5456DE9F578DAB40}" {
+   AttachType EntitySlotInfo "{5456DE9F50272441}" {
+    PivotID "Socket_Entry_Slope_01"
+   }
+   EntityPrefab "{18E3F1942F2C8509}Prefabs/Structures/BuildingParts/Entry/Entry_Slope_Platform_01.et"
+  }
+  BaseSlotComponent "{5456DE9F595A7ABE}" {
+   AttachType EntitySlotInfo "{5456DE9F4C01B296}" {
+    PivotID "Socket_Entry_slope_02"
+   }
+   EntityPrefab "{18E3F1942F2C8509}Prefabs/Structures/BuildingParts/Entry/Entry_Slope_Platform_01.et"
+  }
+  BaseSlotComponent "{5456DE9F5A44422C}" {
+   AttachType EntitySlotInfo "{5456DE9F49848209}" {
+    PivotID "Socket_Entry_Stair_01"
+   }
+   EntityPrefab "{FA188839C5E6DAD3}Prefabs/Structures/BuildingParts/Entry/Entry_Direct_01_narrow.et"
+  }
+  MeshObject "{506EDA9D46FC6C06}" {
+   Object "{FB86EC8CB3ABB553}Assets/Structures/Agriculture/Hayloft/Hayloft_E_01/Hayloft_E_01_wood.xob"
+  }
+ }
+ coords 2081.981 0.344 2831.717
+ angleY -79
+ SlotBoneMappings {
+  SlotBoneMappingObject "{52C8EE3B8764EA80}" {
+   BonePrefix "socket_fan"
+   Prefab "{6E7533A7AFB9CBE6}Prefabs/Structures/BuildingParts/Eletrical/ExhaustFanMetal_01.et"
+  }
+  SlotBoneMappingObject "{52C8EE3BD38293CA}" {
+   BonePrefix "Socket_win_village_E_A_70x142_1_B"
+   Prefab "{8FB36238B8BA3BE0}Prefabs/Structures/BuildingParts/Windows/win_village_E_A_70x142_1_B_brown.et"
+  }
+  SlotBoneMappingObject "{55B0CBDE0EE17E3B}" {
+   BonePrefix "Socket_win_village_E_A_170x142_2_B"
+   Prefab "{C4BC7E4E19BB7E11}Prefabs/Structures/BuildingParts/Windows/Win_village_e_a_170x142_2_B.et"
+  }
+  SlotBoneMappingObject "{52C8EE3BD2516C77}" {
+   BonePrefix "socket_doorset_village_E_01_L_ext"
+   Prefab "{79F622DEBB73D581}Prefabs/Structures/BuildingParts/Doors/DoorSet_Village_E_01_L_EXT_COV_B_brown.et"
+  }
+  SlotBoneMappingObject "{52C8EE3B3118159B}" {
+   BonePrefix "socket_doorset_village_E_01_R_int"
+   Prefab "{3001595FE0D14B45}Prefabs/Structures/BuildingParts/Doors/DoorSet_Village_E_01_R_INT_COV_B.et"
+  }
+  SlotBoneMappingObject "{52C8EE3B2D4D6348}" {
+   BonePrefix "socket_doorset_hayloft"
+   Prefab "{21281E39D3B69394}Prefabs/Structures/BuildingParts/Doors/DoorSet_Hayloft_01_woodgate_Base.et"
+  }
+  SlotBoneMappingObject "{52C8EE3B714E47A2}" {
+   BonePrefix "socket_doorset_garage"
+   Prefab "{0BB684BD42CCD7E1}Prefabs/Structures/BuildingParts/Doors/DoorSet_Garage_E_03_EXT.et"
+  }
+  SlotBoneMappingObject "{555AEB6454BE3FD3}" {
+   BonePrefix "Socket_Entry_Stair"
+   Prefab "{FA188839C5E6DAD3}Prefabs/Structures/BuildingParts/Entry/Entry_Direct_01_narrow.et"
+  }
+  SlotBoneMappingObject "{555AEB6454C77C0B}" {
+   BonePrefix "Socket_Entry_Slope"
+   Prefab "{18E3F1942F2C8509}Prefabs/Structures/BuildingParts/Entry/Entry_Slope_Platform_01.et"
+  }
+ }
+ {
+  GenericEntity : "{0BB684BD42CCD7E1}Prefabs/Structures/BuildingParts/Doors/DoorSet_Garage_E_03_EXT.et" {
+   ID "61761003B7A4A10B"
+   components {
+    Hierarchy "{612AE78C85563E26}" {
+     Enabled 1
+     PivotID "Socket_DoorSet_Garage_E_03_EXT"
+     AutoTransform 1
+    }
+   }
+   coords 0 0 0
+  }
+  $grp GenericEntity : "{18E3F1942F2C8509}Prefabs/Structures/BuildingParts/Entry/Entry_Slope_Platform_01.et" {
+   {
+    ID "61761003B7A48E4B"
+    components {
+     Hierarchy "{5488F0388A297CDE}" {
+      Enabled 1
+      PivotID "Socket_Entry_Slope_01"
+      AutoTransform 1
+     }
+    }
+    coords 0 0 0
+   }
+   {
+    ID "61761003B7A4A106"
+    components {
+     Hierarchy "{5488F0388A297CDE}" {
+      Enabled 1
+      PivotID "Socket_Entry_slope_02"
+      AutoTransform 1
+     }
+    }
+    coords 0 0 0
+   }
+  }
+  GenericEntity : "{21281E39D3B69394}Prefabs/Structures/BuildingParts/Doors/DoorSet_Hayloft_01_woodgate_Base.et" {
+   ID "61761003B7A48E49"
+   components {
+    Hierarchy "{612AE78C85563E26}" {
+     Enabled 1
+     PivotID "Socket_DoorSet_Hayloft_Woodgate_E"
+     AutoTransform 1
+    }
+   }
+   coords 0 0 0
+  }
+  GenericEntity : "{3001595FE0D14B45}Prefabs/Structures/BuildingParts/Doors/DoorSet_Village_E_01_R_INT_COV_B.et" {
+   ID "61761003B7A48E48"
+   components {
+    Hierarchy "{612AE78C85563E26}" {
+     Enabled 1
+     PivotID "Socket_DoorSet_Village_E_01_R_INT_B"
+     AutoTransform 1
+    }
+   }
+   coords 0 0 0
+  }
+  $grp GenericEntity : "{6E7533A7AFB9CBE6}Prefabs/Structures/BuildingParts/Eletrical/ExhaustFanMetal_01.et" {
+   {
+    ID "61761003B7A48E4E"
+    components {
+     Hierarchy "{612AE78C95E98EEB}" {
+      Enabled 1
+      PivotID "Socket_fan_01"
+      AutoTransform 1
+     }
+    }
+    coords 0 0 0
+   }
+   {
+    ID "61761003B7A48E4F"
+    components {
+     Hierarchy "{612AE78C95E98EEB}" {
+      Enabled 1
+      PivotID "Socket_fan_02"
+      AutoTransform 1
+     }
+    }
+    coords 0 0 0
+   }
+  }
+  $grp GenericEntity : "{79F622DEBB73D581}Prefabs/Structures/BuildingParts/Doors/DoorSet_Village_E_01_L_EXT_COV_B_brown.et" {
+   {
+    ID "61761003B7A48E4D"
+    components {
+     Hierarchy "{612AE78C85563E26}" {
+      Enabled 1
+      PivotID "Socket_DoorSet_Village_E_01_L_EXT_02"
+      AutoTransform 1
+     }
+    }
+    coords 0 0 0
+   }
+   {
+    ID "61761003B7A48E53"
+    components {
+     Hierarchy "{612AE78C85563E26}" {
+      Enabled 1
+      PivotID "Socket_DoorSet_Village_E_01_L_EXT_01"
+      AutoTransform 1
+     }
+    }
+    coords 0 0 0
+   }
+  }
+  Building : "{8FB36238B8BA3BE0}Prefabs/Structures/BuildingParts/Windows/win_village_E_A_70x142_1_B_brown.et" {
+   ID "61761003B7A48E50"
+   components {
+    Hierarchy "{55B0CBDE6D0A48D8}" {
+     Enabled 1
+     PivotID "Socket_win_village_E_A_70x142_1_B"
+     AutoTransform 1
+    }
+   }
+   coords 0 0 0
+  }
+  Building : "{C4BC7E4E19BB7E11}Prefabs/Structures/BuildingParts/Windows/Win_village_e_a_170x142_2_B.et" {
+   ID "61761003B7A48E57"
+   components {
+    MeshObject "{5104B6C51D848E87}" {
+     Materials {
+      MaterialAssignClass "{5706C1075AD20EC7}" {
+       SourceMaterial "Assets/Structures/BuildingsParts/Windows/Data/window_white"
+       AssignedMaterial "{672CB9AEBD07594B}Assets/Structures/BuildingsParts/Windows/Data/window_white_INT.emat"
+      }
+     }
+    }
+    Hierarchy "{55B0CBDE6D0A00E0}" {
+     Enabled 1
+     PivotID "Socket_win_village_E_A_170x142_2_B"
+     AutoTransform 1
+    }
+   }
+   coords 0 0 0
+   {
+    GenericEntity {
+     ID "5706C1070B414ADA"
+     components {
+      MeshObject "{51C4DA208DB0E200}" {
+       Materials {
+        MaterialAssignClass "{572079028748C940}" {
+         SourceMaterial "Assets/Structures/BuildingsParts/Windows/Data/window_glass"
+         AssignedMaterial "{95C204D12167FDDE}Assets/Structures/BuildingsParts/Windows/Data/window_glass_INT.emat"
+        }
+       }
+      }
+     }
+    }
+    GenericEntity {
+     ID "5706C1070B414AFA"
+     components {
+      MeshObject "{51C4DA208DB0E200}" {
+       Materials {
+        MaterialAssignClass "{572079028CD8081B}" {
+         SourceMaterial "Assets/Structures/BuildingsParts/Windows/Data/window_glass"
+         AssignedMaterial "{95C204D12167FDDE}Assets/Structures/BuildingsParts/Windows/Data/window_glass_INT.emat"
+        }
+       }
+      }
+     }
+    }
+   }
+  }
+  EnvironmentProbeEntity : "{F2530F641C68D320}Prefabs/Structures/Agriculture/Barn/Probe_Barn_E_01.et" {
+   ID "61761003B7A48E55"
+   coords 0 4.696 0
+  }
+  $grp GenericEntity : "{FA188839C5E6DAD3}Prefabs/Structures/BuildingParts/Entry/Entry_Direct_01_narrow.et" {
+   {
+    ID "61761003B7A48E54"
+    components {
+     Hierarchy "{5488F0388A297CDE}" {
+      Enabled 1
+      PivotID "Socket_Entry_Stair_01"
+      AutoTransform 1
+     }
+    }
+    coords 0 0 0
+   }
+   {
+    ID "61761003B7A48E5B"
+    components {
+     Hierarchy "{5488F0388A297CDE}" {
+      Enabled 1
+      PivotID "Socket_Entry_stair_02"
+      AutoTransform 1
+     }
+    }
+    coords 0 0 0
+   }
+  }
+ }
+}

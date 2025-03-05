@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{49EFFCD72A2E3CB5}Prefabs/Structures/Civilian/SportGrounds/PlaygroundClimber_02.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

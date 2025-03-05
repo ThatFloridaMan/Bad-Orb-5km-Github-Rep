@@ -1,0 +1,5 @@
+SCR_PowerlineGeneratorEntity : "{20E4877A07D28502}Prefabs/WEGenerators/Powerline/PG_PowerLine_01_WoodenSmall.et" {
+ ID "52A068E8AB785807"
+ Flags 1048579
+ m_PowerlineMaterial "{B6094297AAFF05E8}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline_fd.emat"
+}

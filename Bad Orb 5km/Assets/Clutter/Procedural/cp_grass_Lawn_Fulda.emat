@@ -1,0 +1,5 @@
+Grass : "{88FEC87334161DE1}Assets/Clutter/Procedural/cp_grass_01.emat" {
+ SatMapLerp 0
+ SatMapBrightness 0.1
+ Height 0.05
+}

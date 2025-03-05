@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{A06F67DEC1AC87D8}Prefabs/WEGenerators/Walls/Crashbarrier/WG_CrashBarrier_01A.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

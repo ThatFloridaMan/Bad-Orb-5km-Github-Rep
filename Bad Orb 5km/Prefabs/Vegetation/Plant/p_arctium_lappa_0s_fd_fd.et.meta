@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{ADCADFD775B7857F}Prefabs/Vegetation/Plant/p_arctium_lappa_0s.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

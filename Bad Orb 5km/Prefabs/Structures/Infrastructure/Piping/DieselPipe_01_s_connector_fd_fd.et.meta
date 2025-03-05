@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{83E09CA546BD5D43}Prefabs/Structures/Infrastructure/Piping/DieselPipe_01_s_connector.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

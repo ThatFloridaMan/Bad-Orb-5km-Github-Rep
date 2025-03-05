@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{BACC130DDD951CA5}Prefabs/Props/Recreation/Camp/TentSmall_03/TentSmall_03_blue.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

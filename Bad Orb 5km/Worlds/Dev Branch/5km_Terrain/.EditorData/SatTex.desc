@@ -1,0 +1,7 @@
+SatGenDescClass {
+ FileName "C:/Users/bentc/Documents/Project Fulda/5km Files/5km_raw_satmap.png"
+ sRGBOutput 0
+ RenderRoads 1
+ Interpolation bilinear
+ RoadsAA "8x"
+}

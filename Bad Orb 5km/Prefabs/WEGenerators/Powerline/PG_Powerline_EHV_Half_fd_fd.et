@@ -1,0 +1,5 @@
+SCR_PowerlineGeneratorEntity : "{1D190CC10AAFDF26}Prefabs/WEGenerators/Powerline/PG_Powerline_EHV_Half.et" {
+ ID "54F0CCF46D1987F9"
+ Flags 1048579
+ m_fDistance 175
+}

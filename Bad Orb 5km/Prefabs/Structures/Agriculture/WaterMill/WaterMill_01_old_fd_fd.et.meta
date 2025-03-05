@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{2BFF0C2A41FC9B3A}Prefabs/Structures/Agriculture/WaterMill_01/WaterMill_01_old.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

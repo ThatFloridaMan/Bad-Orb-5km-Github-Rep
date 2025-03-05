@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{397B34254E55F7B7}Prefabs/Props/Decorations/Flowerpots/FlowerpotPelargonia_01_white.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

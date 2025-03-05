@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{47851F6A9DDFDE6D}Prefabs/Structures/Walls/Concrete/ConcreteWall_02/ConcreteWall_02_2m.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

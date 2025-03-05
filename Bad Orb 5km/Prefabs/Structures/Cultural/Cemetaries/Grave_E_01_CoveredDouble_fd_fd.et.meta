@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{617D7CE9A6B13AD9}Prefabs/Structures/Cultural/Cemeteries/Graves/Grave_E_01_CoveredDouble.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

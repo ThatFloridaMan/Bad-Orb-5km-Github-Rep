@@ -1,0 +1,14 @@
+GenericEntity : "{9CB2A7600384F205}Prefabs/Props/Recreation/Toy_BTR70_fb.et" {
+ ID "617610BFB8B3AA1E"
+ coords 2369.652 190.805 3548.782
+ angleY -9
+ scale 80.099
+ {
+  Turret : "{66596659FB0F645B}Prefabs/Vehicles/Wheeled/BTR70/VehParts/Turret/BTR70_Turret.et" {
+   ID "617722F4ACA4370F"
+   coords 0.985 -0.412 -0.943
+   angleY 176
+   scale 0.91
+  }
+ }
+}

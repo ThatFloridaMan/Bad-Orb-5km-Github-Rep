@@ -1,0 +1,8 @@
+RiverEntity : "{EFF9AED298BAD573}Prefabs/WEGenerators/Water/Rivers/6_Meter/R_River6m_fd_fd.et" {
+ ID "585CE010C8CF2CF1"
+ Width 4
+ SplineOffsetUp 0.15
+ ReverseFlow 1
+ Material "{DA2857940F7CEACB}Terrains/Common/Water/WaterTreatmentPlant/WaterTreatmentPlant_Medium.emat"
+ GUID "6496F84BAE926773"
+}

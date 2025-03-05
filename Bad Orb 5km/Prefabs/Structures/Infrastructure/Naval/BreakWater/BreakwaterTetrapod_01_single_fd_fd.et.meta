@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{25FA2181F3EB7A6D}Prefabs/Structures/Infrastructure/Naval/Breakwater/BreakwaterTetrapod_01_single.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

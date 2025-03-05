@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{12AB804750C63FE7}Prefabs/Props/Industrial/Pallets/Pallet_01_Pile.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

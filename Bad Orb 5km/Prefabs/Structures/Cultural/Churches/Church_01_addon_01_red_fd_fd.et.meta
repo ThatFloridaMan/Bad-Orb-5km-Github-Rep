@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{EA15A935ABC12542}Prefabs/Structures/Cultural/Churches/Church_01/Church_01_addon_01_red.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

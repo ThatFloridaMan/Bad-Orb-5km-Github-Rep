@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{A981F366AEB2A6BE}Prefabs/Props/Agriculture/Beehive_01/Beehive_01_yellow.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

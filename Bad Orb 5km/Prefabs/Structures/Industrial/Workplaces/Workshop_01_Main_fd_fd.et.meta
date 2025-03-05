@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{2C0901F12C5CC145}Prefabs/Structures/Industrial/Houses/Workshop_01/Workshop_01_Main.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

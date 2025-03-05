@@ -1,0 +1,14 @@
+GenericEntity : "{05C2FBA73E501E79}Prefabs/Toy_BTR70_fb_2.et" {
+ ID "617610BFB8B3AA1E"
+ coords 3214.893 233.469 3307.308
+ angleY 0
+ scale 0.077
+ {
+  StaticModelEntity : "{3D7A7A6C8F6C6BE1}Prefabs/Structures/Airport/AirportAntenna/AntennaAirport_01_Silver_fd_fd.et" {
+   ID "617742AEFFC0EB7B"
+   coords 0.926 1.338 0.262
+   angleY 42
+   scale 0.248
+  }
+ }
+}

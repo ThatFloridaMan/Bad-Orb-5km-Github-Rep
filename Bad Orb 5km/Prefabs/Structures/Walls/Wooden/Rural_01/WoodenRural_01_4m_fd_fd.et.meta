@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{41A570E41E15E421}Prefabs/Structures/Walls/Wooden/WoodenRural_01/WoodenRural_01_4m.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

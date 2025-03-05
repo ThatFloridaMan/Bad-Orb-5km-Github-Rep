@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{C9557EFB5564FF5E}Prefabs/Structures/Walls/Brick/BrickWall_02/BrickWall_02_8m.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

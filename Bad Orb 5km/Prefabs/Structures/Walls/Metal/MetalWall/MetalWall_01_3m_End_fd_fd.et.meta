@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{748BF18AC3769A44}Prefabs/Structures/Walls/Metal/MetalWall_01/MetalWall_01_3m_End.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

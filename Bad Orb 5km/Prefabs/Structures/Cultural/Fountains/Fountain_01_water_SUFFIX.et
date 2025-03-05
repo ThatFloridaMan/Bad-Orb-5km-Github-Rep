@@ -1,0 +1,33 @@
+SCR_DestructibleBuildingEntity : "{D29BA72DDBFDDAF4}Prefabs/Structures/Cultural/Fountains/Fountain_01_fd_fd.et" {
+ ID "F0DBA538AC2A0552"
+ coords 5210.254 0.555 3325.99
+ angleY 27
+ {
+  PolylineShapeEntity {
+   ID "616D20FD3172AC0E"
+   coords -1.666 0.943 1.688
+   angleY -27
+   Points {
+    ShapePoint "{616D20FC5E47AC2A}" {
+     Position 0.009 -0 -0.137
+    }
+    ShapePoint "{616D20FC5E47D01D}" {
+     Position 2.8 0 -1.582
+    }
+    ShapePoint "{616D20FC3CB9E4E0}" {
+     Position 1.393 0 -4.368
+    }
+    ShapePoint "{616D20FC30071558}" {
+     Position -1.396 0 -2.915
+    }
+   }
+   {
+    LakeGeneratorEntity : "{1F2254A7C9C8AA57}Prefabs/WEGenerators/Water/Lake/LG_Lake_01.et" {
+     ID "616D20FD3172AC04"
+     coords 0 0 0
+     m_bIsLake 0
+    }
+   }
+  }
+ }
+}

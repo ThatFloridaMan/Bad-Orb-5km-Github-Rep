@@ -1,0 +1,5 @@
+RoadGeneratorEntity : "{173C08B4DC4210CE}Prefabs/WEGenerators/Water/Rivers/R_Deformer6m_fd_fd.et" {
+ ID "5262CB47BB2B3834"
+ RoadClearance 6.5
+ RoadFalloffWidth 7
+}

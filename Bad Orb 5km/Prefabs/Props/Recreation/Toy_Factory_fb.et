@@ -1,0 +1,5 @@
+SCR_DestructibleBuildingEntity : "{A31C6EAC2D6E8BA2}Prefabs/Structures/Industrial/Houses/FactoryHall_E_01/FactoryHall_E_01_Base.et" {
+ ID "F0DBA538AC2A0552"
+ coords 3270.661 233.76 3316.445
+ scale 0.01
+}

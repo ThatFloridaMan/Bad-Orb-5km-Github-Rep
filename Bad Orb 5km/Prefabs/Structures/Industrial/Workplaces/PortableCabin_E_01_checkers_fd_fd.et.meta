@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{6A0B8A5DC93E090C}Prefabs/Structures/Industrial/Houses/PortableCabin_E_01/PortableCabin_E_01_checkers.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

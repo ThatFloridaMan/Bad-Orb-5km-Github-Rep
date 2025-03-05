@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{A57E874F42CBDEE6}Prefabs/Structures/Infrastructure/Naval/Slipway_01/Slipway_01_cradle_01.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

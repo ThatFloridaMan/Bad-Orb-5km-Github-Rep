@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{5F482D30CB2BB4D1}Prefabs/Structures/Cultural/Statues/StatueStPeter_01_pedestal.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

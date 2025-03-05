@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{A1ACD6AE9666337D}Prefabs/Rocks/Granite/Granite_BeachStone_01.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

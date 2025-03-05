@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{817842332D08FA2E}Prefabs/Vegetation/Tree/t_populus_nigra_3s.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

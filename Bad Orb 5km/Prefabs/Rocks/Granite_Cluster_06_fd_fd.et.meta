@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{B18F42ED694B5655}Prefabs/Rocks/Granite/Granite_Cluster_06.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

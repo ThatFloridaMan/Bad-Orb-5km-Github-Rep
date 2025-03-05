@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{526E22797215BAB7}Prefabs/WEGenerators/Pavements/Tile/WG_TilePavement_01_Wide.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

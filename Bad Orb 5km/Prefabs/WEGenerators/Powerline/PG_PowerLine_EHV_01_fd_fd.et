@@ -1,0 +1,9 @@
+SCR_PowerlineGeneratorEntity : "{89DEA69A406297CF}Prefabs/WEGenerators/Powerline/PG_PowerLine_EHV_01.et" {
+ ID "529AB591D3CA0111"
+ Flags 1048579
+ m_fDistance 175
+ m_StartPole "{BE3D31D8919CA073}Prefabs/Structures/Infrastructure/Power/TransformerStation110kV_E_01/TransformerStation110kV_E_01_simple_v1.et"
+ m_EndPole "{BE3D31D8919CA073}Prefabs/Structures/Infrastructure/Power/TransformerStation110kV_E_01/TransformerStation110kV_E_01_simple_v1.et"
+ Clearance 8
+ m_PowerlineMaterial "{6645934A706237B6}Assets/Structures/Infrastructure/Power/Powerlines/data/EHV_powerline_wire_fd.emat"
+}

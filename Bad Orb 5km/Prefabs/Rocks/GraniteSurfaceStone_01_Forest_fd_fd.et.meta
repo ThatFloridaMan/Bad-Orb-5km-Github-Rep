@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{5F799252A82209D3}Prefabs/Rocks/Granite/GraniteSurfaceStone_01_Forest.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

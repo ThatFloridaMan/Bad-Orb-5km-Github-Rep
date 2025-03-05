@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{17CBE839ABEC95A7}Prefabs/Structures/Infrastructure/Power/Powerlines/PowerLine_HV_02/PowerLine_HV_02_pole_junctionL.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

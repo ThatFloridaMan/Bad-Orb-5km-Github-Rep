@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{BBA4B6B98BB002A5}Prefabs/Vegetation/Tree/Debris/T_trunk_debris_05.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

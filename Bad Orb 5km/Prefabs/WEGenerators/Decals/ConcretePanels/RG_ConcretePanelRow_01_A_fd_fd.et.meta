@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{FE4F0249337721E6}Prefabs/WEGenerators/Decals/ConcretePanels/RG_ConcretePanelRow_01_A.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

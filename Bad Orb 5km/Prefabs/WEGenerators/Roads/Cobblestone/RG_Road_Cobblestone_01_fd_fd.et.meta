@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{24948AB10942D328}Prefabs/WEGenerators/Roads/Cobblestone/RG_Road_Cobblestone_01.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

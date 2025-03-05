@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{84CCBDB8B3CE1ED1}Prefabs/Props/Agriculture/Farm/HayBale_01_square_small.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

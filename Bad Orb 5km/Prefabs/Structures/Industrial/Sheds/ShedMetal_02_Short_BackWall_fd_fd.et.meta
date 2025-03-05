@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{13F8E7A8F6AAC2E5}Prefabs/Structures/Industrial/Sheds/ShedMetal_02/ShedMetal_02_Short_BackWall.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{47787CFB7C6C9050}Prefabs/Structures/Cultural/Cemeteries/Tombstones/GraveStone_E_02_C.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

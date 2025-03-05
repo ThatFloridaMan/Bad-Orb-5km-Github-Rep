@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{2D319A9399848589}Prefabs/Structures/Cultural/Churches/ChurchSmall_E_01_weathered.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

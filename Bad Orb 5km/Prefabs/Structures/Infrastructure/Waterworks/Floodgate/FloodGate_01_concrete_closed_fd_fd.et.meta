@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{94856A98B7E57648}Prefabs/Structures/Infrastructure/Waterworks/FloodGate_01/FloodGate_01_concrete_closed.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}
