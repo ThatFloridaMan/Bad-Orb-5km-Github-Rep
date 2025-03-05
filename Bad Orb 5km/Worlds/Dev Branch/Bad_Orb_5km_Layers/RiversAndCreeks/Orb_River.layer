@@ -788,6 +788,32 @@ SCR_DestructibleBuildingEntity : "{47C5E905BC4074C8}Prefabs/Structures/Cultural/
  coords 1214.485 2.469 4357.442
  angleY 48
 }
+$grp StaticModelEntity : "{528AB2322A646027}Prefabs/Terrain/Erosion/ErodedEmbankment_01_forest_wave_fd_fd.et" {
+ {
+  coords 3392.022 151.389 4314.632
+  angleY -3.912
+ }
+ {
+  coords 3361.105 150.753 4321.957
+  angleX -2.786
+  angleY -135.473
+ }
+ {
+  coords 3373.927 150.867 4312.895
+  angleX -1.041
+  angleY -155.995
+ }
+ {
+  coords 3450.351 154.142 4291.526
+  angleX -2.946
+  angleY 87.742
+ }
+ {
+  coords 3418.73 152.085 4313.926
+  angleX -2.677
+  angleY 172.53
+ }
+}
 $grp SCR_DestructibleBuildingEntity : "{52A8D3B9738AB62C}Prefabs/Structures/Infrastructure/Waterworks/GravelDam/GravelDam_01_fd_fd.et" {
  {
   coords 1207.351 1.332 4365.557
@@ -820,6 +846,116 @@ SCR_DestructibleBuildingEntity : "{70231867B54741BC}Prefabs/Structures/Cultural/
  coords 1215.127 2.222 4358.071
  angleY 48
 }
+$grp StaticModelEntity : "{9C7477A3F066F750}Prefabs/Terrain/Erosion/ErodedEmbankment_01_forest_straight_fd_fd.et" {
+ {
+  coords 3363.722 150.817 4326.236
+  angleX -2.326
+  angleY 41.91
+ }
+ {
+  coords 3369.551 150.746 4321.447
+  angleX -2.297
+  angleY 32.799
+  angleZ 0.368
+ }
+ {
+  coords 3381.426 151.114 4315.674
+  angleX -3.886
+  angleY 15.653
+  angleZ 1.029
+ }
+ {
+  coords 3401.906 151.434 4316.557
+  angleX -5.283
+  angleY -13.526
+ }
+ {
+  coords 3353.201 150.491 4328.694
+  angleX -5.06
+  angleY -132.256
+ }
+ {
+  coords 3381.959 151.064 4310.402
+  angleX -4.058
+  angleY -170.858
+ }
+ {
+  coords 3445.75 153.309 4311.411
+  angleY 58.183
+  scale 1.5
+ }
+ {
+  coords 3448.753 153.147 4302.102
+  angleY 81.109
+  scale 1.5
+ }
+ {
+  coords 3426.508 152.387 4319.528
+  angleX -3.488
+  angleY 0.802
+ }
+ {
+  coords 3409.313 151.676 4312.25
+  angleX -2.352
+  angleY 169.222
+ }
+ {
+  coords 3442.098 152.881 4307.427
+  angleX -3.038
+  angleY -116.282
+ }
+ {
+  coords 3435.188 152.57 4312.846
+  angleX -4.624
+  angleY -165.311
+  angleZ 2.066
+ }
+ {
+  coords 3238 154.018 4454.492
+  angleX -1.146
+  angleY -65.214
+  scale 1.2
+ }
+ {
+  coords 3241.787 154.072 4435.243
+  angleY -151.286
+  scale 1.2
+ }
+ {
+  coords 3246.875 154.172 4469.87
+  angleX -0.225
+  angleY -58.369
+  angleZ 1.914
+  scale 1.2
+ }
+ {
+  coords 3252.949 154.077 4476.636
+  angleX -0.953
+  angleY -35.455
+  angleZ 1.676
+  scale 1.2
+ }
+ {
+  coords 3288.553 154.682 4481.067
+ }
+ {
+  coords 3250.81 145.673 4451.499
+  angleY -103.019
+  scale 5
+ }
+ {
+  coords 3255.607 146.449 4466.954
+  angleY -40.679
+  scale 5
+ }
+ {
+  coords 3287.683 147.078 4472.098
+  angleX -2.667
+  angleY 38.761
+  angleZ 3.757
+  scale 5
+ }
+}
 $grp SCR_DestructibleBuildingEntity : "{E43E62E654276175}Prefabs/Structures/Infrastructure/Bridges/ConcreteBridge_01_Pillar_narrow_fd_fd.et" {
  {
   coords 1204.28 136.847 4365.156
@@ -836,5 +972,17 @@ $grp SCR_DestructibleBuildingEntity : "{E43E62E654276175}Prefabs/Structures/Infr
  {
   coords 1177.715 136.701 4391.834
   angleY -139.165
+ }
+}
+$grp StaticModelEntity : "{E87BCD612EEDAC6E}Prefabs/Terrain/Erosion/ErodedEmbankment_01_forest_turnin_fd_fd.et" {
+ {
+  coords 3233.822 154.05 4443.015
+  angleX 1.647
+  angleY -100.867
+  scale 1.2
+ }
+ {
+  coords 3297.347 154.897 4478.771
+  angleY 48.912
  }
 }
