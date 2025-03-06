@@ -982,11 +982,11 @@ $grp StaticModelEntity : "{528AB2322A646027}Prefabs/Terrain/Erosion/ErodedEmbank
 }
 $grp SCR_DestructibleBuildingEntity : "{52A8D3B9738AB62C}Prefabs/Structures/Infrastructure/Waterworks/GravelDam/GravelDam_01_fd_fd.et" {
  {
-  coords 1207.351 1.332 4365.557
+  coords 1207.351 1.84 4365.557
   angleY -45.945
  }
  {
-  coords 1174.676 1.212 4391.24
+  coords 1174.676 2.342 4391.24
   angleY 130.328
  }
 }
@@ -1626,7 +1626,6 @@ $grp StaticModelEntity : "{9C7477A3F066F750}Prefabs/Terrain/Erosion/ErodedEmbank
  }
  {
   coords 4587.332 163.944 3761.231
-  angleX -0
   angleY -153.465
   angleZ 0.428
  }
@@ -2839,19 +2838,19 @@ $grp StaticModelEntity : "{9C7477A3F066F750}Prefabs/Terrain/Erosion/ErodedEmbank
 }
 $grp SCR_DestructibleBuildingEntity : "{E43E62E654276175}Prefabs/Structures/Infrastructure/Bridges/ConcreteBridge_01_Pillar_narrow_fd_fd.et" {
  {
-  coords 1204.28 136.847 4365.156
+  coords 1204.28 137.132 4365.156
   angleY 44.562
  }
  {
-  coords 1207.284 136.858 4368.207
+  coords 1207.284 137.143 4368.207
   angleY 44.562
  }
  {
-  coords 1174.915 136.734 4388.6
+  coords 1174.915 137.298 4388.6
   angleY -139.165
  }
  {
-  coords 1177.715 136.701 4391.834
+  coords 1177.715 137.265 4391.833
   angleY -139.165
  }
 }
