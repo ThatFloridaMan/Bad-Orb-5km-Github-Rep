@@ -17389,13 +17389,17 @@ $grp SplineShapeEntity {
   }
  }
  {
-  coords 214.1 136.239 3927.729
+  coords 214.1 137.039 3927.729
   Points {
    ShapePoint "{64CAE4B471F6F534}" {
-    Position 0 -0.001 0
+    Position -0.004 -0.68 -0.007
    }
    ShapePoint "{64CAE4B470FDD62D}" {
+<<<<<<< Updated upstream
     Position 16.678 -0.298 6.206
+=======
+    Position 16.674 -0.976 6.199
+>>>>>>> Stashed changes
     Data {
      SplinePointData SplinePointData {
       InTangent 18.091 -0.425 32.049
@@ -17403,6 +17407,12 @@ $grp SplineShapeEntity {
      }
     }
    }
+<<<<<<< Updated upstream
+=======
+   ShapePoint "{64CD4B9FCCCBD408}" {
+    Position 23.337 -0.798 18.163
+   }
+>>>>>>> Stashed changes
    ShapePoint "{64CAE4B4704FB48A}" {
     Position 30.347 -0.643 30.796
    }
@@ -17464,10 +17474,35 @@ $grp SplineShapeEntity {
     Position 620.123 -0.228 847.83
    }
    ShapePoint "{64CAE4B4643977F5}" {
+<<<<<<< Updated upstream
     Position 649.877 1.435 878.058
    }
    ShapePoint "{64CAE4B45ABF5C8F}" {
     Position 712.565 3.393 908.186
+=======
+    Position 649.877 1.447 878.058
+   }
+   ShapePoint "{64CD4B9FB92A7992}" {
+    Position 664.206 2.624 889.892
+   }
+   ShapePoint "{64CD4B9FBAFD969F}" {
+    Position 678.38 3.026 901.512
+   }
+   ShapePoint "{64CD4B9FB92A4541}" {
+    Position 693.398 3.356 913.827
+   }
+   ShapePoint "{64CD4B9FCCC90503}" {
+    Position 705.386 3.107 923.422
+    Data {
+     SplinePointData SplinePointData {
+      InTangent 7.235 0.284 5.751
+      OutTangent 4.118 0.162 3.273
+     }
+    }
+   }
+   ShapePoint "{64CAE4B45ABF5C8F}" {
+    Position 707.846 3.15 925.432
+>>>>>>> Stashed changes
    }
   }
   {
@@ -17478,10 +17513,14 @@ $grp SplineShapeEntity {
       ID "55F85D16D1C7EB8E"
       SplinePoints {
        ShapePoint "{556C65561A62B78A}" {
-        Position 0 -0.001 0
+        Position -0.004 -0.68 -0.007
        }
        ShapePoint "{556C65561A62EBA9}" {
+<<<<<<< Updated upstream
         Position 16.678 -0.298 6.206
+=======
+        Position 16.674 -0.976 6.199
+>>>>>>> Stashed changes
         Data {
          SplinePointData "{00000000D8F1BA4F}" {
           InTangent 18.091 -0.425 32.049
@@ -17489,8 +17528,13 @@ $grp SplineShapeEntity {
          }
         }
        }
+<<<<<<< Updated upstream
        ShapePoint "{64CAE4B45F2F1066}" {
         Position 30.347 -0.643 30.796
+=======
+       ShapePoint "{64CD4B9FAD860980}" {
+        Position 23.337 -0.798 18.163
+>>>>>>> Stashed changes
        }
        ShapePoint "{64CAE4B45F2F10CF}" {
         Position 44.59 -1.218 56.193
@@ -17552,8 +17596,40 @@ $grp SplineShapeEntity {
        ShapePoint "{64CAE4B45F2F1CD1}" {
         Position 649.877 1.435 878.058
        }
+<<<<<<< Updated upstream
        ShapePoint "{64CAE4B45F2F1C86}" {
         Position 712.565 3.393 908.186
+=======
+       ShapePoint "{64CD4B9FAD86379F}" {
+        Position 620.123 -0.232 847.83
+       }
+       ShapePoint "{64CD4B9FAD8637A4}" {
+        Position 633.624 0.409 864.019
+       }
+       ShapePoint "{64CD4B9FAD86364A}" {
+        Position 649.877 1.447 878.058
+       }
+       ShapePoint "{64CD4B9FAD86361E}" {
+        Position 664.206 2.624 889.892
+       }
+       ShapePoint "{64CD4B9FAD863625}" {
+        Position 678.38 3.026 901.511
+       }
+       ShapePoint "{64CD4B9FAD8636CB}" {
+        Position 693.398 3.356 913.826
+       }
+       ShapePoint "{64CD4B9FAD863690}" {
+        Position 705.385 3.107 923.422
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent 7.235 0.284 5.751
+          OutTangent 4.118 0.162 3.273
+         }
+        }
+       }
+       ShapePoint "{64CD4B9FAD8636B8}" {
+        Position 707.845 3.15 925.431
+>>>>>>> Stashed changes
        }
       }
       IsClosedSpline 0
