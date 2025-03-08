@@ -14,7 +14,7 @@ $grp GenericEntity {
     MainType "Name Town"
    }
   }
-  coords 4740.082 198.49 3557.094
+  coords 4789.091 198.087 3571.895
  }
  Wasserversorgung_Bad_Orb {
   components {
@@ -28,10 +28,10 @@ $grp GenericEntity {
    }
    SCR_MapDescriptorComponent "{64C95E6491A91086}" {
     DisplayName "Wasserversorgung Bad Orb"
-    MainType "Name Local"
+    MainType "Name Settlement"
    }
   }
-  coords 3397.203 178.034 4420.629
+  coords 3406.812 177.802 4456.189
  }
  Hof_Lomelsberg {
   components {
@@ -45,10 +45,10 @@ $grp GenericEntity {
    }
    SCR_MapDescriptorComponent "{64C95E6491A91086}" {
     DisplayName "Hof Lomelsberg"
-    MainType "Name Local"
+    MainType "Name Settlement"
    }
   }
-  coords 1763.041 179.842 4079.536
+  coords 1785.539 178.947 4066.207
  }
  Ruckberg {
   components {
@@ -62,10 +62,10 @@ $grp GenericEntity {
    }
    SCR_MapDescriptorComponent "{64C95E6491A91086}" {
     DisplayName "Ruckberg"
-    MainType "Name Local"
+    MainType "Name Settlement"
    }
   }
-  coords 2290.82 238.724 3977.414
+  coords 2305.546 238.872 3985.696
  }
  Allenburg {
   components {
@@ -79,7 +79,7 @@ $grp GenericEntity {
    }
    SCR_MapDescriptorComponent "{64C95E6491A91086}" {
     DisplayName "Allenburg"
-    MainType "Name Local"
+    MainType "Name Settlement"
    }
   }
   coords 3246.948 257.911 3331.795
@@ -96,7 +96,7 @@ $grp GenericEntity {
    }
    SCR_MapDescriptorComponent "{64C95E6491A91086}" {
     DisplayName "Kasselberg"
-    MainType "Name Local"
+    MainType "Name Settlement"
    }
   }
   coords 3490.555 332.883 2838.655
@@ -113,7 +113,7 @@ $grp GenericEntity {
    }
    SCR_MapDescriptorComponent "{64C95E6491A91086}" {
     DisplayName "Huhnerberg"
-    MainType "Name Local"
+    MainType "Name Settlement"
    }
   }
   coords 3711.327 369.271 1984.825
@@ -130,7 +130,7 @@ $grp GenericEntity {
    }
    SCR_MapDescriptorComponent "{64C95E6491A91086}" {
     DisplayName "Sonnenberg"
-    MainType "Name Local"
+    MainType "Name Settlement"
    }
   }
   coords 3740.186 371.678 1712.822
@@ -147,7 +147,7 @@ $grp GenericEntity {
    }
    SCR_MapDescriptorComponent "{64C95E6491A91086}" {
     DisplayName "Bocksberg"
-    MainType "Name Local"
+    MainType "Name Settlement"
    }
   }
   coords 4453.958 367.34 1720.837
@@ -164,10 +164,10 @@ $grp GenericEntity {
    }
    SCR_MapDescriptorComponent "{64C95E6491A91086}" {
     DisplayName "Schubert Ranch"
-    MainType "Name Local"
+    MainType "Name Settlement"
    }
   }
-  coords 4312.837 243.759 2607.809
+  coords 4373.039 245.923 2566.061
  }
  Ersteberg {
   components {
@@ -181,44 +181,10 @@ $grp GenericEntity {
    }
    SCR_MapDescriptorComponent "{64C95E6491A91086}" {
     DisplayName "Ersteberg"
-    MainType "Name Local"
+    MainType "Name Settlement"
    }
   }
   coords 2019.707 281.896 2842.962
- }
- Schaltstation_34J {
-  components {
-   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
-    m_EntityType COMMENT
-    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
-     Name "Schaltstation 34J"
-    }
-    m_bAutoRegister ALWAYS
-    m_Flags 6200
-   }
-   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
-    DisplayName "Schaltstation 34J"
-    MainType "Name Local"
-   }
-  }
-  coords 1360.79 163.165 4171.791
- }
- Schaltstation_35T {
-  components {
-   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
-    m_EntityType COMMENT
-    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
-     Name "Schaltstation 35T"
-    }
-    m_bAutoRegister ALWAYS
-    m_Flags 6200
-   }
-   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
-    DisplayName "Schaltstation 35T"
-    MainType "Name Local"
-   }
-  }
-  coords 4476.599 177.068 3844.751
  }
  Funf_wege {
   components {
@@ -235,7 +201,7 @@ $grp GenericEntity {
     MainType "Name Village"
    }
   }
-  coords 4289.817 211.159 4349.458
+  coords 4324.878 213.155 4359.764
  }
  Forstfahrzeug_Wartungshof {
   components {
@@ -252,7 +218,7 @@ $grp GenericEntity {
     MainType "Name Local"
    }
   }
-  coords 4409.599 263.091 4789.375
+  coords 4415.153 262.982 4815.916
  }
  Bad_Orb_Spielfeld {
   components {
@@ -269,7 +235,7 @@ $grp GenericEntity {
     MainType "Name Local"
    }
   }
-  coords 3840.554 176.165 4117.064
+  coords 3851.228 176.166 4139.517
  }
  Krestberg {
   components {
@@ -283,10 +249,10 @@ $grp GenericEntity {
    }
    SCR_MapDescriptorComponent "{64C95E6491A91086}" {
     DisplayName "Krestberg"
-    MainType "Name Local"
+    MainType "Name Settlement"
    }
   }
-  coords 3622.83 252.428 4984.954
+  coords 3593.682 252.193 4973
  }
  Wasserberg {
   components {
@@ -300,145 +266,9 @@ $grp GenericEntity {
    }
    SCR_MapDescriptorComponent "{64C95E6491A91086}" {
     DisplayName "Wasserberg"
-    MainType "Name Local"
+    MainType "Name Settlement"
    }
   }
   coords 3485.785 288.396 3578.829
- }
- Orb_River {
-  components {
-   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
-    m_EntityType COMMENT
-    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
-     Name "Orb"
-    }
-    m_bAutoRegister NEVER
-    m_Flags 6200
-   }
-   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
-    DisplayName "Orb"
-    MainType "Name Water Minor"
-   }
-  }
-  coords 1124.114 139.5 4393.078
- }
- Orb_River3 {
-  components {
-   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
-    m_EntityType COMMENT
-    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
-     Name "Orb"
-    }
-    m_bAutoRegister NEVER
-    m_Flags 6200
-   }
-   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
-    DisplayName "Orb"
-    MainType "Name Water Minor"
-   }
-  }
-  coords 1570.898 140.023 4428.282
- }
- Orb_River5 {
-  components {
-   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
-    m_EntityType COMMENT
-    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
-     Name "Orb"
-    }
-    m_bAutoRegister NEVER
-    m_Flags 6200
-   }
-   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
-    DisplayName "Orb"
-    MainType "Name Water Minor"
-   }
-  }
-  coords 1998.493 142.976 4549.421
- }
- Orb_River7 {
-  components {
-   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
-    m_EntityType COMMENT
-    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
-     Name "Orb"
-    }
-    m_bAutoRegister NEVER
-    m_Flags 6200
-   }
-   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
-    DisplayName "Orb"
-    MainType "Name Water Minor"
-   }
-  }
-  coords 2398.426 147.313 4462.582
- }
- Orb_River9 {
-  components {
-   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
-    m_EntityType COMMENT
-    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
-     Name "Orb"
-    }
-    m_bAutoRegister NEVER
-    m_Flags 6200
-   }
-   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
-    DisplayName "Orb"
-    MainType "Name Water Minor"
-   }
-  }
-  coords 3196.082 150.65 4390.688
- }
- Orb_River11 {
-  components {
-   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
-    m_EntityType COMMENT
-    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
-     Name "Orb"
-    }
-    m_bAutoRegister NEVER
-    m_Flags 6200
-   }
-   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
-    DisplayName "Orb"
-    MainType "Name Water Minor"
-   }
-  }
-  coords 3736.308 159.516 4100.498
- }
- Orb_River13 {
-  components {
-   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
-    m_EntityType COMMENT
-    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
-     Name "Orb"
-    }
-    m_bAutoRegister NEVER
-    m_Flags 6200
-   }
-   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
-    DisplayName "Orb"
-    MainType "Name Water Minor"
-   }
-  }
-  coords 4392.14 163.699 3834.686
- }
- Orb_River15 {
-  components {
-   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
-    m_EntityType COMMENT
-    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
-     Name "Orb"
-    }
-    m_bAutoRegister NEVER
-    m_Flags 6200
-   }
-   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
-    DisplayName "Orb"
-    MainType "Name Water Minor"
-   }
-  }
-  coords 5018.623 166.573 3398.593
  }
 }

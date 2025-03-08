@@ -1,0 +1,15 @@
+GenericEntity : "{CFBE5E4BAF48C296}Prefabs/Labels/Big Tree.et" {
+ ID "64CEEAF5A7D69E1D"
+ components {
+  SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+   m_UIInfo SCR_EditableCommentUIInfo "{64CEEAF4DEDDC779}" {
+    Name "Small Tree"
+   }
+  }
+  SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+   MainType Tree
+   Scale 0
+  }
+ }
+ coords 3443.29 162.087 4494.103
+}

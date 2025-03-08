@@ -1,0 +1,18 @@
+GenericEntity {
+ ID "64CEEAF5A7D69E1D"
+ components {
+  SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+   m_EntityType COMMENT
+   m_UIInfo SCR_EditableCommentUIInfo "{64CEEAF4DEDDC779}" {
+    Name "Big Tree"
+   }
+   m_bAutoRegister ALWAYS
+   m_bVisible 0
+   m_Flags 6200
+  }
+  SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+   MainType "Small Tree"
+  }
+ }
+ coords 3442.835 161.99 4493.601
+}

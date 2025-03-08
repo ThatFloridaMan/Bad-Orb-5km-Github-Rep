@@ -1,0 +1,19 @@
+GenericEntity {
+ ID "64CEEAFF6629DFED"
+ components {
+  SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+   m_EntityType COMMENT
+   m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+    Name "Poopen-Wald"
+   }
+   m_bAutoRegister ALWAYS
+   m_bVisible 0
+   m_Flags 6200
+  }
+  SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+   DisplayName "Poopen-Wald"
+   MainType "Name Local"
+  }
+ }
+ coords 3566.995 156.031 4264.246
+}

@@ -1,3 +1,141 @@
+$grp GenericEntity {
+ Orb_River {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Orb"
+    }
+    m_bAutoRegister NEVER
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Orb"
+    MainType "Name Water Minor"
+   }
+  }
+  coords 1124.114 139.5 4393.078
+ }
+ Orb_River3 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Orb"
+    }
+    m_bAutoRegister NEVER
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Orb"
+    MainType "Name Water Minor"
+   }
+  }
+  coords 1570.898 140.023 4428.282
+ }
+ Orb_River5 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Orb"
+    }
+    m_bAutoRegister NEVER
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Orb"
+    MainType "Name Water Minor"
+   }
+  }
+  coords 1998.493 142.976 4549.421
+ }
+ Orb_River7 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Orb"
+    }
+    m_bAutoRegister NEVER
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Orb"
+    MainType "Name Water Minor"
+   }
+  }
+  coords 2398.426 147.313 4462.582
+ }
+ Orb_River9 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Orb"
+    }
+    m_bAutoRegister NEVER
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Orb"
+    MainType "Name Water Minor"
+   }
+  }
+  coords 3196.082 150.65 4390.688
+ }
+ Orb_River11 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Orb"
+    }
+    m_bAutoRegister NEVER
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Orb"
+    MainType "Name Water Minor"
+   }
+  }
+  coords 3736.308 159.516 4100.498
+ }
+ Orb_River13 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Orb"
+    }
+    m_bAutoRegister NEVER
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Orb"
+    MainType "Name Water Minor"
+   }
+  }
+  coords 4392.14 163.699 3834.686
+ }
+ Orb_River15 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Orb"
+    }
+    m_bAutoRegister NEVER
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Orb"
+    MainType "Name Water Minor"
+   }
+  }
+  coords 5018.623 166.573 3398.593
+ }
+}
 $grp SplineShapeEntity {
  {
   coords 1059.973 138 4397

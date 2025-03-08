@@ -1,3 +1,90 @@
+$grp GenericEntity {
+ Kinzig {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Kinzig"
+    }
+    m_bAutoRegister NEVER
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Kinzig"
+    MainType "Name Water Minor"
+   }
+  }
+  coords 91.493 131.082 3414.035
+ }
+ Kinzig2 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Kinzig"
+    }
+    m_bAutoRegister NEVER
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Kinzig"
+    MainType "Name Water Minor"
+   }
+  }
+  coords 196.03 133.043 3872.925
+ }
+ Kinzig3 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Kinzig"
+    }
+    m_bAutoRegister NEVER
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Kinzig"
+    MainType "Name Water Minor"
+   }
+  }
+  coords 523.729 134.106 4141.155
+ }
+ Kinzig4 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Kinzig"
+    }
+    m_bAutoRegister NEVER
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Kinzig"
+    MainType "Name Water Minor"
+   }
+  }
+  coords 970.081 136.346 4666.834
+ }
+ Kinzig5 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Kinzig"
+    }
+    m_bAutoRegister NEVER
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Kinzig"
+    MainType "Name Water Minor"
+   }
+  }
+  coords 935.444 135.367 4208.015
+ }
+}
 SplineShapeEntity {
  coords 6.872 132.291 3356.067
  Points {

@@ -1,3 +1,39 @@
+$grp GenericEntity {
+ Schaltstation_34J {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Schaltstation 34J"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Schaltstation 34J"
+    MainType "Name Settlement"
+   }
+  }
+  coords 1360.217 162.797 4176.781
+ }
+ Schaltstation_35T {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Schaltstation 35T"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Schaltstation 35T"
+    MainType "Name Settlement"
+   }
+  }
+  coords 4484.434 175.514 3861.417
+ }
+}
 $grp PolylineShapeEntity {
  {
   coords 1718.559 157.095 4201.067
@@ -874,7 +910,7 @@ $grp PolylineShapeEntity {
        Material "{B6094297AAFF05E8}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline_fd.emat"
        Cables {
         Cable "{64CA41935F373DF8}" {
-         StartPoint -0.044 7.904 -0
+         StartPoint -0.044 7.904 0
          EndPoint 24.802 9.675 0.057
         }
        }
@@ -984,7 +1020,7 @@ $grp PolylineShapeEntity {
        Material "{B6094297AAFF05E8}Assets/Structures/Infrastructure/Power/Powerlines/data/WoodenSmall_01_powerline_fd.emat"
        Cables {
         Cable "{64CA41935F381BF2}" {
-         StartPoint 0 7.8 -0
+         StartPoint 0 7.8 0
          EndPoint 2.803 6.309 -34.481
         }
        }

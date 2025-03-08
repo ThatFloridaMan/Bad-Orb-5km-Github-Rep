@@ -1,0 +1,54 @@
+$grp GenericEntity : "{3DECB10E2D0EBA77}Prefabs/Labels/Forests.et" {
+ Schwarzwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Schwarzwald "
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Schwarzwald "
+   }
+  }
+  coords 4289.769 240.935 3236.544
+ }
+ Schwarzwald2 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Schwarzwald "
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Schwarzwald "
+   }
+  }
+  coords 4191.02 257.917 2783.849
+ }
+ Grunewald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Grunewald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Grunewald"
+   }
+  }
+  coords 3966.015 280.36 2419.063
+ }
+ Poopenwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Poopenwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Poopenwald"
+   }
+  }
+  coords 3577.854 156.401 4279.808
+ }
+}
