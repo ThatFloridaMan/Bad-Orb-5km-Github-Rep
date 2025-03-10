@@ -1,3 +1,8 @@
 SCR_DestructibleEntity : "{07714A54E04065E2}Prefabs/Structures/Walls/Stone/StoneWall_02/StoneWall_02_pole.et" {
  ID "0000000000000001"
+ components {
+  MeshObject "{56DE7C8DCD0F4E0A}" {
+   PixelSizeScale 4
+  }
+ }
 }

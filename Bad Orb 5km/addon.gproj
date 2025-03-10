@@ -3,6 +3,20 @@ GameProject {
  GUID "64A51967EC407267"
  TITLE "Bad Orb 5km"
  Dependencies {
-  "58D0FB3206B6F859"
+  "58D0FB3206B6F859" "5F0D245931200FD1" "5DE612963E4B005A"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
  }
 }

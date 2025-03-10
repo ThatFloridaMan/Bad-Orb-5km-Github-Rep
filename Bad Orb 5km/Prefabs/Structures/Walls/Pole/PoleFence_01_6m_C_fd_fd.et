@@ -1,3 +1,8 @@
 SCR_DestructibleEntity : "{AF1A678815A3E17A}Prefabs/Structures/Walls/Pole/PoleFence_01/PoleFence_01_6m_C.et" {
  ID "331AE7354AB10B7C"
+ components {
+  MeshObject "{56DE7C8DCD0F4E0A}" {
+   PixelSizeScale 4
+  }
+ }
 }

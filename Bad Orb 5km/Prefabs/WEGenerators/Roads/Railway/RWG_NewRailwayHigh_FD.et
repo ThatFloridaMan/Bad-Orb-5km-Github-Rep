@@ -1,0 +1,7 @@
+RER_RailGeneratorEntity : "{F399B84A5953E429}Prefabs/WEGenerators/Railway/RWG_base.et" {
+ ID "5F0E925F6ADB86FC"
+ railPrefabs {
+  "{83A56A2E7E84243E}Prefabs/Structures/Infrastructure/Rail/New/railsN_25_new.et" "{0A10C4684C6659B1}Prefabs/Structures/Infrastructure/Rail/New/railsN_40_new.et" "{475DBFCF9E060E7F}Prefabs/Structures/Infrastructure/Rail/New/railsN_curve_L25_10_new.et" "{AE2830245CC56A76}Prefabs/Structures/Infrastructure/Rail/New/railsN_curve_L25_5_new.et" "{A3C9F8F6A0363667}Prefabs/Structures/Infrastructure/Rail/New/railsN_curve_L30_20_new.et" "{46F28C6569561D6F}Prefabs/Structures/Infrastructure/Rail/New/railsN_curve_R25_10_new.et" "{639CC5BB071E4933}Prefabs/Structures/Infrastructure/Rail/New/railsN_curve_R25_5_new.et" "{A266CB5C57662577}Prefabs/Structures/Infrastructure/Rail/New/railsN_curve_R30_20_new.et"
+ }
+ m_maxAngleXAdjustment 2
+}

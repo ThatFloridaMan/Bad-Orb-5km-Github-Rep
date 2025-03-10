@@ -5,7 +5,9 @@ Tree : "{CCAB9CE2D5FD851E}Prefabs/Vegetation/Tree/t_picea_abies_3f_high.et" {
    LODFactors {
     500 400 300 200 1
    }
-   PixelSizeScale 5
+   PixelSizeScale 4
+   ClutterOccluder 1
+   ClutterOccluderClipPlane 0.5
   }
  }
 }

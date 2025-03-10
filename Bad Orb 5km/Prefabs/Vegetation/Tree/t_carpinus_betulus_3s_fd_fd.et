@@ -3,7 +3,7 @@ Tree : "{8F91FCAFE65FCDA6}Prefabs/Vegetation/Tree/t_carpinus_betulus_3s.et" {
  components {
   MeshObject "{73B3A8278EC9D71C}" {
    LODFactors {
-    100 15 5 12 1
+    16 8 4 2 1
    }
    PixelSizeScale 1.5
   }

@@ -61869,6 +61869,7 @@ $grp PolylineShapeEntity {
     }
    }
   }
+  IsClosed 1
   LineColor 0 1 0 0
   {
    ForestGeneratorEntity : "{AD8008F7954F8E55}Prefabs/WEGenerators/Forest/Spruce_Thick_fd_fd.et" {
@@ -61879,37 +61880,37 @@ $grp PolylineShapeEntity {
       {
        _layer 6
        coords 235.177 44.106 -354.136
-       angleY 186.378
+       angleY 252.485
        scale 1.654
       }
       {
        _layer 6
        coords 217.816 43.684 -351.549
-       angleY 347.739
+       angleY 186.378
        scale 2.192
       }
       {
        _layer 6
        coords 213.301 43.966 -352.955
-       angleY 90.277
+       angleY 27.511
        scale 1.987
       }
       {
        _layer 6
        coords 205.667 43.284 -347.659
-       angleY 347.168
+       angleY 252.309
        scale 1.952
       }
       {
        _layer 6
        coords 226.192 42.092 -340.257
-       angleY 198.331
+       angleY 247.771
        scale 2.391
       }
       {
        _layer 6
        coords 190.743 43.874 -348.8
-       angleY 351.474
+       angleY 247.024
        scale 2.116
       }
      }
@@ -61917,55 +61918,55 @@ $grp PolylineShapeEntity {
       {
        _layer 6
        coords 234.29 43.48 -350.625
-       angleY 15.931
+       angleY 151.451
        scale 0.813
       }
       {
        _layer 6
        coords 238.495 44.97 -358.469
-       angleY 55.516
+       angleY 190.234
        scale 0.983
       }
       {
        _layer 6
        coords 224.061 44.832 -358.262
-       angleY 357.583
+       angleY 321.81
        scale 0.959
       }
       {
        _layer 6
        coords 217.25 43.137 -347.787
-       angleY 57.526
+       angleY 277.468
        scale 0.795
       }
       {
        _layer 6
        coords 210.584 43.097 -346.691
-       angleY 203.001
+       angleY 221.579
        scale 0.771
       }
       {
        _layer 6
        coords 172.179 43.76 -339.173
-       angleY 219.261
+       angleY 28.28
        scale 0.671
       }
       {
        _layer 6
        coords 181.437 43.445 -341.032
-       angleY 33.213
+       angleY 224.963
        scale 0.708
       }
       {
        _layer 6
        coords 229.371 42.814 -346.207
-       angleY 30.861
+       angleY 201.99
        scale 0.654
       }
       {
        _layer 6
        coords 223.749 42.928 -346.616
-       angleY 182.928
+       angleY 176.622
        scale 0.753
       }
      }
@@ -62033,185 +62034,121 @@ $grp PolylineShapeEntity {
        scale 1.089
       }
      }
-     $grp Tree : "{59EDDDB5D3B5241F}PrefabLibrary/Vegetation/Trees/t_piceaabies_3f.et" {
+     $grp Tree : "{5ADAE01F2616EC90}Prefabs/Vegetation/Tree/t_carpinus_betulus_2s_fd_fd.et" {
       {
        _layer 6
-       coords 240.013 42.243 -342.069
-       angleY 151.451
-       scale 0.554
+       coords 218.256 44.247 -355.052
+       angleX 2.796
+       angleZ 2.96
+       scale 0.829
       }
       {
        _layer 6
-       coords 234.934 42.466 -343.914
-       angleX 0.171
-       angleY 350.211
-       angleZ 2.742
-       scale 0.791
+       coords 228.221 43.778 -352.547
+       angleX -2.128
+       angleZ 0.562
+       scale 0.966
       }
       {
        _layer 6
-       coords 230.071 44.181 -354.865
-       angleX -2.351
-       angleY 101.989
-       angleZ -0.793
-       scale 0.986
+       coords 198.793 43.547 -348.544
+       angleX -1.889
+       angleZ 2.748
+       scale 1.02
       }
       {
        _layer 6
-       coords 194.134 42.774 -340.328
-       angleX 1.741
-       angleY 124.479
-       angleZ -2.235
-       scale 0.885
+       coords 176.229 43.974 -342.911
+       angleX 2.786
+       angleZ 0.654
+       scale 1.179
       }
       {
        _layer 6
-       coords 194.743 43.542 -347.557
-       angleX 1.205
-       angleY 245.134
-       angleZ -2.529
-       scale 0.734
+       coords 204.604 42.681 -342.155
+       angleX 1.825
+       angleZ -2.781
+       scale 0.968
       }
       {
        _layer 6
-       coords 203.515 43.765 -350.815
-       angleY 31.07
-       scale 0.603
-      }
-      {
-       _layer 6
-       coords 200.683 42.814 -342.404
-       angleY 292.366
-       scale 0.603
-      }
-      {
-       _layer 6
-       coords 206.762 43.719 -350.917
-       angleX -1.602
-       angleY 150.715
-       angleZ -2.84
-       scale 0.715
-      }
-      {
-       _layer 6
-       coords 164.619 43.715 -337.411
-       angleY 201.99
-       scale 0.75
-      }
-      {
-       _layer 6
-       coords 180.749 43.05 -337.022
-       angleX -1.274
-       angleY 276.765
-       angleZ 1.825
-       scale 0.699
-      }
-      {
-       _layer 6
-       coords 178.506 43.503 -339.773
-       angleY 315.152
-       scale 0.701
-      }
-      {
-       _layer 6
-       coords 185.28 42.987 -338.777
-       angleY 90.233
-       scale 0.65
-      }
-      {
-       _layer 6
-       coords 220.803 42.466 -342.621
-       angleX 1.782
-       angleY 246.486
-       angleZ -1.047
-       scale 0.858
-      }
-      {
-       _layer 6
-       coords 189.752 43.355 -344.394
-       angleX -2.412
-       angleY 347.146
-       angleZ 0.822
-       scale 0.838
-      }
-      {
-       _layer 6
-       coords 207.25 42.622 -341.958
-       angleY 319.217
-       scale 0.623
+       coords 213.754 42.439 -341.171
+       angleX -2.446
+       angleZ -1.496
+       scale 1.097
       }
      }
      $grp Tree : "{7D5C8883A0DF9D96}PrefabLibrary/Vegetation/Trees/t_picea_abies_1f.et" {
       {
        _layer 6
        coords 237.583 43.407 -349.985
-       angleX 0.075
-       angleY 110.438
-       angleZ 0.031
+       angleX -0.692
+       angleY 344.509
+       angleZ -0.386
        scale 1.018
       }
       {
        _layer 6
        coords 241.296 42.888 -346.117
-       angleX 0.403
-       angleY 214.35
-       angleZ -0.829
+       angleX 0.728
+       angleY 185.521
+       angleZ 0.191
        scale 1.1
       }
       {
        _layer 6
        coords 222.69 43.68 -351.825
-       angleX -0.198
-       angleY 169.975
-       angleZ 0.541
+       angleX 0.836
+       angleY 77.148
+       angleZ -0.557
        scale 1.003
       }
       {
        _layer 6
        coords 227.641 44.672 -357.486
-       angleX -0.847
-       angleY 201.495
-       angleZ -0.63
+       angleX -0.784
+       angleY 101.989
+       angleZ -0.264
        scale 1.466
       }
       {
        _layer 6
        coords 235.927 44.431 -355.866
-       angleX 0.231
-       angleY 344.871
-       angleZ -0.208
+       angleX -0.68
+       angleY 151.616
+       angleZ 0.119
        scale 1.017
       }
       {
        _layer 6
        coords 206.764 43.014 -345.469
-       angleX -0.617
-       angleY 102.571
-       angleZ 0.521
+       angleX -0.308
+       angleY 203.001
+       angleZ 0.58
        scale 1.323
       }
       {
        _layer 6
        coords 182.624 43.097 -338.514
-       angleX -0.019
-       angleY 13.118
-       angleZ 0.377
+       angleX -0.827
+       angleY 273.81
+       angleZ 0.624
        scale 1.123
       }
       {
        _layer 6
        coords 174.218 43.839 -340.717
-       angleX -0.417
-       angleY 150.001
-       angleZ -0.682
+       angleX -0.534
+       angleY 150.715
+       angleZ -0.947
        scale 1.001
       }
       {
        _layer 6
        coords 196.506 42.765 -341.026
-       angleX -0.757
-       angleY 90.794
-       angleZ 0.055
+       angleX -0.417
+       angleY 150.001
+       angleZ -0.682
        scale 1.098
       }
      }
@@ -62291,97 +62228,140 @@ $grp PolylineShapeEntity {
        scale 0.874
       }
      }
-     $grp Tree : "{B3453920EE605F13}PrefabLibrary/Vegetation/Trees/t_carpinus_betulus_2s.et" {
+     $grp Tree : "{A442F3F261E1F173}Prefabs/Vegetation/Tree/t_picea_abies_3f_fd_fd.et" {
       {
        _layer 6
-       coords 218.256 44.247 -355.052
-       angleX 0.562
-       angleY 52.329
-       angleZ -1.714
-       scale 0.829
+       coords 240.013 42.243 -342.069
+       scale 0.554
       }
       {
        _layer 6
-       coords 228.221 43.778 -352.547
-       angleX -1.671
-       angleY 330.567
-       angleZ -1.629
-       scale 0.966
+       coords 234.934 42.466 -343.914
+       angleX -0.817
+       angleZ 2.837
+       scale 0.791
       }
       {
        _layer 6
-       coords 198.793 43.547 -348.544
+       coords 230.071 44.181 -354.865
+       angleX -1.629
+       angleZ -0.167
+       scale 0.986
+      }
+      {
+       _layer 6
+       coords 194.134 42.774 -340.328
+       angleX -0.623
+       angleZ -1.495
+       scale 0.885
+      }
+      {
+       _layer 6
+       coords 194.743 43.542 -347.557
        angleX 1.713
-       angleY 81.851
        angleZ 1.927
-       scale 1.02
+       scale 0.734
       }
       {
        _layer 6
-       coords 176.229 43.974 -342.911
-       angleX 2.404
-       angleY 269.624
-       angleZ 1.117
-       scale 1.179
+       coords 203.515 43.765 -350.815
+       scale 0.603
       }
       {
        _layer 6
-       coords 204.604 42.681 -342.155
-       angleX -1.696
-       angleY 310.978
-       angleZ 1.402
-       scale 0.968
+       coords 200.683 42.814 -342.404
+       scale 0.603
       }
       {
        _layer 6
-       coords 213.754 42.439 -341.171
-       angleX -0.436
-       angleY 322.931
-       angleZ 1.86
-       scale 1.097
+       coords 206.762 43.719 -350.917
+       angleX -0.105
+       angleZ 1.086
+       scale 0.715
+      }
+      {
+       _layer 6
+       coords 164.619 43.715 -337.411
+       scale 0.75
+      }
+      {
+       _layer 6
+       coords 180.749 43.05 -337.022
+       angleX -1.29
+       angleZ -1.85
+       scale 0.699
+      }
+      {
+       _layer 6
+       coords 178.506 43.503 -339.773
+       scale 0.701
+      }
+      {
+       _layer 6
+       coords 185.28 42.987 -338.777
+       scale 0.65
+      }
+      {
+       _layer 6
+       coords 220.803 42.466 -342.621
+       angleX 1.613
+       angleZ -1.274
+       scale 0.858
+      }
+      {
+       _layer 6
+       coords 189.752 43.355 -344.394
+       angleX 1.494
+       angleZ 2.404
+       scale 0.838
+      }
+      {
+       _layer 6
+       coords 207.25 42.622 -341.958
+       scale 0.623
       }
      }
      $grp Tree : "{CED0732AEAD82213}PrefabLibrary/Vegetation/Trees/t_picea_abies_1s.et" {
       {
        _layer 6
        coords 232.331 44.78 -357.988
-       angleY 130.95
+       angleY 15.931
        scale 1.404
       }
       {
        _layer 6
        coords 234.759 42.028 -340.7
-       angleY 311.021
+       angleY 193.541
        scale 1.92
       }
       {
        _layer 6
        coords 236.034 42.828 -346.282
-       angleY 321.81
+       angleY 30.807
        scale 1.514
       }
       {
        _layer 6
        coords 224.109 43.956 -353.637
-       angleY 151.616
+       angleY 144.431
        scale 1.392
       }
       {
        _layer 6
        coords 196.121 43.131 -344.464
-       angleY 173.721
+       angleY 81.851
        scale 1.563
       }
       {
        _layer 6
        coords 189.587 42.886 -339.903
-       angleY 224.963
+       angleY 45.891
        scale 1.846
       }
       {
        _layer 6
        coords 199.107 42.665 -340.488
-       angleY 292.333
+       angleY 315.152
        scale 1.421
       }
      }

@@ -3,9 +3,9 @@ Tree : "{4B176F8E58FA9D53}Prefabs/Vegetation/Tree/t_carpinus_betulus_2f.et" {
  components {
   MeshObject "{73B3A8278EC9D71C}" {
    LODFactors {
-    500 400 300 200 1
+    16 8 4 2 1
    }
-   PixelSizeScale 5
+   PixelSizeScale 2
   }
  }
  coords 11.61 -17.584 -20.137
