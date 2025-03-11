@@ -271,4 +271,21 @@ $grp GenericEntity {
   }
   coords 3485.785 288.396 3578.829
  }
+ Mittbach {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Mittbach"
+    }
+    m_bAutoRegister ALWAYS
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Mittbach"
+    MainType "Name Settlement"
+   }
+  }
+  coords 450.279 149.515 5091.225
+ }
 }
