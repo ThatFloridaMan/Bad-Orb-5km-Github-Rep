@@ -1780,11 +1780,14 @@ $grp SplineShapeEntity {
    ShapePoint "{64D0452F6AA4029C}" {
     Position 312.279 -8.599 470.178
    }
-   ShapePoint "{64D0452F6906BFC7}" {
-    Position 328.497 -11.948 494.144
-   }
    ShapePoint "{64D0452F68C4740E}" {
-    Position 346.398 -14.372 523.835
+    Position 341.9 -14.056 516.208
+    Data {
+     SplinePointData SplinePointData {
+      InTangent 27.008 2.718 44.3
+      OutTangent 26.949 2.712 44.203
+     }
+    }
    }
    ShapePoint "{64D0452F6E3573A3}" {
     Position 366.206 -12.814 558.633
@@ -1793,7 +1796,13 @@ $grp SplineShapeEntity {
     Position 386.906 -10.1 596.715
    }
    ShapePoint "{64D0452F62CC8DD9}" {
-    Position 404.142 -8.986 638.139
+    Position 401.705 -9.188 631.606
+    Data {
+     SplinePointData SplinePointData {
+      InTangent 16.979 -1.404 39.147
+      OutTangent 16.516 -1.366 38.079
+     }
+    }
    }
    ShapePoint "{64D0452F618BF6B2}" {
     Position 419.801 -7.696 672.944
@@ -1816,7 +1825,7 @@ $grp SplineShapeEntity {
         Position 50.533 -0.895 51.225
        }
        ShapePoint "{64D0452F6474E50A}" {
-        Position 83.489 3.612 95.428
+        Position 83.49 3.612 95.428
        }
        ShapePoint "{64D0452F6474E5C3}" {
         Position 105.882 4.033 125.293
@@ -1834,7 +1843,7 @@ $grp SplineShapeEntity {
         Position 212.14 -1.072 298.336
        }
        ShapePoint "{64D0452F6474E4ED}" {
-        Position 230.502 1.625 337.752
+        Position 230.503 1.625 337.752
        }
        ShapePoint "{64D0452F6474E4A3}" {
         Position 252.195 -1.966 377.218
@@ -1849,21 +1858,30 @@ $grp SplineShapeEntity {
         Position 312.279 -8.599 470.178
        }
        ShapePoint "{64D0452F6474E781}" {
-        Position 328.497 -11.948 494.144
+        Position 341.9 -14.056 516.208
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent 27.008 2.718 44.3
+          OutTangent 26.949 2.712 44.203
+         }
+        }
        }
        ShapePoint "{64D0452F6474E640}" {
-        Position 346.398 -14.372 523.835
-       }
-       ShapePoint "{64D0452F6474E61B}" {
         Position 366.206 -12.814 558.633
        }
-       ShapePoint "{64D0452F6474E6DE}" {
+       ShapePoint "{64D0452F6474E61B}" {
         Position 386.906 -10.1 596.715
        }
-       ShapePoint "{64D0452F6474E6E8}" {
-        Position 404.142 -8.986 638.138
+       ShapePoint "{64D0452F6474E6DE}" {
+        Position 401.705 -9.188 631.606
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent 16.979 -1.404 39.147
+          OutTangent 16.516 -1.366 38.079
+         }
+        }
        }
-       ShapePoint "{64D0452F6474E6A6}" {
+       ShapePoint "{64D0452F6474E6E8}" {
         Position 419.801 -7.696 672.944
        }
       }

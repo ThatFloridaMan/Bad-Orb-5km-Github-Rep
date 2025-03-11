@@ -3,9 +3,9 @@ Tree : "{6DF33B3CBC51D6D9}Prefabs/Vegetation/Tree/t_picea_abies_3f.et" {
  components {
   MeshObject "{46AAA6AE34364B56}" {
    LODFactors {
-    500 400 300 200 1
+    250 200 150 100 1
    }
-   PixelSizeScale 5
+   PixelSizeScale 10
   }
  }
  scale 1.502

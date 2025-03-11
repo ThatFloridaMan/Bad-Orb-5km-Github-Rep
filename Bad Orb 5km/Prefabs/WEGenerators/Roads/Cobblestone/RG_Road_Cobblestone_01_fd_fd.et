@@ -1,3 +1,4 @@
 RoadGeneratorEntity : "{24948AB10942D327}Prefabs/WEGenerators/Roads/Cobblestone/RG_Road_Cobblestone_01.et" {
  ID "56F07CB2CD0E83A4"
+ AdjustHeightMap 1
 }

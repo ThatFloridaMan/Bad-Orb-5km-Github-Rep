@@ -1,3 +1,11 @@
 Tree : "{C98A6C1C2372354E}Prefabs/Vegetation/Bush/b_corylus_avellana_1.et" {
  ID "0F2AA6B42CA78628"
+ components {
+  MeshObject "{545B01F41F2EA5C4}" {
+   LODFactors {
+    8 4 2 1
+   }
+   PixelSizeScale 2
+  }
+ }
 }

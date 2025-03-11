@@ -3,7 +3,7 @@ PrefabGeneratorEntity : "{5C5162DC10F82DD5}Prefabs/WEGenerators/Roads/VergePosts
  coords 0 0 0
  Flags 1048579
  m_PrefabNames {
-  "{D5E519FF4638AA27}PrefabLibrary/Infrastructure/Roads/StoneVergePost_01.et"
+  "{B923A280B2BD1EEF}Prefabs/Structures/Signs/StoneVergePost_01_fd_fd.et"
  }
  m_fDistance 15
 }
