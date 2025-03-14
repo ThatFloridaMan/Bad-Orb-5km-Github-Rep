@@ -1,0 +1,407 @@
+$grp Tree : "{0D0A8FDAA4C367BB}Prefabs/Vegetation/Bushes/b_corylus_avellana_1l_fd_fd.et" {
+ {
+  coords 566.064 0 2413.869
+  angleX -3.042
+  angleY 13.928
+  angleZ -2.594
+  scale 0.8
+ }
+ {
+  coords 557.944 0 2407.354
+  angleX -5.212
+  angleY -41.058
+  angleZ 2.168
+  scale 0.8
+ }
+ {
+  coords 544.576 0 2394.712
+  angleX -6.34
+  angleY -27.268
+  angleZ 3.258
+  scale 0.8
+ }
+ {
+  coords 534.297 0 2383.013
+  angleX 0.993
+  angleY -83.693
+  angleZ 7.275
+  scale 0.8
+ }
+ {
+  coords 497.847 0 2349.283
+  angleX -9.176
+  angleY 68.966
+  angleZ -4.055
+  scale 0.8
+ }
+ {
+  coords 490.471 0 2341.279
+  angleX 7.778
+  angleY 163.835
+  angleZ -11.333
+  scale 0.8
+ }
+}
+$grp Tree : "{2417E177CE240450}Prefabs/Vegetation/Plant/p_urtica_dioica_0s_fd_fd.et" {
+ {
+  coords 539.521 0 2389.689
+  angleX -7.125
+ }
+ {
+  coords 490.956 0 2343.665
+  angleX -10.62
+  angleZ 8.731
+ }
+}
+$grp GenericEntity : "{3DECB10E2D0EBA77}Prefabs/Labels/Forests.et" {
+ Schwarzwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Schwarzwald "
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Schwarzwald "
+   }
+  }
+  coords 4289.769 240.935 3236.544
+ }
+ Schwarzwald2 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Schwarzwald "
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Schwarzwald "
+   }
+  }
+  coords 4191.02 257.917 2783.849
+ }
+ Grunewald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Grunewald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Grunewald"
+   }
+  }
+  coords 3966.015 280.36 2419.063
+ }
+ Poopenwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Poopenwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Poopenwald"
+   }
+  }
+  coords 3577.854 156.401 4279.808
+ }
+ Ringwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Ringwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Ringwald"
+   }
+  }
+  coords 426.631 181.071 2816.582
+ }
+ WC_671a {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-671"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-671"
+   }
+  }
+  coords 1281.449 198.453 2234.132
+ }
+ WC_672a {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-672"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-672"
+   }
+  }
+  coords 1531.615 222.706 2154.339
+ }
+ WC_670 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-670"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-670"
+   }
+  }
+  coords 1131.509 191.15 2104.437
+ }
+ WC_669 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-669"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-669"
+   }
+  }
+  coords 1217.803 219.712 1946.628
+ }
+ WC_672b {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-672"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-672"
+   }
+  }
+  coords 1945.204 245.476 2024.109
+ }
+ WC_673b {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-673"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-673"
+   }
+  }
+  coords 1495.54 258.114 1954.722
+ }
+ WC_673c {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-673"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-673"
+   }
+  }
+  coords 1597.104 297.012 1576.232
+ }
+ WC_673a {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-673"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-673"
+   }
+  }
+  coords 1847.459 292.172 1773.599
+ }
+ WC_668 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-668"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-668"
+   }
+  }
+  coords 1341.545 245.791 1763.367
+ }
+ WC_671b {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-671"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-671"
+   }
+  }
+  coords 1886.989 210.765 2389.177
+ }
+ WC_667 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-667"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-667"
+   }
+  }
+  coords 1092.6 238.827 1684.62
+ }
+ WC_666 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-666"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-666"
+   }
+  }
+  coords 1002.022 187.043 2022.89
+ }
+ WC_665 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-665"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-665"
+   }
+  }
+  coords 805.465 220.009 1912.562
+ }
+ WC_664 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-664"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-664"
+   }
+  }
+  coords 676.004 240.514 1847.562
+ }
+ WC_663 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-663"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-663"
+   }
+  }
+  coords 609.386 213.922 2037.903
+ }
+ WC_662 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-662"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-662"
+   }
+  }
+  coords 554.409 192.253 2168.344
+ }
+ WC_661 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-661"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-661"
+   }
+  }
+  coords 218.43 218.682 2337.339
+ }
+ WC_660 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-660"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-660"
+   }
+  }
+  coords 9.778 197.936 2508.265
+ }
+}
+$grp Tree : "{E3F3D096B9284C3F}Prefabs/Vegetation/Bushes/b_corylus_avellana_1_fd_fd.et" {
+ {
+  coords 543.557 0 2392.096
+  angleX -6.07
+  angleY 31.702
+  angleZ -3.737
+  scale 0.8
+ }
+ {
+  coords 535.384 0 2385.819
+  angleX 6.601
+  angleY 157.784
+  angleZ -2.688
+  scale 0.8
+ }
+ {
+  coords 522.333 0 2371.78
+  angleX 5.011
+  angleY -134.098
+  angleZ 2.6
+  scale 0.8
+ }
+ {
+  coords 518.533 0 2370.309
+  angleX -6.026
+  angleY 13.238
+  angleZ 2.242
+  scale 0.8
+ }
+ {
+  coords 509.67 0 2361.303
+  angleX 5.619
+  angleY 168.815
+  angleZ -8.316
+  scale 0.8
+ }
+ {
+  coords 496.339 0 2347.51
+  angleX -10.474
+  angleY 16.166
+  angleZ 4.305
+  scale 0.8
+ }
+ {
+  coords 494.375 0 2346.293
+  angleX -4.003
+  angleY 108.187
+  angleZ -10.592
+  scale 0.8
+ }
+}
