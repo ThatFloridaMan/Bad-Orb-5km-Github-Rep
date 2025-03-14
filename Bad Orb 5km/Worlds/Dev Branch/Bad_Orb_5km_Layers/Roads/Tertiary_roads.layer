@@ -18937,6 +18937,27 @@ $grp SplineShapeEntity {
    ShapePoint "{64DB3EF83A2D9F40}" {
     Position 6.752 0.048 -77.944
    }
+   ShapePoint "{64DCE7599097EAE0}" {
+    Position 3.383 0.938 -102.93
+   }
+   ShapePoint "{64DCE75994E975F8}" {
+    Position -22.983 0.907 -110.907
+    Data {
+     SplinePointData SplinePointData {
+      InTangent -29.191 0.027 -4.518
+      OutTangent -29.071 0.027 -4.499
+     }
+    }
+   }
+   ShapePoint "{64DCE759811CB859}" {
+    Position -51.835 1.032 -111.312
+   }
+   ShapePoint "{64DCE75980C40054}" {
+    Position -60.217 -0.189 -83.306
+   }
+   ShapePoint "{64DCE75987C5AA6E}" {
+    Position -71.694 -2.094 -6.67
+   }
   }
   {
    RoadGeneratorEntity : "{24948AB10942D328}Prefabs/WEGenerators/Roads/Cobblestone/RG_Road_Cobblestone_01_fd_fd.et" {
@@ -18958,7 +18979,28 @@ $grp SplineShapeEntity {
         Position 4.383 -0.063 -40.655
        }
        ShapePoint "{64DB3EF83EDCDB1A}" {
-        Position 6.953 0.048 -75.221
+        Position 6.952 0.048 -75.22
+       }
+       ShapePoint "{64DCE7599097A078}" {
+        Position 3.583 0.938 -100.205
+       }
+       ShapePoint "{64DCE75994E910F3}" {
+        Position -22.783 0.907 -108.183
+        Data {
+         SplinePointData "{00000000D8F1BA4F}" {
+          InTangent -29.191 0.027 -4.518
+          OutTangent -29.071 0.027 -4.499
+         }
+        }
+       }
+       ShapePoint "{64DCE7598CA462A7}" {
+        Position -51.635 1.032 -108.588
+       }
+       ShapePoint "{64DCE759811C48B6}" {
+        Position -60.017 -0.189 -80.582
+       }
+       ShapePoint "{64DCE75980C7D4D0}" {
+        Position -71.494 -2.094 -3.946
        }
       }
       IsClosedSpline 0
@@ -19221,216 +19263,5 @@ $grp SplineShapeEntity {
     }
    }
   }
- }
-}
-$grp Tree : "{0D0A8FDAA4C367BB}Prefabs/Vegetation/Bushes/b_corylus_avellana_1l_fd_fd.et" {
- {
-  coords 263.999 0 1004.405
-  angleX 1.981
-  angleY 2.052
-  angleZ -5.286
-  scale 0.8
- }
- {
-  coords 282.77 0 999.49
-  angleX 3.398
-  angleY 115.372
-  angleZ 9.437
-  scale 0.8
- }
- {
-  coords 286.889 0 999.225
-  angleX -13.329
-  angleY -126.301
-  angleZ -3.264
-  scale 0.8
- }
- {
-  coords 293.422 0 997.829
-  angleX -6.033
-  angleY -75.702
-  angleZ -5.196
-  scale 0.8
- }
- {
-  coords 292.848 0 1004.836
-  angleX -5.219
-  angleY -59.184
-  angleZ -5.171
-  scale 0.8
- }
- {
-  coords 289.304 0 1004.76
-  angleX 7.303
-  angleY 70.009
-  angleZ -0.76
-  scale 0.8
- }
- {
-  coords 295.725 0 988.103
-  angleX -5.388
-  angleY -35.506
-  angleZ -13.428
-  scale 0.8
- }
- {
-  coords 296.97 0 967.997
-  angleX 11.206
-  angleY 46.72
-  angleZ 1.576
-  scale 0.8
- }
- {
-  coords 296.243 0 977.094
-  angleX 6.883
-  angleY 121.625
-  angleZ 12.383
-  scale 0.8
- }
- {
-  coords 241.836 0 1001.893
-  angleX -4.927
-  angleY -97.422
-  angleZ -10.048
-  scale 0.8
- }
- {
-  coords 225.403 0 1041.035
-  angleX 3.992
-  angleY 60.657
-  angleZ -0.194
-  scale 0.8
- }
- {
-  coords 229.991 0 1030.547
-  angleX -3.38
-  angleY -86.929
-  angleZ -3.756
-  scale 0.8
- }
- {
-  coords 232.492 0 1029.531
-  angleX -0.986
-  angleY -77.691
-  angleZ -3.874
-  scale 0.8
- }
- {
-  coords 237.849 0 1018.703
-  angleX 3.572
-  angleY 2.978
-  angleZ 0.186
-  scale 0.8
- }
- {
-  coords 240.652 0 1012.636
-  angleX -2.524
-  angleY 155.673
-  angleZ 3.101
-  scale 0.8
- }
-}
-$grp Tree : "{2417E177CE240450}Prefabs/Vegetation/Plant/p_urtica_dioica_0s_fd_fd.et" {
- {
-  coords 259.906 0 1005.04
-  angleX -5.356
-  angleZ -5.333
- }
- {
-  coords 261.853 0 1003.902
-  angleX 3.576
-  angleZ -5.345
- }
- {
-  coords 284.816 0 999.977
-  angleX 8.881
-  angleZ -8.776
- }
- {
-  coords 294.57 0 991.928
-  angleX 5.356
-  angleZ -12.287
- }
- {
-  coords 250.755 0 1001.625
-  angleX 5.356
-  angleZ -3.561
- }
- {
-  coords 262.48 0 1000.409
-  angleX 3.576
-  angleZ -5.345
- }
-}
-Tree : "{ADCADFD775B7857F}Prefabs/Vegetation/Plant/p_arctium_lappa_0s_fd_fd.et" {
- coords 295.926 0 990.38
- angleX 1.343
- angleY -13.9
- angleZ -16.46
- scale 0.614
-}
-$grp Tree : "{E3F3D096B9284C3F}Prefabs/Vegetation/Bushes/b_corylus_avellana_1_fd_fd.et" {
- {
-  coords 273.991 0 1001.421
-  angleX -4.336
-  angleY 172.161
-  angleZ 7.758
-  scale 0.8
- }
- {
-  coords 276.81 0 1001.27
-  angleX 8.874
-  angleY 50.927
-  angleZ -0.34
-  scale 0.8
- }
- {
-  coords 295.96 0 1003.172
-  angleX 4.083
-  angleY 19.609
-  angleZ -6.107
-  scale 0.8
- }
- {
-  coords 233.714 0 1003.718
-  angleX -4.657
-  angleY -157.841
-  angleZ 1.959
-  scale 0.8
- }
- {
-  coords 235.746 0 1003.161
-  angleX 7.442
-  angleY 47.389
-  angleZ 2.82
-  scale 0.8
- }
- {
-  coords 256.992 0 1000.587
-  angleX -3.128
-  angleY -83.196
-  angleZ -3.968
-  scale 0.8
- }
- {
-  coords 234.372 0 1023.649
-  angleX 3.165
-  angleY 64.247
-  angleZ 2.442
-  scale 0.8
- }
- {
-  coords 236.896 0 1021.172
-  angleX -1.093
-  angleY -127.614
-  angleZ -1.418
-  scale 0.8
- }
- {
-  coords 239.7 0 1014.399
-  angleX 3.174
-  angleY 64.038
-  angleZ 2.431
-  scale 0.8
  }
 }

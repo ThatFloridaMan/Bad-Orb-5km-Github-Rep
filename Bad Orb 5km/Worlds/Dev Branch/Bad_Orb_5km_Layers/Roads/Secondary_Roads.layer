@@ -3825,7 +3825,7 @@ $grp SplineShapeEntity {
     Position 349.868 18.031 -2093.901
    }
    ShapePoint "{6154E7140D7AF9D9}" {
-    Position 388.75 18.992 -2110.425
+    Position 385.964 18.926 -2112.03
    }
    ShapePoint "{6154E7140C1C2B06}" {
     Position 428.852 19.954 -2127.69
@@ -4082,7 +4082,7 @@ $grp SplineShapeEntity {
         Position 349.868 18.031 -2093.9
        }
        ShapePoint "{616B5478CE564C19}" {
-        Position 388.75 18.992 -2110.424
+        Position 385.964 18.926 -2112.029
        }
        ShapePoint "{616B5478CE564CD5}" {
         Position 428.852 19.954 -2127.689
@@ -6811,7 +6811,7 @@ $grp SplineShapeEntity {
     Position -378.697 -12.743 -63.493
    }
    ShapePoint "{64DB3EF9C20BF6C6}" {
-    Position -396.455 -12.599 -66.405
+    Position -409.376 -12.976 -68.234
    }
   }
   {
@@ -6838,7 +6838,7 @@ $grp SplineShapeEntity {
         Position -25.105 -1.627 -4.748
        }
        ShapePoint "{64DB3EF9B5FB7383}" {
-        Position -41.836 -3.646 -8.088
+        Position -41.836 -3.646 -8.089
        }
        ShapePoint "{64DB3EF9B5FB724A}" {
         Position -87.489 -6.983 -15.674
@@ -6856,13 +6856,13 @@ $grp SplineShapeEntity {
         Position -296.445 -12.58 -49.99
        }
        ShapePoint "{64DB3EF9B5FB7D21}" {
-        Position -341.712 -12.92 -57.424
+        Position -341.713 -12.92 -57.424
        }
        ShapePoint "{64DB3EF9B5FB7DE5}" {
         Position -378.697 -12.743 -63.493
        }
        ShapePoint "{64DB3EF9B5FB7DA6}" {
-        Position -396.455 -12.599 -66.405
+        Position -409.376 -12.976 -68.233
        }
       }
       IsClosedSpline 0
@@ -7069,7 +7069,7 @@ $grp Tree : "{2417E177CE240450}Prefabs/Vegetation/Plant/p_urtica_dioica_0s_fd_fd
 }
 $grp SCR_DestructibleBuildingEntity : "{2C0901F12C5CC145}Prefabs/Structures/Industrial/Workplaces/Workshop_01_Main_fd_fd.et" {
  {
-  coords 363.44 -0 1008.954
+  coords 363.44 0 1008.954
   angleY -11
  }
  {
@@ -7094,7 +7094,7 @@ $grp Tree : "{ADCADFD775B7857F}Prefabs/Vegetation/Plant/p_arctium_lappa_0s_fd_fd
  }
 }
 SCR_DestructibleBuildingEntity : "{B5B225269B6F67BD}Prefabs/Structures/Industrial/Workplaces/Workshop_02_fd_fd.et" {
- coords 324.356 -0 1011.196
+ coords 324.356 0 1011.196
  angleY -94
 }
 $grp Tree : "{E3F3D096B9284C3F}Prefabs/Vegetation/Bushes/b_corylus_avellana_1_fd_fd.et" {
