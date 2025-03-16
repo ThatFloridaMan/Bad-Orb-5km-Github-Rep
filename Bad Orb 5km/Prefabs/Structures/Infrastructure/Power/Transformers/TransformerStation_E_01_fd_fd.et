@@ -1,3 +1,8 @@
 SCR_DestructibleBuildingEntity : "{06804C659EF7C47D}Prefabs/Structures/Infrastructure/Power/TransformerStation_E_01/TransformerStation_E_01.et" {
  ID "F0DBA538AC2A0552"
+ components {
+  MeshObject "{506EDA9D46FC6C06}" {
+   PixelSizeScale 4
+  }
+ }
 }

@@ -5,7 +5,8 @@ Tree : "{8F91FCAFE65FCDA6}Prefabs/Vegetation/Tree/t_carpinus_betulus_3s.et" {
    LODFactors {
     16 8 4 2 1
    }
-   PixelSizeScale 1.5
+   PixelSizeScale 4
   }
  }
+ scale 1.066
 }

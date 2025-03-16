@@ -1,3 +1,11 @@
 Tree : "{AED5759B653DF6D0}Prefabs/Vegetation/Bush/b_rosa_canina_1s.et" {
  ID "0F2AA6B42CA78628"
+ components {
+  MeshObject "{545B01F41F2EA5C4}" {
+   LODFactors {
+    8 4 2 1
+   }
+   PixelSizeScale 4
+  }
+ }
 }

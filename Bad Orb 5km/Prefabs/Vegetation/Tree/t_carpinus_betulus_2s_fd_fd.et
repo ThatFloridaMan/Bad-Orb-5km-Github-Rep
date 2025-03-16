@@ -5,8 +5,9 @@ Tree : "{F89B942712FD22D6}Prefabs/Vegetation/Tree/t_carpinus_betulus_2s.et" {
    LODFactors {
     15 4 2 1
    }
-   PixelSizeScale 2
+   PixelSizeScale 3
   }
  }
  coords 11.885 -22.036 -19.575
+ scale 1.187
 }

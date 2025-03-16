@@ -1,3 +1,11 @@
 Tree : "{0CA0547EB03759E1}Prefabs/Vegetation/Bush/b_rubus_idaeus_1s.et" {
  ID "0F2AA6B42CA78628"
+ components {
+  MeshObject "{545B01F41F2EA5C4}" {
+   LODFactors {
+    8 4 2 1
+   }
+   PixelSizeScale 4
+  }
+ }
 }

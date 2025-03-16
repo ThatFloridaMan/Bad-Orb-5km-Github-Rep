@@ -1,3 +1,8 @@
 SCR_DestructibleBuildingEntity : "{748640C90A664E29}Prefabs/Structures/Houses/Wooden/House_Wooden_E_1I01/House_Wooden_E_1I01_panels.et" {
  ID "51A2846100141E7D"
+ components {
+  MeshObject "{506EDA9D46FC6C06}" {
+   PixelSizeScale 4
+  }
+ }
 }

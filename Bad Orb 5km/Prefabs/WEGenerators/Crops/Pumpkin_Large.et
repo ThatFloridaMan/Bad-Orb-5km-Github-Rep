@@ -1,0 +1,73 @@
+ForestGeneratorEntity : "{AD8008F7954F8E55}Prefabs/WEGenerators/Forest/Spruce_Thick_fd_fd.et" {
+ ID "5D232750AE96F11C"
+ coords 0 0 0
+ Flags 1048579
+ m_aLevels {
+  ForestGeneratorOutline Outline_small {
+   m_bGenerate 0
+  }
+  ForestGeneratorOutline Outline_big {
+   m_bGenerate 0
+  }
+  ForestGeneratorTopLevel TopLevel {
+   m_aTreeGroups {
+    TreeGroupClass Trees {
+     m_aTrees {
+      ForestGeneratorTreeTall pinus_sylvestris_3f {
+       m_fMinScale 3
+       m_fMaxScale 3
+       m_Prefab "{84D41925E6153AB0}Prefabs/Vegetation/Vegetables/PumpkinCrop_01_fd_fd.et"
+       m_fTopDistance 1
+      }
+      ForestGeneratorTreeTall tree_2 {
+       m_fMinScale 3
+       m_fMaxScale 3
+       m_Prefab "{84D41925E6153AB0}Prefabs/Vegetation/Vegetables/PumpkinCrop_01_fd_fd.et"
+       m_fTopDistance 1
+      }
+      ForestGeneratorTreeTall tree_3 {
+       m_fMinScale 3
+       m_fMaxScale 3
+       m_Prefab "{84D41925E6153AB0}Prefabs/Vegetation/Vegetables/PumpkinCrop_01_fd_fd.et"
+       m_fTopDistance 1
+      }
+     }
+    }
+    TreeGroupClass trees_2 {
+     m_aTrees {
+      ForestGeneratorTreeTall dec_tree_1 {
+       m_fMinScale 3
+       m_fMaxScale 3
+       m_Prefab "{84D41925E6153AB0}Prefabs/Vegetation/Vegetables/PumpkinCrop_01_fd_fd.et"
+       m_fTopDistance 1
+      }
+      ForestGeneratorTreeTall dec_tree_2 {
+       m_fMinScale 3
+       m_fMaxScale 3
+       m_Prefab "{84D41925E6153AB0}Prefabs/Vegetation/Vegetables/PumpkinCrop_01_fd_fd.et"
+       m_fTopDistance 1
+      }
+     }
+    }
+   }
+   m_fDensity 20000
+  }
+  ForestGeneratorBottomLevel BottomLevel {
+   m_bGenerate 0
+  }
+ }
+ m_aClusters {
+  ForestGeneratorCircleCluster Birches {
+   m_bGenerate 0
+  }
+  ForestGeneratorCircleCluster BushesStones {
+   m_bGenerate 0
+  }
+  ForestGeneratorCircleCluster Dead_trees {
+   m_bGenerate 0
+  }
+  ForestGeneratorCircleCluster Pines {
+   m_bGenerate 0
+  }
+ }
+}

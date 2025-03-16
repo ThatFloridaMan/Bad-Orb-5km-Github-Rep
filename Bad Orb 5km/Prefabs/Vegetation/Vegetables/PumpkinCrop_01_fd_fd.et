@@ -1,3 +1,14 @@
 Tree : "{84D41925E6153AAF}Prefabs/Vegetation/Vegetables/PumpkinCrop_01.et" {
  ID "2272273384468550"
+ components {
+  MeshObject "{545B01F41F2EA5C4}" {
+   LODFactors {
+    16 8 4 2 1
+   }
+   PixelSizeScale 3
+   CastFarShadow 0
+  }
+ }
+ placement slopelandcontact
+ SoundType Bush
 }
