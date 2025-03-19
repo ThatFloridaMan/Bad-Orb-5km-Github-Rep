@@ -178,7 +178,7 @@ ForestGeneratorEntity {
       }
       ForestGeneratorTreeMiddle Carpinus_Betulus_1f {
        m_fMinScale 0.7
-       m_Prefab "{99D77B10B980D106}PrefabLibrary/Vegetation/Trees/t_carpinus_betulus_1f.et"
+       m_Prefab "{7048A22F71F66285}Prefabs/Vegetation/Tree/t_carpinus_betulus_1f_fd_fd.et"
        m_fBotDistance 0.3
        m_fRandomPitchAngle 1.5
        m_fRandomRollAngle 1.5

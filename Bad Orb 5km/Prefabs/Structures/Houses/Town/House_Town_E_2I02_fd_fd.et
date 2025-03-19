@@ -2,7 +2,7 @@ SCR_DestructibleBuildingEntity : "{54F1C704EB440885}Prefabs/Structures/Houses/To
  ID "F0DBA538AC2A0552"
  components {
   MeshObject "{506EDA9D46FC6C06}" {
-   PixelSizeScale 4
+   PixelSizeScale 2
   }
  }
 }

@@ -1,3 +1,8 @@
 Tree : "{F4C920FCE86AD599}Prefabs/Vegetation/Tree/t_picea_abies_0.et" {
  ID "0F2AA6B42CA78628"
+ components {
+  MeshObject "{73B3A8278EC9D71C}" {
+   PixelSizeScale 3
+  }
+ }
 }
