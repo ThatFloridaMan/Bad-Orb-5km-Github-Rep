@@ -1,3 +1,56 @@
+$grp GenericEntity {
+ Hirschbachteich {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Hirschbachteich"
+    }
+    m_bAutoRegister NEVER
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Hirschbachteich"
+    MainType "Name Water Minor"
+   }
+  }
+  coords 1740.545 195.565 2383.237
+ }
+ Rabenteich {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Rabenteich"
+    }
+    m_bAutoRegister NEVER
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Rabenteich"
+    MainType "Name Water Minor"
+   }
+  }
+  coords 1457.015 189.437 2318.054
+ }
+ groberteich {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "großerteich"
+    }
+    m_bAutoRegister NEVER
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "großerteich"
+    MainType "Name Water Minor"
+   }
+  }
+  coords 3840.69 276.491 449.285
+ }
+}
 $grp PolylineShapeEntity {
  {
   coords 595.515 203.491 2789.741
@@ -346,5 +399,91 @@ $grp PolylineShapeEntity {
     coords 0 0 0
    }
   }
+ }
+ {
+  coords 3373.224 363.3 1002.483
+  Points {
+   ShapePoint "{64ED31A57C84A72A}" {
+    Position 0 0 0
+   }
+   ShapePoint "{64ED31A57C84959F}" {
+    Position 9.52 -0 -10.82
+   }
+   ShapePoint "{64ED31A577F60031}" {
+    Position 6.604 0 -34.634
+   }
+   ShapePoint "{64ED31A5775DB102}" {
+    Position -1.638 0 -48.505
+   }
+   ShapePoint "{64ED31A576E5104A}" {
+    Position -13.847 0 -58.394
+   }
+   ShapePoint "{64ED31A57631851A}" {
+    Position -26.189 0 -48.889
+   }
+   ShapePoint "{64ED31A5767175B5}" {
+    Position -37.049 0 -34.463
+   }
+   ShapePoint "{64ED31A575B87CDE}" {
+    Position -38.004 0 -18.763
+   }
+   ShapePoint "{64ED31A575ED148D}" {
+    Position -22.778 0 -5.063
+   }
+   ShapePoint "{64ED31A5751850B0}" {
+    Position -12.405 0 1.425
+   }
+   ShapePoint "{64ED31A5748DA051}" {
+    Position -4.558 0 2.138
+   }
+  }
+  {
+   LakeGeneratorEntity : "{5D258FD685D411EA}Prefabs/WEGenerators/Water/Lakes/LG_LakeMountain_01_fd_fd.et" {
+    coords 0 0 0
+   }
+  }
+ }
+}
+$grp GenericEntity : "{55A8E0FCCE1C8D06}Prefabs/Rocks/GraniteCliff_03_fd_fd.et" {
+ {
+  coords 3353.947 342.527 989.366
+  angleY 133
+ }
+ {
+  coords 3375.45 343.045 990.676
+  angleY -105
+ }
+ {
+  coords 3376.612 343.775 976.726
+  angleY -77
+ }
+}
+GenericEntity : "{B034AC05C2F91A6D}Prefabs/Rocks/GraniteCliff_02_fd_fd.et" {
+ coords 3349.043 343.613 979.031
+ angleX 6.449
+ angleY 106.92
+ angleZ 0.286
+}
+$grp GenericEntity : "{DC6098E57E3D9543}Prefabs/Rocks/GraniteCliff_01_fd_fd.et" {
+ {
+  coords 3353.333 343.25 960.72
+  angleY 32
+ }
+ {
+  coords 3350.133 343.216 968.292
+  angleX 9.138
+  angleY 69
+ }
+ {
+  coords 3376.297 343.861 981.088
+  angleX 9.028
+  angleY -86.481
+  angleZ 2.807
+ }
+ {
+  coords 3374.621 344.78 966.569
+  angleX 9.028
+  angleY -106.481
+  angleZ 2.807
  }
 }

@@ -6182,7 +6182,7 @@ $grp SplineShapeEntity {
   coords 74.706 136.937 3142.183
   Points {
    ShapePoint "{64B90DF691BC50E1}" {
-    Position -0.029 0 -0.074
+    Position 0.112 0.001 0.097
    }
    ShapePoint "{64B90DF691BB8856}" {
     Position 21.815 0.156 -0.688
@@ -6199,7 +6199,7 @@ $grp SplineShapeEntity {
       ID "556C6556FAB8EA7A"
       SplinePoints {
        ShapePoint "{556C6556BF2A9CBB}" {
-        Position -0.029 0 -0.074
+        Position 0.112 0.001 0.097
        }
        ShapePoint "{556C6556BF2A9DE7}" {
         Position 21.815 0.156 -0.688
@@ -7069,7 +7069,7 @@ $grp Tree : "{2417E177CE240450}Prefabs/Vegetation/Plant/p_urtica_dioica_0s_fd_fd
 }
 $grp SCR_DestructibleBuildingEntity : "{2C0901F12C5CC145}Prefabs/Structures/Industrial/Workplaces/Workshop_01_Main_fd_fd.et" {
  {
-  coords 363.44 0 1008.954
+  coords 363.44 0.258 1008.954
   angleY -11
  }
  {

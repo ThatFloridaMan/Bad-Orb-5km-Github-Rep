@@ -1,3 +1,330 @@
+$grp GenericEntity : "{15D9374EA25A08A9}Prefabs/Structures/Infrastructure/Lamps/Lamp3/LampStreet_E_03_single_fd_fd.et" {
+ {
+  coords 4343.344 0.001 2568.118
+  angleY 50
+ }
+ {
+  coords 4265.142 0 2645.981
+  angleY 139
+ }
+}
+$grp GenericEntity : "{254D18180BCD89CE}Prefabs/Structures/Infrastructure/Lamps/Lamp2/LampStreet_E_02_single_fd_fd.et" {
+ {
+  coords 4606.233 -0.001 3545.955
+  angleY 48
+ }
+ {
+  coords 4626.787 0 3547.454
+  angleY -148
+ }
+ {
+  coords 4645.253 0 3526.531
+  angleY 22
+ }
+ {
+  coords 4663.89 0 3530.378
+  angleY -117
+ }
+ {
+  coords 4673.321 0 3550.839
+  angleY 137
+ }
+ {
+  coords 4672.204 0 3513.342
+  angleY 20
+ }
+ {
+  coords 4772.498 0 3491.206
+  angleY -167
+ }
+ {
+  coords 4877.876 0 3448.387
+  angleY -142
+ }
+ {
+  coords 4833.169 0 3490.024
+  angleY 123
+ }
+ {
+  coords 4851.569 0 3504.06
+  angleY -59
+ }
+ {
+  coords 4649.882 0.001 3584.375
+  angleY -22
+ }
+ {
+  coords 4632.321 -0.001 3559.381
+  angleY -49
+ }
+ {
+  coords 4776.057 0.001 3596.075
+  angleY -37
+ }
+ {
+  coords 4767.612 0 3587.24
+  angleY -53
+ }
+ {
+  coords 4804.144 0 3626.641
+  angleY -51
+ }
+ {
+  coords 4931.063 0 3411.547
+ }
+ {
+  coords 4919.787 0 3420.689
+  angleY 76
+ }
+ {
+  coords 4934.513 0 3434.651
+  angleY -137
+ }
+ {
+  coords 4423.996 0 3926.814
+  angleY -40
+ }
+ {
+  coords 4517.397 0 3883.51
+  angleY 23
+ }
+ {
+  coords 4497.389 0 3869.227
+  angleY 121
+ }
+ {
+  coords 4497.046 -0.001 3834.612
+  angleY 33
+ }
+ {
+  coords 4447.612 0 3849.677
+  angleY 33
+ }
+ {
+  coords 4728.614 0.001 3800.539
+  angleY -72
+ }
+ {
+  coords 4712.684 0 3791.826
+  angleY 73
+ }
+ {
+  coords 4711.805 0 3765.527
+  angleY -114
+ }
+ {
+  coords 4738.327 0 3741.552
+  angleY 173
+ }
+ {
+  coords 4774.683 -0.001 3773.01
+  angleY -10
+ }
+ {
+  coords 4754.686 0 3748.517
+  angleY -60
+ }
+ {
+  coords 4773.486 0 3695.535
+  angleY 120
+ }
+ {
+  coords 4813.301 0 3725.753
+  angleY 152
+ }
+ {
+  coords 4830.328 0 3724.279
+  angleY -129
+ }
+ {
+  coords 4847.113 0 3691.394
+  angleY 91
+ }
+ {
+  coords 4831.207 0 3673.256
+  angleY 138
+ }
+ {
+  coords 4972.259 0 3769.621
+  angleY -52
+ }
+ {
+  coords 4966.99 0 3757.604
+  angleY -93
+ }
+ {
+  coords 4993.483 0 3737.537
+  angleY -172
+ }
+ {
+  coords 5009.711 0.001 3743.195
+  angleY 125
+ }
+ {
+  coords 4979.388 0 3748.19
+  angleY -145
+ }
+ {
+  coords 4991.871 0 3717.279
+  angleY -15
+ }
+ {
+  coords 5005.051 0 3722.766
+  angleY -15
+ }
+ {
+  coords 5023.971 0 3731.015
+  angleY -15
+ }
+ {
+  coords 4950.203 0 3750.382
+  angleY 114
+ }
+ {
+  coords 4954.154 0 3766.143
+  angleY 114
+ }
+ {
+  coords 4957.483 0 3781.155
+  angleY 79
+ }
+ {
+  coords 4968.291 0 3721.229
+  angleY 30
+ }
+ {
+  coords 4956.555 0.001 3729.213
+  angleY 30
+ }
+ {
+  coords 4947.107 0 3787.274
+  angleY -29
+ }
+ {
+  coords 4925.67 0 3762.528
+  angleY -46
+ }
+ {
+  coords 4878.677 0 3710.878
+  angleY -46
+ }
+ {
+  coords 4899.142 0 3732.679
+  angleY -46
+ }
+ {
+  coords 4785.685 0 3819.604
+  angleY -46
+ }
+ {
+  coords 4816.529 0 3832.702
+  angleY -142
+ }
+ {
+  coords 4850.87 0 3802.291
+  angleY 45
+ }
+ {
+  coords 4898.045 0 3823.828
+  angleY -4
+ }
+ {
+  coords 4641.608 0 3503.49
+  angleY -85
+ }
+ {
+  coords 4613.287 0 3485.377
+  angleY 134
+ }
+ {
+  coords 4613.251 0 3450.608
+  angleY 56
+ }
+ {
+  coords 4635.833 0 3435.768
+  angleY 22
+ }
+ {
+  coords 4657.073 0 3427.095
+  angleY 21
+ }
+ {
+  coords 4612.428 -0.001 3465.582
+  angleY -82
+ }
+ {
+  coords 4373.485 0 4314.069
+  angleY -83
+ }
+ {
+  coords 3954.893 0 4078.708
+  angleY -27
+ }
+ {
+  coords 3844.439 0 4122.081
+  angleY 124
+ }
+ {
+  coords 3842.676 0 4123.055
+  angleY -39
+ }
+ {
+  coords 3375.267 0 4429.417
+  angleY -110
+ }
+ {
+  coords 3358.208 -0.003 4439.329
+  angleY -110
+ }
+ {
+  coords 3321.341 0 4437.117
+  angleY 113
+ }
+ {
+  coords 3413.484 0 4443.389
+  angleY 168
+ }
+ {
+  coords 3439.028 0 4419.695
+  angleY -137
+ }
+ {
+  coords 3440.824 0 4462.429
+  angleY -47
+ }
+ {
+  coords 3472.965 -0.001 4443.987
+  angleY -157
+ }
+ {
+  coords 3577.225 0 4381.65
+  angleY 78
+ }
+ {
+  coords 3559.389 0 4930.229
+  angleY -74
+ }
+ {
+  coords 3591.319 0 4947.897
+  angleY -7
+ }
+ {
+  coords 3570.618 0 4996.894
+  angleY -98
+ }
+ {
+  coords 3617.29 0 5009.021
+  angleY 83
+ }
+ {
+  coords 3629.809 0 4947.766
+  angleY 132
+ }
+ {
+  coords 3642.178 0 4983.162
+  angleY 143
+ }
+}
 $grp GenericEntity : "{3DECB10E2D0EBA77}Prefabs/Labels/Forests.et" {
  Schwarzwald {
   components {
@@ -2767,5 +3094,432 @@ $grp GenericEntity : "{3DECB10E2D0EBA77}Prefabs/Labels/Forests.et" {
    }
   }
   coords 4825.619 278.222 4452.313
+ }
+ Funfwald {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Funfwald"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Funfwald"
+   }
+  }
+  coords 4368.061 181.068 4186.5
+ }
+ WC_812 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-812"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-812"
+   }
+  }
+  coords 2590.068 191.138 4267.273
+ }
+ WC_813 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-813"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-813"
+   }
+  }
+  coords 2449.817 210.871 4114.245
+ }
+ WC_814 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-814"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-814"
+   }
+  }
+  coords 2948.23 256.556 3327.15
+ }
+ WC_815 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-815"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-815"
+   }
+  }
+  coords 1964.415 171.827 3976.122
+ }
+ WC_816 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-816"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-816"
+   }
+  }
+  coords 1865.395 159.171 3999.723
+ }
+}
+$grp GenericEntity : "{A501F1CC63130AFA}Prefabs/Structures/Infrastructure/Lamps/Lamp2/LampStreet_E_02_addon_fd_fd.et" {
+ {
+  coords 4551.082 6.819 3882.497
+  angleY -165
+ }
+ {
+  coords 4512.895 6.629 3909.807
+  angleY 133
+ }
+ {
+  coords 4500.03 6.161 3914.536
+  angleY -161
+ }
+ {
+  coords 4471.06 6.474 3924.859
+  angleY 147
+ }
+ {
+  coords 4454.324 6.992 3930.472
+  angleY -111
+ }
+ {
+  coords 4660.815 5.761 3862.03
+  angleY -164
+ }
+ {
+  coords 4681 6.919 3849.947
+  angleY -135
+ }
+ {
+  coords 4695.272 5.99 3843.311
+  angleY -180
+ }
+ {
+  coords 4707.787 6.414 3840.78
+  angleY -46
+ }
+ {
+  coords 4731.111 6.544 3828.559
+  angleY 180
+ }
+ {
+  coords 4775.667 6.59 3792.727
+  angleY -105
+ }
+ {
+  coords 4791.588 6.717 3775.687
+  angleY -139
+ }
+ {
+  coords 4819.709 6.816 3746.433
+  angleY -106
+ }
+ {
+  coords 4847.599 6.726 3715.063
+  angleY -128
+ }
+ {
+  coords 4873.347 6.682 3690.482
+  angleY 35
+ }
+ {
+  coords 4911.09 6.298 3662.424
+  angleY -26
+ }
+ {
+  coords 4888.301 6.53 3654.319
+  angleY 146
+ }
+ {
+  coords 4781.112 6.35 3615.509
+  angleY 135
+ }
+ {
+  coords 4749.25 6.562 3580.198
+  angleY 135
+ }
+ {
+  coords 4724.198 6.481 3554.874
+  angleY 135
+ }
+ {
+  coords 4710.715 6.389 3540.605
+  angleY 135
+ }
+ {
+  coords 4688.146 6.191 3517.785
+  angleY 135
+ }
+ {
+  coords 4704.241 6.566 3501.498
+  angleY 50
+ }
+ {
+  coords 4728.918 6.516 3494.21
+  angleY 12
+ }
+ {
+  coords 4748.075 6.914 3488.493
+  angleY 12
+ }
+ {
+  coords 4758.063 6.246 3483.384
+  angleY 35
+ }
+ {
+  coords 4786.025 6.119 3473.639
+  angleY 45
+ }
+ {
+  coords 4806.228 6.322 3465.821
+  angleY 24
+ }
+ {
+  coords 4818.851 7.471 3462.229
+  angleY 23
+ }
+ {
+  coords 4845.581 6.802 3451.293
+  angleY 23
+ }
+ {
+  coords 4857.52 6.185 3445.871
+  angleY 32
+ }
+ {
+  coords 4881.087 6.416 3430.618
+  angleY 32
+ }
+ {
+  coords 4914.726 6.081 3404.628
+  angleY 32
+ }
+ {
+  coords 4807.695 5.345 3646.559
+  angleY 134
+ }
+ {
+  coords 4945.242 3.148 3420.304
+  angleY -130
+ }
+ {
+  coords 4680.533 6.501 3427.671
+  angleY 90
+ }
+ {
+  coords 4690.152 6.234 3457.846
+  angleY 108
+ }
+ {
+  coords 4665.142 6.338 3404.213
+  angleY 116
+ }
+ {
+  coords 4722.266 7.2 3412.678
+  angleY -126
+ }
+ {
+  coords 4328.239 6.598 4343.775
+  angleY 56
+ }
+ {
+  coords 4303.263 6.894 4362.976
+  angleY 72
+ }
+ {
+  coords 4289.818 7.794 4348.284
+  angleY 135
+ }
+ {
+  coords 4262.499 7.642 4335.422
+  angleY 46
+ }
+ {
+  coords 4227.934 7.08 4350.352
+  angleY 33
+ }
+ {
+  coords 4190.743 6.169 4372.965
+  angleY 135
+ }
+ {
+  coords 4350.981 7.165 4321.107
+  angleY 34
+ }
+ {
+  coords 4313.46 6.325 4385.928
+  angleY 93
+ }
+ {
+  coords 4349.364 6.619 4404.854
+  angleY -119
+ }
+ {
+  coords 4325.462 3.429 4439.62
+  angleY -92
+ }
+ {
+  coords 4339.584 7.141 4490.431
+  angleY -62
+ }
+ {
+  coords 4222.071 6.336 4337.26
+  angleY -111
+ }
+ {
+  coords 4166.561 6.153 2100.629
+  angleY 28
+ }
+ {
+  coords 4141.138 4.333 2061.96
+  angleY -147
+ }
+ {
+  coords 3708.063 7.559 1719.174
+ }
+ {
+  coords 3731.905 5.664 1679.166
+  angleY 142
+ }
+ {
+  coords 3493.173 6.213 2828.524
+  angleY 23
+ }
+ {
+  coords 3518.47 5.687 3559.309
+  angleY 103
+ }
+ {
+  coords 3448.14 6.703 3564.51
+  angleY -123
+ }
+ {
+  coords 3430.153 6.328 3563.753
+  angleY 169
+ }
+ {
+  coords 3263.844 5.365 3356.129
+  angleY 163
+ }
+ {
+  coords 3210.204 5.612 3311.045
+  angleY 163
+ }
+ {
+  coords 3199.342 5.929 3355.607
+  angleY 9
+ }
+ {
+  coords 3258.272 5.201 3372.057
+  angleY -14
+ }
+ {
+  coords 2073.34 6.277 2831.035
+  angleY -74
+ }
+ {
+  coords 2088.945 4.959 2823.241
+  angleY 115
+ }
+}
+$grp GenericEntity : "{A9FC9D2A3C13C954}Prefabs/Structures/Infrastructure/Lamps/Lamp1/LampStreet_E_01_6m_fd_fd.et" {
+ {
+  coords 4785.27 0 3516.579
+ }
+ {
+  coords 4781.939 0 3530.653
+ }
+ {
+  coords 4769.155 0 3529.743
+ }
+ {
+  coords 4746.086 0 3517.285
+ }
+ {
+  coords 4739.025 0 3507.217
+ }
+ {
+  coords 4718.165 0 3512.174
+ }
+ {
+  coords 4726.241 0 3540.04
+ }
+ {
+  coords 4737.854 0 3538.865
+ }
+ {
+  coords 4759.329 0 3545.366
+ }
+ {
+  coords 4771.833 0 3556.514
+ }
+ {
+  coords 4799.074 0 3546.339
+ }
+ {
+  coords 4814.902 0 3561.492
+ }
+ {
+  coords 4741.189 0 3593.064
+ }
+ {
+  coords 4717.622 -0.001 3616.578
+ }
+ {
+  coords 4728.936 0 3605.416
+ }
+ {
+  coords 4748.057 0 3623.075
+ }
+ {
+  coords 4724.89 0 3628.976
+ }
+ {
+  coords 4725.368 0 3649.134
+ }
+ {
+  coords 4713.133 0 3636.22
+ }
+ {
+  coords 4787.728 -0.001 3582.792
+ }
+ {
+  coords 4782.743 0 3577.25
+ }
+ {
+  coords 4798.875 0.001 3584.085
+ }
+ {
+  coords 4909.378 0 3483.003
+ }
+ {
+  coords 4920.1 0 3473.45
+ }
+}
+$grp GenericEntity : "{EFFDE72E34C54BC0}Prefabs/Structures/Infrastructure/Lamps/Lamp2/LampStreet_E_02_doubleStraight_fd_fd.et" {
+ {
+  coords 4476.182 0 3849.267
+  angleY -75
+ }
+ {
+  coords 3853.633 0 4110.778
+  angleY 22
+ }
+ {
+  coords 3828.181 0 4123.663
+  angleY 22
  }
 }

@@ -6,4 +6,5 @@ PrefabGeneratorEntity : "{5C5162DC10F82DD5}Prefabs/WEGenerators/Roads/VergePosts
   "{B923A280B2BD1EEF}Prefabs/Structures/Signs/StoneVergePost_01_fd_fd.et"
  }
  m_fDistance 15
+ m_bPerlinDens 1
 }

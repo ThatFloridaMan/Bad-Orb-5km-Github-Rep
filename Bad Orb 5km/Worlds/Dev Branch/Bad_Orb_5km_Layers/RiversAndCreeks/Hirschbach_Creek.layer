@@ -1,3 +1,90 @@
+$grp GenericEntity {
+ Hirschbach {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Hirschbach"
+    }
+    m_bAutoRegister NEVER
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Hirschbach"
+    MainType "Name Water Minor"
+   }
+  }
+  coords 135.056 135.846 3125.57
+ }
+ Hirschbach2 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Hirschbach"
+    }
+    m_bAutoRegister NEVER
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Hirschbach"
+    MainType "Name Water Minor"
+   }
+  }
+  coords 276.972 142.811 2839.069
+ }
+ Hirschbach3 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Hirschbach"
+    }
+    m_bAutoRegister NEVER
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Hirschbach"
+    MainType "Name Water Minor"
+   }
+  }
+  coords 566.622 157.869 2440.095
+ }
+ Hirschbach4 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Hirschbach"
+    }
+    m_bAutoRegister NEVER
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Hirschbach"
+    MainType "Name Water Minor"
+   }
+  }
+  coords 1289.076 185.164 2318.745
+ }
+ Hirschbach5 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_EntityType COMMENT
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "Hirschbach"
+    }
+    m_bAutoRegister NEVER
+    m_Flags 6200
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "Hirschbach"
+    MainType "Name Water Minor"
+   }
+  }
+  coords 1581.795 191.625 2363.551
+ }
+}
 PolylineShapeEntity {
  coords 1470.552 191.847 2331.522
  Points {

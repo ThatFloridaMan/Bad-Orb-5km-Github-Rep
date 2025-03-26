@@ -4,6 +4,8 @@ ForestGeneratorEntity {
  Flags 1048579
  GeneratorType GeneratorTypeForest "{614F0727FB56DAB7}" {
  }
+ m_bAvoidRoads 1
+ m_bAvoidTracks 1
  m_iSeed 46
  m_aLevels {
   ForestGeneratorBottomLevel Rocks {

@@ -1,3 +1,11 @@
 GenericEntity : "{647C8407E399D6BB}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_02/LampStreet_E_02_doubleStraight.et" {
  ID "F0DBA538AC2A0552"
+ components {
+  MeshObject "{5556E3DC5872794C}" {
+   PixelSizeScale 2
+   CastFarShadow 1
+  }
+ }
+ coords 0 -1.999 0
+ scale 1.5
 }

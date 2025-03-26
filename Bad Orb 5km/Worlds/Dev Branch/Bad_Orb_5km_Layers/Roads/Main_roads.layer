@@ -61,6 +61,7 @@ $grp SplineShapeEntity {
       }
       IsClosedSpline 0
       Width 12
+      Material "{C013C97C22937BCC}Assets/Structures/Infrastructure/Roads/Data/Road_Asphalt_E_01_DashedLine_FD.emat"
      }
     }
    }
