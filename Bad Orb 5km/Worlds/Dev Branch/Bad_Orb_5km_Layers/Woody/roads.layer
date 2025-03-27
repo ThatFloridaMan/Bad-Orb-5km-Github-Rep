@@ -1,0 +1,22 @@
+$grp SCR_DestructibleBuildingEntity : "{287038D22114554C}Prefabs/Structures/Walls/Concrete/RetainingWall_02/ConcreteRetainingWall_02_8m_fd_fd.et" {
+ {
+  coords 2561.914 206.958 4927.085
+  angleY -1.103
+  scale 1.25
+ }
+ {
+  coords 2562.643 206.912 4886.817
+  angleY -1.103
+  scale 1.25
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{D55E6CC61FAC3254}Prefabs/Structures/Walls/Concrete/RetainingWall_02/ConcreteRetainingWall_02_End_fd_fd.et" {
+ {
+  coords 2568.542 207.783 4926.669
+  angleY -1.067
+ }
+ {
+  coords 2553.618 207.298 4926.367
+  angleY 179.001
+ }
+}
