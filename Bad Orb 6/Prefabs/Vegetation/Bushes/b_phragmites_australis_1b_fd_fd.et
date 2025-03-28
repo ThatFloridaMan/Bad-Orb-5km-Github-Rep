@@ -1,0 +1,9 @@
+Tree : "{938E2F2C01769971}Prefabs/Vegetation/Bush/b_phragmites_australis_1b.et" {
+ ID "2272273384468550"
+ components {
+  MeshObject "{545B01F41F2EA5C4}" {
+   PixelSizeScale 5
+  }
+ }
+ scale 0.822
+}
