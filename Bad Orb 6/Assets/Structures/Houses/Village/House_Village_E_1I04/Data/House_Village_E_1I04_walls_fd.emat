@@ -52,7 +52,7 @@ MatPBRMulti {
  }
  Metalness_3 0
  Enabled_2 1
- Color_2 0.6 0.506 0.398 1
+ Color_2 0.573 0.573 0.573 1
  BCR_2 "{3B8B0137E179C9E5}Assets/_SharedData/Plaster/ST_Plaster_Brizolit_01_BCR.edds"
  NMO_2 "{0353BAA5380E9B7B}Assets/_SharedData/Plaster/ST_Plaster_Brizolit_01_NMO.edds"
  MaskSharpness_2 1.2
@@ -61,7 +61,7 @@ MatPBRMulti {
  UVTransform_2 MatUVTransform "{520AA74C20C64B11}" {
  }
  Metalness_2 0
- Color_1 0.227 0.193 0.148 1
+ Color_1 0.238 0.238 0.238 1
  BCR_1 "{6BE53556B0CB5ED9}Assets/_SharedData/Plaster/ST_Plaster_Bare_02_BCR.edds"
  NMO_1 "{6DEDE9B7814F5B0A}Assets/_SharedData/Plaster/ST_Plaster_Bare_02_NMO.edds"
  DetNormal_1 0.5
