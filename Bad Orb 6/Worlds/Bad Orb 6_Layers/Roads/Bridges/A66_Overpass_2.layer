@@ -1,0 +1,67 @@
+SplineShapeEntity {
+ coords 2562.619 212.039 4886.098
+ Points {
+  ShapePoint "{60D1405C578DB219}" {
+   Position 0.1 -0.15 1.023
+  }
+  ShapePoint "{60D1405C578DB507}" {
+   Position 0.105 0.081 -5.438
+  }
+  ShapePoint "{60D1405C54E3C0BB}" {
+   Position 0.365 0.055 -15.815
+  }
+  ShapePoint "{60D1405C547269D7}" {
+   Position 0.354 0.055 -20.692
+  }
+ }
+ {
+  RoadGeneratorEntity : "{1E681E4ED25E5E20}Prefabs/WEGenerators/Roads/Asphalt/Asphalt_rough_7m_fd.et" {
+   coords 0.251 0 0
+   AdjustHeightMapPriority 50
+   {
+    RoadEntity {
+     ID "556C6C02C8F45A73"
+     SplinePoints {
+      ShapePoint "{556C6C02BD077CFC}" {
+       Position -0.151 -0.15 1.023
+      }
+      ShapePoint "{556C6C02BD077389}" {
+       Position -0.146 0.081 -5.438
+      }
+      ShapePoint "{60D1405DF82057F0}" {
+       Position 0.114 0.055 -15.815
+      }
+      ShapePoint "{60D1405DF820565A}" {
+       Position 0.103 0.055 -20.692
+      }
+     }
+     IsClosedSpline 0
+     Width 8
+    }
+   }
+  }
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{0E7103B35BF83701}Prefabs/Structures/Infrastructure/Bridges/ConcreteBridge_01_Narrow_PillarSmall_fd_fd.et" {
+ {
+  coords 2562.069 212.037 4916.356
+  angleY -91
+ }
+ {
+  coords 2562.253 212.037 4905.798
+  angleY -91
+ }
+ {
+  coords 2562.635 212.037 4883.928
+  angleY -91
+ }
+ {
+  coords 2562.444 212.037 4894.856
+  angleY -91
+ }
+}
+SCR_DestructibleBuildingEntity : "{E43E62E654276175}Prefabs/Structures/Infrastructure/Bridges/ConcreteBridge_01_Pillar_narrow_fd_fd.et" {
+ coords 2562.193 206.712 4906.162
+ angleY 90
+ scale 0.6
+}
