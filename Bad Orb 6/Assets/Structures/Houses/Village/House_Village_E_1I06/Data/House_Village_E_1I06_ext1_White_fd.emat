@@ -6,7 +6,7 @@ MatPBRMulti {
  MaskMap "{263A7F408AEF4C31}Assets/Structures/Houses/Village/House_Village_E_1I06/Data/House_Village_E_1I06_ext_MASK.edds"
  MaskBlueScale 0.142
  VFXMap "{B191E01AFC6933D7}Assets/Structures/Houses/Village/House_Village_E_1I06/Data/House_Village_E_1I06_ext_VFX.edds"
- MudOpacity 0.58
+ MudOpacity 0.26
  MudColor 0.871 0.808 0.724 1
  MudRoughness 2
  MudMetalness 0
@@ -16,15 +16,13 @@ MatPBRMulti {
  MudUVTransform MatUVTransform "{5594AE1B47D517A6}" {
   OffsetV -0.062
  }
- DirtOpacity 0.059
  DirtLayerSharpness 12.79
- DirtColor 0.087 0.079 0.069 1
+ DirtColor 0.239 0.138 0.012 1
  DirtRoughness 2
  DirtBCRMap "{AE37874A11911124}Assets/_SharedData/Dirt/ST_Mud_01_BCR.edds"
  DirtMaskMap "{2563D86FF583B1EF}Assets/_SharedData/DetailMask/ST_Metal_Rust_01_Mask1.edds"
  DirtUVTransform MatUVTransform "{59AEBEE08ED8024F}" {
  }
- Enabled_4 1
  Color_4 0.576 0.576 0.576 1
  BCR_4 "{6BE53556B0CB5ED9}Assets/_SharedData/Plaster/ST_Plaster_Bare_02_BCR.edds"
  NMO_4 "{6DEDE9B7814F5B0A}Assets/_SharedData/Plaster/ST_Plaster_Bare_02_NMO.edds"
@@ -33,7 +31,6 @@ MatPBRMulti {
  Mask_4 "{37524A19D6A23FC6}Assets/_SharedData/DetailMask/ST_Paint_peeling_02_Mask1.edds"
  DetNormal_4 2
  Roughness_4 2
- Enabled_3 1
  Color_3 0.39 0.39 0.39 1
  BCR_3 "{A2290F65A2CA93CD}Assets/_SharedData/Plaster/ST_Plaster_Damaged_White_01_BCR.edds"
  NMO_3 "{2D7C6B86A5786A9A}Assets/_SharedData/Plaster/ST_Plaster_Damaged_01_NMO.edds"
@@ -45,14 +42,13 @@ MatPBRMulti {
   OffsetV -0.092
  }
  DetNormal_3 0.5
- Enabled_2 1
  Color_2 0.508 0.508 0.508 1
  BCR_2 "{9C568F5695FC2681}Assets/_SharedData/Plaster/ST_Plaster_Clean_White_01_BCR.edds"
  NMO_2 "{A48E34C44C8B741F}Assets/_SharedData/Plaster/ST_Plaster_Clean_White_01_NMO.edds"
  MaskSharpness_2 3
  MaskOffset_2 0.096
  Mask_2 "{A3B4218CCE57A275}Assets/_SharedData/DetailMask/ST_Paint_peeling_03_Mask1.edds"
- Color_1 0.543 0.543 0.543 1
+ Color_1 0.424 0.424 0.424 1
  BCR_1 "{9C568F5695FC2681}Assets/_SharedData/Plaster/ST_Plaster_Clean_White_01_BCR.edds"
  NMO_1 "{A48E34C44C8B741F}Assets/_SharedData/Plaster/ST_Plaster_Clean_White_01_NMO.edds"
 }

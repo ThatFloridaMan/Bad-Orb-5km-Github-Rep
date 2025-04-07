@@ -1,11 +1,11 @@
 PrefabGeneratorEntity {
  ID "61B4D5660D78403F"
- coords 0 0 0
  Flags 1048579
+ coords 0 0 0
  GeneratorType GeneratorTypeVegetation "{61B4D5660D7840EF}" {
  }
  m_PrefabNames {
-  "{8520122192ED3D6C}PrefabLibrary/Vegetation/Trees/t_prunus_domestica_2s.et"
+  "{6CBFCB1E5A9B8EEF}Prefabs/Vegetation/Tree/t_prunus_domestica_2s_fd_fd.et"
  }
  m_Weights {
   0

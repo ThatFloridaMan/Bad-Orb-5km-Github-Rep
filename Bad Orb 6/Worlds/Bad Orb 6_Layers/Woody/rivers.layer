@@ -4524,10 +4524,10 @@ $grp StaticModelEntity : "{9C7477A3F066F750}Prefabs/Terrain/Erosion/ErodedEmbank
   scale 2
  }
  {
-  coords 1822.81 136.097 6011.318
-  angleX 3.309
-  angleY -73.785
-  angleZ 0.476
+  coords 1822.81 136.097 6011.317
+  angleX 2.167
+  angleY -73.795
+  angleZ 0.475
   scale 2
  }
  {
