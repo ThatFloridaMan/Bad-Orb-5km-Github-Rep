@@ -2493,7 +2493,7 @@ $grp SplineShapeEntity {
     Position 1537.263 2.903 46.365
    }
    ShapePoint "{64F9497F93646771}" {
-    Position 1591.601 4.645 78.096
+    Position 1591.351 4.633 77.775
    }
    ShapePoint "{64F9497F92645196}" {
     Position 1617.058 1.905 117.402
@@ -2502,6 +2502,7 @@ $grp SplineShapeEntity {
   {
    RoadGeneratorEntity : "{7CB45DA728C4BA7F}Prefabs/WEGenerators/Roads/Asphalt/Asphalt_Dashed_Primary_fd.et" {
     coords 0 0 0
+    AdjustHeightMapPriority 54
     {
      RoadEntity {
       ID "556C6556FAB8EA7A"
@@ -2588,7 +2589,7 @@ $grp SplineShapeEntity {
         Position 1537.263 2.903 46.365
        }
        ShapePoint "{64F9497F95A5203C}" {
-        Position 1591.601 4.645 78.096
+        Position 1591.351 4.633 77.775
        }
        ShapePoint "{6502DA0C6D59409C}" {
         Position 1617.058 1.905 117.402

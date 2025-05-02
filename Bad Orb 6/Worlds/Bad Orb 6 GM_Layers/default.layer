@@ -1,6 +1,6 @@
 SCR_MapEntity MapEntity : "{731564B66F91B107}Prefabs/World/Game/MapEntity.et" {
  coords 2990.354 339.929 2564.952
- "Map Geometry Data" "{B6730CF130CB68AF}Exports/Bad_Orb_5km.topo"
+ "Map Geometry Data" "{4728039EC56E3CB1}Exports/Bad Orb 6 GM.topo"
  "Satellite background image" "{3D7532DC9D2A22B9}Exports/Forest_Export.edds"
  {
   CommentEntity {
@@ -61,4 +61,11 @@ SCR_GameModeEditor GameMode_Editor_Full : "{DA3986AF1B5032B7}Prefabs/MP/Modes/Ed
 }
 SCR_MPDestructionManager : "{9BB369F2803C6F71}Prefabs/MP/MPDestructionManager.et" {
  coords 162.509 0 1926.975
+}
+Tree : "{DACD45EA86B53292}Prefabs/Vegetation/Tree/t_alnus_glutinosa_3s_fd_fd.et" {
+ coords 3102.973 0 5993.879
+ angleX 1.298
+ angleY -77.78
+ angleZ 2.202
+ scale 0.771
 }

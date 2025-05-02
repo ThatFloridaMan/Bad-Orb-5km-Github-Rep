@@ -2589,7 +2589,7 @@ $grp GenericEntity : "{3DECB10E2D0EBA77}Prefabs/Labels/Forests.et" {
     DisplayName "Lannenwald"
    }
   }
-  coords 1545.954 212.72 4873.989
+  coords 1698.683 232.964 5060.231
  }
  WC_798 {
   components {
@@ -2745,7 +2745,7 @@ $grp GenericEntity : "{3DECB10E2D0EBA77}Prefabs/Labels/Forests.et" {
     DisplayName "Apfulwald"
    }
   }
-  coords 4409.397 298.659 5069.658
+  coords 4381.429 271.757 5253.693
  }
  Munsterwald {
   components {
@@ -2784,7 +2784,7 @@ $grp GenericEntity : "{3DECB10E2D0EBA77}Prefabs/Labels/Forests.et" {
     DisplayName "Kuppewald"
    }
   }
-  coords 5057.604 296.339 5021.52
+  coords 5030.146 291.59 5059.487
  }
  Norwald {
   components {
@@ -3163,6 +3163,19 @@ $grp GenericEntity : "{3DECB10E2D0EBA77}Prefabs/Labels/Forests.et" {
   }
   coords 1865.395 159.171 3999.723
  }
+ WC_2 {
+  components {
+   SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
+     Name "WC-802"
+    }
+   }
+   SCR_MapDescriptorComponent "{64C95E6491A91086}" {
+    DisplayName "WC-802"
+   }
+  }
+  coords 1797.28 141.871 5844.184
+ }
 }
 $grp GenericEntity : "{A501F1CC63130AFA}Prefabs/Structures/Infrastructure/Lamps/Lamp2/LampStreet_E_02_addon_fd_fd.et" {
  {
@@ -3262,10 +3275,6 @@ $grp GenericEntity : "{A501F1CC63130AFA}Prefabs/Structures/Infrastructure/Lamps/
   angleY 12
  }
  {
-  coords 4747.808 6.906 3488.628
-  angleY 12
- }
- {
   coords 4757.703 6.253 3483.581
   angleY 35
  }
@@ -3274,24 +3283,8 @@ $grp GenericEntity : "{A501F1CC63130AFA}Prefabs/Structures/Infrastructure/Lamps/
   angleY 32
  }
  {
-  coords 4806.121 6.322 3465.733
-  angleY 24
- }
- {
-  coords 4818.851 7.471 3462.229
-  angleY 23
- }
- {
   coords 4845.581 6.802 3451.293
   angleY 23
- }
- {
-  coords 4857.52 6.185 3445.871
-  angleY 32
- }
- {
-  coords 4881.087 6.416 3430.618
-  angleY 32
  }
  {
   coords 4914.726 6.081 3404.628

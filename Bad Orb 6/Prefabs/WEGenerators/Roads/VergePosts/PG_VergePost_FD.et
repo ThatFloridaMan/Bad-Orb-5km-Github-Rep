@@ -1,9 +1,9 @@
 PrefabGeneratorEntity {
  ID "61F7432AE45B739C"
- coords 0 0 0
  Flags 1048579
+ coords 0 0 0
  m_PrefabNames {
-  "{D34431BF320B1E09}PrefabLibrary/Infrastructure/Roads/PlasticVergePost_01.et"
+  "{6509CE37FC91712C}Prefabs/Structures/Signs/PlasticVergePost_01_fd_fd.et"
  }
  m_Weights {
   1
