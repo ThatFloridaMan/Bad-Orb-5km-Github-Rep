@@ -144,6 +144,11 @@ $grp SCR_DestructibleBuildingEntity : "{D55E6CC61FAC3254}Prefabs/Structures/Wall
   coords 2553.618 207.298 4926.367
   angleY 179.001
  }
+ {
+  coords 2554 209.137 4927.086
+  angleY 179.001
+  scale 0.75
+ }
 }
 $grp Tree : "{E3F3D096B9284C3F}Prefabs/Vegetation/Bushes/b_corylus_avellana_1_fd_fd.et" {
  {
