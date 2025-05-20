@@ -49008,7 +49008,7 @@ $grp SCR_DestructibleBuildingEntity : "{125BE4F6E5E2A8F5}Prefabs/Structures/Hous
  }
 }
 SCR_DestructibleBuildingEntity : "{137E98DD5A116B69}Prefabs/Structures/Industrial/Sheds/ShedMetal_02_nowalls_fd_fd.et" {
- coords 846.63 -0.39 5691.405
+ coords 846.63 0.001 5692.128
  angleY -150.238
 }
 $grp GenericEntity : "{16E63075F932AC76}PrefabLibrary/Props/Garbage/GarbageContainter_01.et" {
