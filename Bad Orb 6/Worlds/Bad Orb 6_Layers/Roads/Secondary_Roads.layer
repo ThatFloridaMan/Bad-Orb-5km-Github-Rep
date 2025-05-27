@@ -10532,427 +10532,6 @@ $grp PolylineShapeEntity {
   }
  }
  {
-  coords 727.764 162.015 5745.058
-  Points {
-   ShapePoint "{650F1A96C0582FAD}" {
-    Position -17.591 0.985 6.534
-   }
-   ShapePoint "{650F1A96E508E6D0}" {
-    Position -0.178 -0.208 -0.075
-   }
-   ShapePoint "{650F1A96E5093A3F}" {
-    Position 33.263 -1.954 63.33
-   }
-   ShapePoint "{650F1A96C52FDDE3}" {
-    Position 16.141 -0.697 71.306
-   }
-  }
-  LineColor 0 0 0 0
-  {
-   WallGeneratorEntity : "{971395BF86B4FACD}Prefabs/WEGenerators/Walls/Wooden/WG_WoodenWall_02_Green_fd_fd.et" {
-    Flags 1048579
-    {
-     $grp SCR_DestructibleEntity : "{3959F534B9C165EA}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_4m_B_green.et" {
-      {
-       coords -0.858 -0.156 0.152
-       angleY -61.627
-      }
-      {
-       coords 25.729 -1.345 49.379
-       angleY -61.627
-      }
-      {
-       coords 22.101 -1.033 67.789
-       angleY -149.457
-      }
-     }
-     $grp SCR_DestructibleEntity : "{39DFFF624E601D22}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_8m_A_green.et" {
-      {
-       coords -17.619 0.987 6.545
-       angleY 20.784
-      }
-      {
-       coords -10.174 0.573 3.719
-       angleY 20.784
-      }
-      {
-       coords 8.646 -0.722 17.75
-       angleY -61.627
-      }
-      {
-       coords 12.437 -0.858 24.768
-       angleY -61.627
-      }
-      {
-       coords 20.028 -1.062 38.824
-       angleY -61.627
-      }
-      {
-       coords 32.418 -1.87 61.702
-       angleY -149.457
-      }
-     }
-     SCR_DestructibleEntity : "{6BB2540CAAD4120B}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_Pole.et" {
-      coords 16.937 -0.743 70.837
-      angleY -149.457
-     }
-     $grp SCR_DestructibleEntity : "{792FDE47F87C9F65}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_8m_B_green.et" {
-      {
-       coords 1.045 -0.38 3.676
-       angleY -61.627
-      }
-      {
-       coords 4.846 -0.548 10.713
-       angleY -61.627
-      }
-      {
-       coords 16.227 -0.957 31.787
-       angleY -61.627
-      }
-      {
-       coords 27.632 -1.478 52.903
-       angleY -61.627
-      }
-     }
-     SCR_DestructibleEntity : "{79A9D4110FDDE7AD}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_4m_A_green.et" {
-      coords 25.558 -1.289 65.749
-      angleY -149.457
-     }
-     $grp SCR_DestructibleEntity : "{82E05DC9AB962EB3}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_2m_green.et" {
-      {
-       coords -2.729 0.013 0.893
-       angleY 20.784
-      }
-      {
-       coords 31.432 -1.783 59.94
-       angleY -61.627
-      }
-      {
-       coords 18.657 -0.832 69.822
-       angleY -149.457
-      }
-     }
-     SCR_DestructibleEntity : "{9988D509653039DD}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_D_green.et" {
-      coords 23.818 -1.229 45.842
-      angleY -61.627
-     }
-    }
-   }
-  }
- }
- {
-  coords 735.481 162.189 5799.939
-  Points {
-   ShapePoint "{650F1A96B9D77593}" {
-    Position 0 0 0
-   }
-   ShapePoint "{650F1A96B9D7847F}" {
-    Position 15.925 -1.387 -9.077
-   }
-  }
-  LineColor 0 0 0 0
-  {
-   WallGeneratorEntity : "{971395BF86B4FACD}Prefabs/WEGenerators/Walls/Wooden/WG_WoodenWall_02_Green_fd_fd.et" {
-    Flags 1048579
-    {
-     $grp SCR_DestructibleEntity : "{39DFFF624E601D22}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_8m_A_green.et" {
-      {
-       coords -0.026 0.002 0.015
-       angleY 29.682
-      }
-      {
-       coords 6.887 -0.461 -3.925
-       angleY 29.682
-      }
-     }
-     SCR_DestructibleEntity : "{6BB2540CAAD4120B}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_Pole.et" {
-      coords 15.533 -1.346 -8.853
-      angleY 29.682
-     }
-     SCR_DestructibleEntity : "{82E05DC9AB962EB3}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_2m_green.et" {
-      coords 13.799 -1.181 -7.865
-      angleY 29.682
-     }
-    }
-   }
-  }
- }
- {
-  coords 727.403 162.044 5783.935
-  Points {
-   ShapePoint "{650F1A96B9D77593}" {
-    Position 0 0 0
-   }
-   ShapePoint "{650F1A96B9D7847F}" {
-    Position 15.925 -1.387 -9.077
-   }
-  }
-  LineColor 0 0 0 0
-  {
-   WallGeneratorEntity : "{971395BF86B4FACD}Prefabs/WEGenerators/Walls/Wooden/WG_WoodenWall_02_Green_fd_fd.et" {
-    Flags 1048579
-    {
-     $grp SCR_DestructibleEntity : "{39DFFF624E601D22}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_8m_A_green.et" {
-      {
-       coords -0.026 0.002 0.015
-       angleY 29.682
-      }
-      {
-       coords 6.887 -0.461 -3.925
-       angleY 29.682
-      }
-     }
-     SCR_DestructibleEntity : "{6BB2540CAAD4120B}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_Pole.et" {
-      coords 15.533 -1.346 -8.853
-      angleY 29.682
-     }
-     SCR_DestructibleEntity : "{82E05DC9AB962EB3}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_2m_green.et" {
-      coords 13.799 -1.181 -7.865
-      angleY 29.682
-     }
-    }
-   }
-  }
- }
- {
-  coords 718.555 162.654 5767.973
-  Points {
-   ShapePoint "{650F1A96B9D77593}" {
-    Position -0.03 0.188 0.021
-   }
-   ShapePoint "{650F1A96B9D7847F}" {
-    Position 15.925 -1.387 -9.077
-   }
-  }
-  LineColor 0 0 0 0
-  {
-   WallGeneratorEntity : "{971395BF86B4FACD}Prefabs/WEGenerators/Walls/Wooden/WG_WoodenWall_02_Green_fd_fd.et" {
-    Flags 1048579
-    {
-     $grp SCR_DestructibleEntity : "{39DFFF624E601D22}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_8m_A_green.et" {
-      {
-       coords -0.056 0.19 0.036
-       angleY 29.693
-      }
-      {
-       coords 6.853 -0.334 -3.904
-       angleY 29.693
-      }
-     }
-     SCR_DestructibleEntity : "{6BB2540CAAD4120B}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_Pole.et" {
-      coords 15.495 -1.248 -8.832
-      angleY 29.693
-     }
-     SCR_DestructibleEntity : "{82E05DC9AB962EB3}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_2m_green.et" {
-      coords 13.762 -1.045 -7.844
-      angleY 29.693
-     }
-    }
-   }
-  }
- }
- {
-  coords 748.314 159.723 5740.774
-  Points {
-   ShapePoint "{650F1A9691217C72}" {
-    Position 0.358 -0.018 0.157
-   }
-   ShapePoint "{650F1A96A4FCC6B0}" {
-    Position -1.237 0.454 -2.958
-   }
-   ShapePoint "{650F1A96A4FD3156}" {
-    Position -20.728 2.083 4.209
-   }
-  }
-  LineColor 0 0 0 0
-  {
-   WallGeneratorEntity : "{971395BF86B4FACD}Prefabs/WEGenerators/Walls/Wooden/WG_WoodenWall_02_Green_fd_fd.et" {
-    Flags 1048579
-    {
-     SCR_DestructibleEntity : "{3959F534B9C165EA}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_4m_B_green.et" {
-      coords -15.811 1.667 2.794
-      angleY -163.951
-     }
-     SCR_DestructibleEntity : "{39DFFF624E601D22}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_8m_A_green.et" {
-      coords -0.512 0.1 -1.607
-      angleY -163.951
-     }
-     SCR_DestructibleEntity : "{6BB2540CAAD4120B}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_Pole.et" {
-      coords -19.657 1.996 3.901
-      angleY -163.951
-     }
-     SCR_DestructibleEntity : "{792FDE47F87C9F65}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_8m_B_green.et" {
-      coords -8.151 0.981 0.591
-      angleY -163.951
-     }
-     SCR_DestructibleEntity : "{82E05DC9AB962EB3}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_2m_green.et" {
-      coords 0.372 -0.018 0.184
-      angleY -242.894
-     }
-    }
-   }
-  }
- }
- {
-  coords 756.954 159.312 5756.879
-  Points {
-   ShapePoint "{650F1A968852861D}" {
-    Position 0 0 0
-   }
-   ShapePoint "{650F1A968852F0CE}" {
-    Position -18.811 1.938 9.701
-   }
-  }
-  LineColor 0 0 0 0
-  {
-   WallGeneratorEntity : "{971395BF86B4FACD}Prefabs/WEGenerators/Walls/Wooden/WG_WoodenWall_02_Green_fd_fd.et" {
-    Flags 1048579
-    {
-     SCR_DestructibleEntity : "{3959F534B9C165EA}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_4m_B_green.et" {
-      coords -14.098 1.362 7.27
-      angleY -152.72
-     }
-     $grp SCR_DestructibleEntity : "{39DFFF624E601D22}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_8m_A_green.et" {
-      {
-       coords 0.027 -0.003 -0.014
-       angleY -152.72
-      }
-      {
-       coords -7.036 0.618 3.628
-       angleY -152.72
-      }
-     }
-     SCR_DestructibleEntity : "{6BB2540CAAD4120B}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_Pole.et" {
-      coords -17.654 1.784 9.104
-      angleY -152.72
-     }
-    }
-   }
-  }
- }
- {
-  coords 765.352 159.242 5773.114
-  Points {
-   ShapePoint "{650F1A968852861D}" {
-    Position 0 0 0
-   }
-   ShapePoint "{650F1A968852F0CE}" {
-    Position -18.811 1.938 9.701
-   }
-  }
-  LineColor 0 0 0 0
-  {
-   WallGeneratorEntity : "{971395BF86B4FACD}Prefabs/WEGenerators/Walls/Wooden/WG_WoodenWall_02_Green_fd_fd.et" {
-    Flags 1048579
-    {
-     SCR_DestructibleEntity : "{3959F534B9C165EA}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_4m_B_green.et" {
-      coords -14.098 1.362 7.27
-      angleY -152.72
-     }
-     $grp SCR_DestructibleEntity : "{39DFFF624E601D22}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_8m_A_green.et" {
-      {
-       coords 0.027 -0.003 -0.014
-       angleY -152.72
-      }
-      {
-       coords -7.036 0.618 3.628
-       angleY -152.72
-      }
-     }
-     SCR_DestructibleEntity : "{6BB2540CAAD4120B}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_Pole.et" {
-      coords -17.654 1.784 9.104
-      angleY -152.72
-     }
-    }
-   }
-  }
- }
- {
-  coords 773.507 159.078 5789.627
-  Points {
-   ShapePoint "{650F1A968852861D}" {
-    Position 0 0 0
-   }
-   ShapePoint "{650F1A968852F0CE}" {
-    Position -18.811 1.938 9.701
-   }
-  }
-  LineColor 0 0 0 0
-  {
-   WallGeneratorEntity : "{971395BF86B4FACD}Prefabs/WEGenerators/Walls/Wooden/WG_WoodenWall_02_Green_fd_fd.et" {
-    Flags 1048579
-    {
-     SCR_DestructibleEntity : "{3959F534B9C165EA}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_4m_B_green.et" {
-      coords -14.098 1.362 7.27
-      angleY -152.72
-     }
-     $grp SCR_DestructibleEntity : "{39DFFF624E601D22}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_8m_A_green.et" {
-      {
-       coords 0.027 -0.003 -0.014
-       angleY -152.72
-      }
-      {
-       coords -7.036 0.618 3.628
-       angleY -152.72
-      }
-     }
-     SCR_DestructibleEntity : "{6BB2540CAAD4120B}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_Pole.et" {
-      coords -17.654 1.784 9.104
-      angleY -152.72
-     }
-    }
-   }
-  }
- }
- {
-  coords 781.328 158.492 5805.852
-  Points {
-   ShapePoint "{650F1A968852861D}" {
-    Position 0 0 0
-   }
-   ShapePoint "{650F1A968852F0CE}" {
-    Position -17.229 1.252 9.01
-   }
-   ShapePoint "{650F1A967CC5FA97}" {
-    Position -21.097 1.65 0.782
-   }
-  }
-  LineColor 0 0 0 0
-  {
-   WallGeneratorEntity : "{971395BF86B4FACD}Prefabs/WEGenerators/Walls/Wooden/WG_WoodenWall_02_Green_fd_fd.et" {
-    Flags 1048579
-    {
-     SCR_DestructibleEntity : "{3959F534B9C165EA}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_4m_B_green.et" {
-      coords -15.855 1.146 8.326
-      angleY -235.207
-     }
-     $grp SCR_DestructibleEntity : "{39DFFF624E601D22}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_8m_A_green.et" {
-      {
-       coords 0.027 -0.004 -0.014
-       angleY -152.391
-      }
-      {
-       coords -7.03 0.552 3.676
-       angleY -152.391
-      }
-     }
-     SCR_DestructibleEntity : "{6BB2540CAAD4120B}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_Pole.et" {
-      coords -20.435 1.581 1.734
-      angleY -235.207
-     }
-     SCR_DestructibleEntity : "{79A9D4110FDDE7AD}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_4m_A_green.et" {
-      coords -18.138 1.369 5.04
-      angleY -235.207
-     }
-     SCR_DestructibleEntity : "{82E05DC9AB962EB3}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_2m_green.et" {
-      coords -14.086 1.01 7.367
-      angleY -152.391
-     }
-    }
-   }
-  }
- }
- {
   coords 2865.079 177.99 5353.3
   Points {
    ShapePoint "{650F38CA5D9979EA}" {
@@ -40622,7 +40201,7 @@ $grp SplineShapeEntity {
     Position 0 0 0
    }
    ShapePoint "{650F1A96FAF69DB0}" {
-    Position 6.63 -0.592 12.109
+    Position 6.639 -0.302 12.125
    }
    ShapePoint "{650F1A96F8EEA5B9}" {
     Position 21.9 -1.379 41
@@ -40640,6 +40219,7 @@ $grp SplineShapeEntity {
   {
    RoadGeneratorEntity : "{723C2AAE6E9AD132}Prefabs/WEGenerators/Roads/Asphalt/Asphalt_smooth_7m_fd.et" {
     coords 0 0 0
+    AdjustHeightMapPriority 49
     {
      RoadEntity {
       ID "556C655491CDCD64"
@@ -40648,7 +40228,7 @@ $grp SplineShapeEntity {
         Position 0 0 0
        }
        ShapePoint "{556C6554868CB0CE}" {
-        Position 6.63 -0.592 12.109
+        Position 6.639 -0.302 12.125
        }
        ShapePoint "{650F1A96FD08831C}" {
         Position 21.9 -1.379 41
@@ -44933,11 +44513,6 @@ $grp Tree : "{0D0A8FDAA4C367BB}Prefabs/Vegetation/Bushes/b_corylus_avellana_1l_f
   angleX -1.462
   angleY -35.264
   angleZ 1.033
-  scale 0.8
- }
- {
-  coords 2786.074 0 5986.42
-  angleY -41.887
   scale 0.8
  }
  {
@@ -52587,34 +52162,6 @@ $grp SCR_DestructibleBuildingEntity : "{A5F941109F0D7310}Prefabs/Structures/Hous
   coords 2724.209 0.677 5893.126
   angleY -98
  }
- {
-  coords 807.516 0.543 5774.561
-  angleY -64
- }
- {
-  coords 799.501 0.305 5758.128
-  angleY -64
- }
- {
-  coords 708.497 0.42 5762.394
-  angleY 118
- }
- {
-  coords 758.093 0.001 5746.256
-  angleY 117
- }
- {
-  coords 783.01 -0.556 5795.158
-  angleY 116
- }
- {
-  coords 774.704 -0.095 5778.857
-  angleY 117
- }
- {
-  coords 766.396 0.267 5762.555
-  angleY 117
- }
 }
 $grp Tree : "{ADC72D627217DDE2}Prefabs/Vegetation/Tree/t_alnus_glutinosa_2s_fd_fd.et" {
  {
@@ -53938,10 +53485,6 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{DC6098E57E3D9543}Prefabs/Rocks/Gr
   angleY 44.138
   angleZ 104.699
  }
-}
-SCR_DestructibleBuildingEntity : "{DD6953233EB10B89}Prefabs/Structures/Commercial/Pubs/PubVillage_E_1L01_fd_fd.et" {
- coords 791.086 0.633 5725.026
- angleY -149
 }
 $grp Tree : "{E3F3D096B9284C3F}Prefabs/Vegetation/Bushes/b_corylus_avellana_1_fd_fd.et" {
  {

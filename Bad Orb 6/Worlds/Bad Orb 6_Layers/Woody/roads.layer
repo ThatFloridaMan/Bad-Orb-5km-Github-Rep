@@ -56,6 +56,10 @@ $grp SCR_DestructibleEntity : "{37488DB30FFB8BDE}Prefabs/Structures/Walls/Concre
   scale 1.55
  }
 }
+GenericEntity : "{7022F1A36DC9510C}Prefabs/Structures/BuildingParts/Entry/ConcreteStairs_02_SideSquareWide.et" {
+ coords 2777.063 141.85 5991.598
+ angleY 71.076
+}
 $grp SCR_DestructibleBuildingEntity : "{8CBDD1B02C8DA103}Prefabs/Structures/Infrastructure/Bridges/ConcreteBridge_01_Pillar_fd_fd.et" {
  {
   coords 3642.058 214.68 5165.313
@@ -107,6 +111,10 @@ Tree : "{8FA7E47605ECC311}Prefabs/Vegetation/Bushes/b_corylus_avellana_2_fd_fd.e
  angleZ -18.827
  scale 0.8
 }
+GenericEntity : "{94021BCA593A8CFF}Prefabs/Structures/BuildingParts/Entry/ConcreteStairs_02_Wide.et" {
+ coords 2775.939 141.428 5989.244
+ angleY -110.339
+}
 $grp StaticModelEntity : "{9C7477A3F066F750}Prefabs/Terrain/Erosion/ErodedEmbankment_01_forest_straight_fd_fd.et" {
  {
   coords 2572.65 207.03 4927.86
@@ -133,6 +141,53 @@ $grp StaticModelEntity : "{9C7477A3F066F750}Prefabs/Terrain/Erosion/ErodedEmbank
   coords 3660.732 219.379 5140.111
   angleX -4.185
   angleY 62.157
+ }
+}
+$grp GenericEntity : "{B08DF585ECD2CF4D}Prefabs/Structures/BuildingParts/Entry/ConcreteStairs_02_SideSquareNarrow.et" {
+ {
+  coords 2779.004 141.858 5991.394
+  angleY -18.799
+ }
+ {
+  coords 2780.053 141.861 5990.881
+  angleY -108.799
+ }
+ {
+  coords 2781.657 141.872 5991.424
+  angleY -108.799
+ }
+ {
+  coords 2773.259 141.945 5988.278
+  angleY -108.799
+ }
+ {
+  coords 2774.865 141.944 5988.821
+  angleY -108.799
+ }
+ {
+  coords 2769.916 141.945 5987.14
+  angleY -108.799
+ }
+ {
+  coords 2771.521 141.944 5987.683
+  angleY -108.799
+ }
+ {
+  coords 2766.542 141.945 5985.992
+  angleY -108.799
+ }
+ {
+  coords 2768.148 141.944 5986.535
+  angleY -108.799
+ }
+ {
+  coords 2763.143 141.728 5984.833
+  angleX -13.799
+  angleY -108.799
+ }
+ {
+  coords 2764.836 141.944 5985.407
+  angleY -108.799
  }
 }
 $grp SCR_DestructibleBuildingEntity : "{D55E6CC61FAC3254}Prefabs/Structures/Walls/Concrete/RetainingWall_02/ConcreteRetainingWall_02_End_fd_fd.et" {

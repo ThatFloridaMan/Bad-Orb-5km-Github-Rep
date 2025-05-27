@@ -36443,16 +36443,6 @@ StaticModelEntity : "{0A247EB653304FBE}Prefabs/Structures/Infrastructure/Culvert
  angleY -133.391
  scale 1.728
 }
-$grp SCR_DestructibleBuildingEntity : "{0B55F8622FBF918D}Prefabs/Structures/Houses/Prefabricated/House_Prefab_2I01_v1_fd_fd.et" {
- {
-  coords 670.295 0.705 5682.601
-  angleY -61
- }
- {
-  coords 687.296 0.915 5713.135
-  angleY -61
- }
-}
 $grp Tree : "{0D0A8FDAA4C367BB}Prefabs/Vegetation/Bushes/b_corylus_avellana_1l_fd_fd.et" {
  {
   coords 673.46 0 5302.853
@@ -49074,10 +49064,6 @@ $grp StaticModelEntity : "{19A3C48FC2665A40}Prefabs/Props/Construction/GravelPil
   scale 2.931
  }
 }
-SCR_DestructibleBuildingEntity : "{19A780E90D993B7A}Prefabs/Structures/Houses/Village/House_Village_E_1L03t_fd_fd.et" {
- coords 698.758 0.817 5672.762
- angleY 25
-}
 SCR_DestructibleBuildingEntity : "{1A0C01D4951389B3}Prefabs/Structures/Industrial/Workplaces/Workshop_01_Side_fd_fd.et" {
  coords 1152.319 0 5752.467
  angleY 30
@@ -51250,14 +51236,6 @@ $grp SCR_DestructibleBuildingEntity : "{1EB96C6D2933405D}Prefabs/Structures/Hous
   angleY 118
  }
  {
-  coords 816.582 0.001 5437.727
-  angleY -57
- }
- {
-  coords 781.168 0 5458.472
-  angleY 126
- }
- {
   coords 694.811 -0.062 5435.449
   angleY 139
  }
@@ -51268,24 +51246,6 @@ $grp SCR_DestructibleBuildingEntity : "{1EB96C6D2933405D}Prefabs/Structures/Hous
  {
   coords 669.052 -0.001 5499.371
   angleY -57
- }
- {
-  coords 707.423 0.421 5729.323
-  angleY -154
- }
- {
-  coords 716.101 0.164 5708.975
-  angleY -64
- }
-}
-$grp SCR_DestructibleBuildingEntity : "{1EC76A6E8F4EB746}Prefabs/Structures/Houses/Village/House_Village_E_1I03_fd_fd.et" {
- {
-  coords 845.689 0.001 5458.763
-  angleY -61
- }
- {
-  coords 811.722 0 5385.096
-  angleY -34
  }
 }
 GenericEntity : "{22333AD422BC39DC}PrefabLibrary/Props/Civilian/Recreation/ChairRecreation_01/ChairRecreation_01_red.et" {
@@ -64661,10 +64621,6 @@ GenericEntity : "{630C2872BB87F450}Prefabs/Props/Construction/ConcretePipe_01_Sh
 }
 $grp SCR_DestructibleBuildingEntity : "{66D0F3F8753B547F}Prefabs/Structures/Houses/Village/House_Village_E_1I06_white_fd_fd.et" {
  {
-  coords 791.863 0.427 5564.301
-  angleY -61
- }
- {
   coords 715.593 0 5509.818
   angleY 30
  }
@@ -64680,10 +64636,6 @@ $grp SCR_DestructibleBuildingEntity : "{66D0F3F8753B547F}Prefabs/Structures/Hous
   coords 613.029 -0.001 5543.15
   angleY -62
  }
-}
-SCR_DestructibleBuildingEntity : "{6701CC82937B1EA3}Prefabs/Structures/Houses/Prefabricated/House_Prefab_2I01_v2_fd_fd.et" {
- coords 678.285 0.729 5697.66
- angleY -63
 }
 $grp Tree : "{6764BD55B88DD17A}Prefabs/Vegetation/Bushes/b_rosa_canina_1s_fd_fd.et" {
  {
@@ -76729,19 +76681,9 @@ $grp SCR_DestructibleBuildingEntity : "{8A37E3E7A89A3177}Prefabs/Structures/Indu
   angleY 117
  }
 }
-$grp SCR_DestructibleBuildingEntity : "{8A89D92954310E59}Prefabs/Structures/Houses/Town/House_Town_E_2I02_RedRoof_fd.et" {
- {
-  coords 5322.071 0.001 3095.372
-  angleY -49
- }
- {
-  coords 574.649 -0.001 5612.262
-  angleY -60
- }
- {
-  coords 583.839 0.013 5628.18
-  angleY -60
- }
+SCR_DestructibleBuildingEntity : "{8A89D92954310E59}Prefabs/Structures/Houses/Town/House_Town_E_2I02_RedRoof_fd.et" {
+ coords 5322.071 0.001 3095.372
+ angleY -49
 }
 $grp SCR_DestructibleBuildingEntity : "{8BECE0D1740FAAEB}Prefabs/Structures/Industrial/Workplaces/Warehouse_01_Office_V2_fd_fd.et" {
  {
@@ -78971,10 +78913,6 @@ $grp SCR_DestructibleBuildingEntity : "{8F8DBBF287CC726B}Prefabs/Structures/Hous
   coords 484.967 0.31 5197.681
   angleY -80
  }
- {
-  coords 741.721 0.987 5652.001
-  angleY -154
- }
 }
 $grp SCR_DestructibleBuildingEntity : "{92AC652FED0FC35B}Prefabs/Structures/Houses/Village/House_Village_E_1I02_white_fd_fd.et" {
  {
@@ -78982,28 +78920,8 @@ $grp SCR_DestructibleBuildingEntity : "{92AC652FED0FC35B}Prefabs/Structures/Hous
   angleY 27
  }
  {
-  coords 815.526 0.893 5551.232
-  angleY -149
- }
- {
-  coords 812.242 -0.003 5477.422
-  angleY 29
- }
- {
-  coords 830.044 0 5503.305
-  angleY 122
- }
- {
   coords 634.738 0 5526.502
   angleY 29
- }
- {
-  coords 730.763 0.036 5712.915
-  angleY -155
- }
- {
-  coords 770.939 0.875 5694.588
-  angleY 120
  }
 }
 SCR_DestructibleBuildingEntity : "{93AC93061CFAE6E5}Prefabs/Structures/Houses/Village/House_Mountain_E_1I01_short_fd_fd.et" {
@@ -79121,60 +79039,6 @@ $grp GenericEntity : "{A501F1CC63130AFA}Prefabs/Structures/Infrastructure/Lamps/
   angleY -131
  }
 }
-$grp SCR_DestructibleBuildingEntity : "{A5F941109F0D7310}Prefabs/Structures/Houses/Town/House_Town_E_2I02_BlackRoof_fd.et" {
- {
-  coords 770.575 0.359 5499.89
-  angleY 121
- }
- {
-  coords 779.86 0.682 5515.342
-  angleY 121
- }
- {
-  coords 789.242 1.048 5530.957
-  angleY 121
- }
- {
-  coords 670.765 0.017 5556.795
-  angleY 117
- }
- {
-  coords 680.332 0.182 5575.57
-  angleY 117
- }
- {
-  coords 689.974 0.873 5594.493
-  angleY -63
- }
- {
-  coords 709.773 0.144 5622.787
-  angleY -150
- }
- {
-  coords 681.134 0.217 5625.914
-  angleY -19
- }
- {
-  coords 660.9 0.252 5603.732
-  angleY 117
- }
- {
-  coords 652.611 0.181 5587.464
-  angleY -63
- }
- {
-  coords 644.317 0.139 5571.183
-  angleY -63
- }
- {
-  coords 728.226 0.237 5612.133
-  angleY 30
- }
- {
-  coords 734.264 0.36 5810.854
-  angleY 118
- }
-}
 SCR_DestructibleBuildingEntity : "{A66671EAF5A77785}Prefabs/Structures/Industrial/Workplaces/Workshop_01_Garage_fd_fd.et" {
  coords 954.287 -0.007 5758.166
  angleY -117
@@ -79254,22 +79118,6 @@ $grp SCR_DestructibleBuildingEntity : "{AADD75873506A16B}Prefabs/Structures/Indu
  {
   coords 1158.542 0.087 5783.13
   angleY -153
- }
- {
-  coords 817.794 0.393 5670.565
-  angleY -153
- }
- {
-  coords 802.176 1.112 5641.029
-  angleY 30
- }
- {
-  coords 784.996 0.111 5611.97
-  angleY -151
- }
- {
-  coords 766.695 0.582 5579.583
-  angleY 30
  }
 }
 GenericEntity : "{ABFA26642CE28192}Prefabs/Props/Garbage/Cardboard/Cardboard_Pile_04_fd_fd.et" {
@@ -82895,22 +82743,6 @@ $grp SCR_DestructibleBuildingEntity : "{B27AF198E146D70E}Prefabs/Structures/Hous
  {
   coords 839.023 0 5540.084
   angleY -149
- }
- {
-  coords 851.487 0.001 5489.466
-  angleY 34
- }
- {
-  coords 723.864 0.144 5661.48
-  angleY 120
- }
- {
-  coords 743.448 0.421 5696.982
-  angleY 29
- }
- {
-  coords 867.068 0.611 5876.358
-  angleY -57
  }
 }
 $grp GenericEntity : "{B39BF623CD6927A7}Prefabs/Props/Industrial/CargoContainers/CargoContainer_02_20ft_Duvanblade_fd_fd.et" {
