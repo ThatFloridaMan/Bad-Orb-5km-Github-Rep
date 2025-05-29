@@ -64621,10 +64621,6 @@ GenericEntity : "{630C2872BB87F450}Prefabs/Props/Construction/ConcretePipe_01_Sh
 }
 $grp SCR_DestructibleBuildingEntity : "{66D0F3F8753B547F}Prefabs/Structures/Houses/Village/House_Village_E_1I06_white_fd_fd.et" {
  {
-  coords 715.593 0 5509.818
-  angleY 30
- }
- {
   coords 785.91 0 5428.948
   angleY -32
  }
