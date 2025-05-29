@@ -40892,6 +40892,43 @@ $grp SplineShapeEntity {
    }
   }
  }
+ {
+  coords 773.33 149.783 5481.356
+  Points {
+   ShapePoint "{657B6EC5D90F310C}" {
+    Position 0 -0.001 0
+   }
+   ShapePoint "{657B6EC5D9090F81}" {
+    Position 17.523 -0.527 27.701
+   }
+   ShapePoint "{657B6EC5DE280AE3}" {
+    Position 33.366 -0.795 54.316
+   }
+  }
+  {
+   RoadGeneratorEntity : "{8E689EDC77E2A3DD}Prefabs/WEGenerators/Roads/Asphalt/Asphalt_smooth_4m_fd.et" {
+    coords 0 0 0
+    {
+     RoadEntity {
+      ID "60BB53BBB01C3E2F"
+      SplinePoints {
+       ShapePoint "{657B6EC5D15053EE}" {
+        Position 0 -0.001 0
+       }
+       ShapePoint "{657B6EC5D15052D8}" {
+        Position 17.523 -0.527 27.701
+       }
+       ShapePoint "{657B6EC5D150528F}" {
+        Position 33.366 -0.795 54.316
+       }
+      }
+      IsClosedSpline 0
+      Width 5
+     }
+    }
+   }
+  }
+ }
 }
 $grp Tree : "{0403896A729E8124}Prefabs/Vegetation/Tree/t_betula_pendula_1s_fd_fd.et" {
  {
