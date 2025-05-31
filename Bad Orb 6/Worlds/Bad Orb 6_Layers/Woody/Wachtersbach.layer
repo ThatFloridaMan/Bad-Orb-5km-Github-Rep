@@ -4897,7 +4897,7 @@ $grp PolylineShapeEntity {
   coords 910.379 150.394 5639.246
   Points {
    ShapePoint "{657C008AC27B7539}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{657C008AC27BE036}" {
     Position -12.579 0.54 0.294
@@ -5207,7 +5207,7 @@ $grp PolylineShapeEntity {
   coords 743.442 152.486 5588.052
   Points {
    ShapePoint "{657C008517769660}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{657C008517771178}" {
     Position 5.753 -0.528 -2.389
@@ -5220,7 +5220,7 @@ $grp PolylineShapeEntity {
     {
      $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/Infrastructure/Roads/ConcreteKerb_01_2m_v2.et" {
       {
-       coords 0 -0 0
+       coords 0 0 0
        angleY 22.552
       }
       {
@@ -5253,7 +5253,7 @@ $grp PolylineShapeEntity {
     {
      $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/Infrastructure/Roads/ConcreteKerb_01_2m_v2.et" {
       {
-       coords 0 -0 0
+       coords 0 0 0
        angleY 42.49
       }
       {
@@ -5281,7 +5281,7 @@ $grp PolylineShapeEntity {
   coords 756.505 153.943 5612.182
   Points {
    ShapePoint "{657C00868AADF834}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{657C00868AAA1527}" {
     Position 24.759 -1.549 -13.315
@@ -5732,7 +5732,7 @@ $grp PolylineShapeEntity {
   coords 777.623 155.217 5640.781
   Points {
    ShapePoint "{657C0094D1616CC1}" {
-    Position -0.002 -0 -0.003
+    Position -0.002 0 -0.003
    }
    ShapePoint "{657C0094D161FB37}" {
     Position -1.864 -0.172 -3.636
@@ -5751,7 +5751,7 @@ $grp PolylineShapeEntity {
     {
      $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/Infrastructure/Roads/ConcreteKerb_01_2m_v2.et" {
       {
-       coords -0.002 -0 -0.003
+       coords -0.002 0 -0.003
        angleY -242.86
       }
       {
@@ -5795,7 +5795,7 @@ $grp PolylineShapeEntity {
   coords 798.45 153.901 5629.649
   Points {
    ShapePoint "{657C0094D1616CC1}" {
-    Position -0.002 -0 -0.003
+    Position -0.002 0 -0.003
    }
    ShapePoint "{657C0094D161FB37}" {
     Position -1.864 -0.172 -3.636
@@ -5814,7 +5814,7 @@ $grp PolylineShapeEntity {
     {
      $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/Infrastructure/Roads/ConcreteKerb_01_2m_v2.et" {
       {
-       coords -0.002 -0 -0.003
+       coords -0.002 0 -0.003
        angleY -242.86
       }
       {
@@ -5859,7 +5859,7 @@ $grp PolylineShapeEntity {
   angleY 180
   Points {
    ShapePoint "{657C0094D1616CC1}" {
-    Position -0.002 -0 -0.003
+    Position -0.002 0 -0.003
    }
    ShapePoint "{657C0094D161FB37}" {
     Position -1.864 -0.172 -3.636
@@ -5923,7 +5923,7 @@ $grp PolylineShapeEntity {
   angleY 180
   Points {
    ShapePoint "{657C0094D1616CC1}" {
-    Position -0.002 -0 -0.003
+    Position -0.002 0 -0.003
    }
    ShapePoint "{657C0094D161FB37}" {
     Position -1.864 -0.172 -3.636
@@ -6498,7 +6498,7 @@ $grp PolylineShapeEntity {
   coords 1292.042 140.716 5575.094
   Points {
    ShapePoint "{657C00D4D7A55480}" {
-    Position -0.707 -0 0.011
+    Position -0.707 0 0.011
    }
    ShapePoint "{657C00D4EB7AACB8}" {
     Position 85.325 0.319 -42.657
@@ -6720,7 +6720,7 @@ $grp PolylineShapeEntity {
      }
      $grp SCR_DestructibleEntity : "{8A96055ECB4E0721}Prefabs/Structures/Walls/Pole/PoleFence_02/PoleFence_02_8m_A.et" {
       {
-       coords -0.707 -0 0.011
+       coords -0.707 0 0.011
        angleY 26.379
       }
       {
@@ -7071,16 +7071,16 @@ $grp PolylineShapeEntity {
   coords 664.939 153.594 5645.634
   Points {
    ShapePoint "{657C00F2B07A42D0}" {
-    Position 0.453 -0 0.939
+    Position 0.453 0 0.939
    }
    ShapePoint "{657C00F2B07A183C}" {
-    Position -1.449 -0 -2.723
+    Position -1.449 0 -2.723
    }
    ShapePoint "{657C00F2C82DE44E}" {
-    Position -12.144 -0 3.411
+    Position -12.144 0 3.411
    }
    ShapePoint "{657C00F2CBC07F8B}" {
-    Position -12.951 -0 5.741
+    Position -12.951 0 5.741
    }
   }
   LineColor 0 0 0 0
@@ -7090,39 +7090,39 @@ $grp PolylineShapeEntity {
     {
      $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/Infrastructure/Roads/ConcreteKerb_01_2m_v2.et" {
       {
-       coords 0.453 -0 0.939
+       coords 0.453 0 0.939
        angleY -242.56
       }
       {
-       coords -0.478 -0 -0.854
+       coords -0.478 0 -0.854
        angleY -242.56
       }
       {
-       coords -1.409 -0 -2.647
+       coords -1.409 0 -2.647
        angleY -150.563
       }
       {
-       coords -3.169 -0 -1.654
+       coords -3.169 0 -1.654
        angleY -150.563
       }
       {
-       coords -4.928 -0 -0.661
+       coords -4.928 0 -0.661
        angleY -150.563
       }
       {
-       coords -6.687 -0 0.332
+       coords -6.687 0 0.332
        angleY -150.563
       }
       {
-       coords -8.447 -0 1.325
+       coords -8.447 0 1.325
        angleY -150.563
       }
       {
-       coords -10.206 -0 2.317
+       coords -10.206 0 2.317
        angleY -150.563
       }
       {
-       coords -11.966 -0 3.31
+       coords -11.966 0 3.31
        angleY -112.068
       }
      }
@@ -7249,16 +7249,16 @@ $grp PolylineShapeEntity {
   coords 672.961 153.594 5639.855
   Points {
    ShapePoint "{657C00F67E5E281D}" {
-    Position -0.778 -0 0.594
+    Position -0.778 0 0.594
    }
    ShapePoint "{657C00F67119D97C}" {
-    Position 2.732 -0 -1.525
+    Position 2.732 0 -1.525
    }
    ShapePoint "{657C00F67356B355}" {
-    Position 7.653 -0 7.359
+    Position 7.653 0 7.359
    }
    ShapePoint "{657C00F674BC02C3}" {
-    Position 5.334 -0 9.743
+    Position 5.334 0 9.743
    }
   }
   LineColor 0 0 0 0
@@ -7268,35 +7268,35 @@ $grp PolylineShapeEntity {
     {
      $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/Infrastructure/Roads/ConcreteKerb_01_2m_v2.et" {
       {
-       coords -0.778 -0 0.594
+       coords -0.778 0 0.594
        angleY 31.123
       }
       {
-       coords 0.951 -0 -0.45
+       coords 0.951 0 -0.45
        angleY 31.123
       }
       {
-       coords 2.681 -0 -1.494
+       coords 2.681 0 -1.494
        angleY -60.682
       }
       {
-       coords 3.67 -0 0.267
+       coords 3.67 0 0.267
        angleY -60.682
       }
       {
-       coords 4.659 -0 2.029
+       coords 4.659 0 2.029
        angleY -60.682
       }
       {
-       coords 5.648 -0 3.79
+       coords 5.648 0 3.79
        angleY -60.682
       }
       {
-       coords 6.637 -0 5.552
+       coords 6.637 0 5.552
        angleY -60.682
       }
       {
-       coords 7.627 -0 7.313
+       coords 7.627 0 7.313
        angleY -133.327
       }
      }
@@ -7476,10 +7476,10 @@ $grp PolylineShapeEntity {
   coords 627.776 153.594 5593.242
   Points {
    ShapePoint "{657C000C741E979D}" {
-    Position 1.266 -0 -0.726
+    Position 1.266 0 -0.726
    }
    ShapePoint "{657C000C741F1F32}" {
-    Position 7.952 -0 -4.556
+    Position 7.952 0 -4.556
    }
   }
   LineColor 0 0 0 0
@@ -7488,11 +7488,11 @@ $grp PolylineShapeEntity {
     Flags 1048579
     {
      SCR_DestructibleEntity : "{5A8E72F86B4178EF}PrefabLibrary/Walls/Net/NetFence_01_2m_End.et" {
-      coords 5.595 -0 -3.206
+      coords 5.595 0 -3.206
       angleY 29.805
      }
      SCR_DestructibleEntity : "{AE83F47DF15C6B45}PrefabLibrary/Walls/Net/NetFence_01_4m.et" {
-      coords 1.257 -0 -0.721
+      coords 1.257 0 -0.721
       angleY 29.805
      }
     }
@@ -7543,10 +7543,10 @@ $grp PolylineShapeEntity {
     Position 0 0 0
    }
    ShapePoint "{657C0007AB9158EC}" {
-    Position -3.229 -0 -5.194
+    Position -3.229 0 -5.194
    }
    ShapePoint "{657C0007CE7B80A9}" {
-    Position -5 -0 -3.992
+    Position -5 0 -3.992
    }
   }
   LineColor 0 0 0 0
@@ -7556,19 +7556,19 @@ $grp PolylineShapeEntity {
     {
      $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/Infrastructure/Roads/ConcreteKerb_01_2m_v2.et" {
       {
-       coords 0 -0 0
+       coords 0 0 0
        angleY -238.131
       }
       {
-       coords -1.067 -0 -1.716
+       coords -1.067 0 -1.716
        angleY -238.131
       }
       {
-       coords -2.133 -0 -3.431
+       coords -2.133 0 -3.431
        angleY -238.131
       }
       {
-       coords -3.2 -0 -5.147
+       coords -3.2 0 -5.147
        angleY -147.317
       }
      }
@@ -7580,13 +7580,13 @@ $grp PolylineShapeEntity {
   coords 678.675 153.594 5624.172
   Points {
    ShapePoint "{657C0018BE557FE6}" {
-    Position -1.322 -0 0.704
+    Position -1.322 0 0.704
    }
    ShapePoint "{657C0018BE55E3C5}" {
-    Position 7.262 -0 -4.809
+    Position 7.262 0 -4.809
    }
    ShapePoint "{657C0018CA7A8623}" {
-    Position -2.508 -0 -20.348
+    Position -2.508 0 -20.348
    }
   }
   LineColor 0 0 0 0
@@ -7595,28 +7595,28 @@ $grp PolylineShapeEntity {
     Flags 1048579
     {
      SCR_DestructibleEntity : "{5A8E72F86B4178EF}PrefabLibrary/Walls/Net/NetFence_01_2m_End.et" {
-      coords -0.747 -0 -17.478
+      coords -0.747 0 -17.478
       angleY -238.469
      }
      $grp SCR_DestructibleEntity : "{AE83F47DF15C6B45}PrefabLibrary/Walls/Net/NetFence_01_4m.et" {
       {
-       coords -1.33 -0 0.709
+       coords -1.33 0 0.709
        angleY 32.71
       }
       {
-       coords 2.877 -0 -1.993
+       coords 2.877 0 -1.993
        angleY 32.71
       }
       {
-       coords 7.098 -0 -4.692
+       coords 7.098 0 -4.692
        angleY -238.469
       }
       {
-       coords 4.483 -0 -8.954
+       coords 4.483 0 -8.954
        angleY -238.469
       }
       {
-       coords 1.868 -0 -13.216
+       coords 1.868 0 -13.216
        angleY -238.469
       }
      }
@@ -7628,13 +7628,13 @@ $grp PolylineShapeEntity {
   coords 660.789 153.594 5588.155
   Points {
    ShapePoint "{657C00192A2EF09F}" {
-    Position -0.193 -0 0.125
+    Position -0.193 0 0.125
    }
    ShapePoint "{657C00192A2F51F1}" {
-    Position 4.008 -0 -2.608
+    Position 4.008 0 -2.608
    }
    ShapePoint "{657C001925AAD7F9}" {
-    Position 10.402 -0 7.641
+    Position 10.402 0 7.641
    }
   }
   LineColor 0 0 0 0
@@ -7648,15 +7648,15 @@ $grp PolylineShapeEntity {
      }
      $grp SCR_DestructibleEntity : "{A533A4F9A7020219}PrefabLibrary/Walls/Net/NetFence_01_4m_blue.et" {
       {
-       coords -0.201 -0 0.131
+       coords -0.201 0 0.131
        angleY 33.055
       }
       {
-       coords 3.993 -0 -2.61
+       coords 3.993 0 -2.61
        angleY -57.987
       }
       {
-       coords 6.644 -0 1.63
+       coords 6.644 0 1.63
        angleY -57.987
       }
      }
@@ -7739,7 +7739,7 @@ $grp PolylineShapeEntity {
   coords 705.007 153.563 5581.72
   Points {
    ShapePoint "{657C01A3BAB94A25}" {
-    Position -0.66 -0 0.458
+    Position -0.66 0 0.458
    }
    ShapePoint "{657C01A3BE62DD70}" {
     Position 9.568 -0.215 -5.865
@@ -7762,7 +7762,7 @@ $grp PolylineShapeEntity {
      }
      $grp SCR_DestructibleEntity : "{39DFFF624E601D22}Prefabs/Structures/Walls/Wooden/WoodenWall_02/WoodenWall_02_8m_A_green.et" {
       {
-       coords -0.686 -0 0.474
+       coords -0.686 0 0.474
        angleY 31.723
       }
       {
@@ -8387,8 +8387,10 @@ $grp GenericEntity : "{2E89F89F600EA6C5}PrefabLibrary/Props/Garbage/GarbageStack
  }
 }
 GenericEntity : "{2F2A173F7B28DF65}Prefabs/Structures/Signs/Warnings/SignParking_01_pole.et" {
- coords 750.758 152.768 5601.147
+ coords 750.708 152.852 5601.539
+ angleX 10.09
  angleY -60.867
+ angleZ -7.542
 }
 SCR_DestructibleEntity : "{314E7752E0960F23}PrefabLibrary/Walls/Net/NetFence_01_2m_End_blue.et" {
  coords 667.175 0 5598.249
@@ -8855,7 +8857,7 @@ $grp SCR_DestructibleEntity : "{685FBE4ABE9D4542}PrefabLibrary/Walls/Wooden/Wood
   angleY 118.413
  }
  {
-  coords 782.984 -0 5554.624
+  coords 782.984 0 5554.624
   angleY 32.598
  }
  {
@@ -9001,7 +9003,7 @@ $grp SCR_DestructibleEntity : "{83786C36D543C6CE}PrefabLibrary/Walls/Wooden/Wood
   angleY -60.974
  }
  {
-  coords 775.81 -0 5558.759
+  coords 775.81 0 5558.759
   angleY 28.983
  }
  {
@@ -9018,7 +9020,7 @@ $grp SCR_DestructibleEntity : "{83786C36D543C6CE}PrefabLibrary/Walls/Wooden/Wood
   placement none
  }
  {
-  coords 691.599 -0 5627.266
+  coords 691.599 0 5627.266
   angleY 28.883
  }
 }
@@ -9076,7 +9078,7 @@ $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/Infrastructure/Roads/C
   angleY 119.77
  }
  {
-  coords 800.912 -0 5625.811
+  coords 800.912 0 5625.811
   angleY 117.14
  }
  {
@@ -9088,7 +9090,7 @@ $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/Infrastructure/Roads/C
   angleY 117.14
  }
  {
-  coords 799.773 -0 5614.696
+  coords 799.773 0 5614.696
   angleY 117.14
  }
  {
@@ -9168,7 +9170,7 @@ $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/Infrastructure/Roads/C
   angleY 109.74
  }
  {
-  coords 695.188 -0 5627.423
+  coords 695.188 0 5627.423
   angleY 109.74
  }
 }
@@ -9835,7 +9837,7 @@ $grp SCR_DestructibleBuildingEntity : "{FDDC78D2EF431C03}Prefabs/Structures/Hous
   angleY -154.252
  }
  {
-  coords 764.623 -0 5613.265
+  coords 764.623 0 5613.265
   angleY 118.24
  }
  {
