@@ -3275,12 +3275,12 @@ $grp GenericEntity : "{A501F1CC63130AFA}Prefabs/Structures/Infrastructure/Lamps/
   angleY 12
  }
  {
-  coords 4757.703 6.253 3483.581
+  coords 4765.287 6.948 3481.476
   angleY 35
  }
  {
-  coords 4785.944 6.118 3473.776
-  angleY 32
+  coords 4786.049 6.143 3473.806
+  angleY 13.797
  }
  {
   coords 4845.581 6.802 3451.293

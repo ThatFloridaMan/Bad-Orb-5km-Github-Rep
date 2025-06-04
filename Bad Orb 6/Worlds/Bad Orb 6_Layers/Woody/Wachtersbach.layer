@@ -7891,7 +7891,7 @@ $grp PolylineShapeEntity {
   coords 695.637 153.594 5584.913
   Points {
    ShapePoint "{658822ABF2DAA334}" {
-    Position -3.231 -0 1.921
+    Position -3.231 0 1.921
    }
    ShapePoint "{658822ABF2DB00DB}" {
     Position 7.281 -0.031 -4.329
@@ -7903,7 +7903,7 @@ $grp PolylineShapeEntity {
     Flags 1048579
     {
      SCR_DestructibleEntity : "{1914585909D1984B}PrefabLibrary/Walls/Wooden/WoodenWall_01_8m.et" {
-      coords -3.258 -0 1.938
+      coords -3.258 0 1.938
       angleY 30.736
      }
      SCR_DestructibleEntity : "{480A6251F69022EF}PrefabLibrary/Walls/Wooden/WoodenWall_01_Pole.et" {
@@ -7911,7 +7911,7 @@ $grp PolylineShapeEntity {
       angleY 30.736
      }
      SCR_DestructibleEntity : "{F88F7DEA2D99332D}PrefabLibrary/Walls/Wooden/WoodenWall_01_4m.et" {
-      coords 3.613 -0 -2.148
+      coords 3.613 0 -2.148
       angleY 30.736
      }
     }
@@ -8012,15 +8012,15 @@ $grp PolylineShapeEntity {
        angleY -240.178
       }
       {
-       coords 3.751 -0 6.234
+       coords 3.751 0 6.234
        angleY -240.178
       }
       {
-       coords 1.784 -0 2.802
+       coords 1.784 0 2.802
        angleY -240.178
       }
       {
-       coords -0.184 -0 -0.631
+       coords -0.184 0 -0.631
        angleY -240.178
       }
       {
@@ -8225,7 +8225,7 @@ $grp PolylineShapeEntity {
     Position 6.254 0.114 9.415
    }
    ShapePoint "{658822B2666F794D}" {
-    Position -1.183 -0 -1.411
+    Position -1.183 0 -1.411
    }
   }
   LineColor 0 0 0 0
@@ -8238,11 +8238,11 @@ $grp PolylineShapeEntity {
       angleY -235.507
      }
      SCR_DestructibleEntity : "{480A6251F69022EF}PrefabLibrary/Walls/Wooden/WoodenWall_01_Pole.et" {
-      coords -0.518 -0 -0.443
+      coords -0.518 0 -0.443
       angleY -235.507
      }
      SCR_DestructibleEntity : "{F88F7DEA2D99332D}PrefabLibrary/Walls/Wooden/WoodenWall_01_4m.et" {
-      coords 1.746 -0 2.853
+      coords 1.746 0 2.853
       angleY -235.507
      }
     }
@@ -12695,16 +12695,6 @@ $grp SCR_DestructibleEntity : "{A533A4F9A7020219}PrefabLibrary/Walls/Net/NetFenc
  {
   coords 675.675 0 5585.962
   angleY 122.013
- }
-}
-$grp SCR_DestructibleBuildingEntity : "{ABF699E9849E7DFD}Prefabs/Structures/Houses/Prefabricated/House_Prefab_2I01_v2_fd_fd_norail.et" {
- {
-  coords 623.378 2.38 5613.146
-  angleY 121.227
- }
- {
-  coords 629.916 3.146 5623.938
-  angleY 121.227
  }
 }
 $grp SCR_DestructibleBuildingEntity : "{ADCD05A194E3BFF7}Prefabs/Structures/Houses/Shed/Shed_02_big_V2_fd_fd.et" {
