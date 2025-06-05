@@ -10395,7 +10395,7 @@ $grp PolylineShapeEntity {
   coords 686.75 163.829 5746.532
   Points {
    ShapePoint "{65895469A087175E}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{65895469A336F43C}" {
     Position -19.802 -0.54 -35.283
@@ -20545,7 +20545,7 @@ $grp SCR_DestructibleBuildingEntity : "{92AC652FED0FC35B}Prefabs/Structures/Hous
  }
 }
 GenericEntity : "{94382B87F09261BF}Prefabs/Props/Civilian/LawnMower_01_fd_fd.et" {
- coords 717.362 153.594 5632.98
+ coords 718.166 153.594 5635.112
 }
 $grp StaticModelEntity : "{987B35F6140166E9}Prefabs/Structures/Infrastructure/Pavements/AsphaltPavement_01/AsphaltPavement_01_Narrow_4m_90.et" {
  {
@@ -20612,7 +20612,7 @@ $grp SCR_DestructibleEntity : "{A533A4F9A7020219}PrefabLibrary/Walls/Net/NetFenc
   angleY 122.013
  }
  {
-  coords 701.275 -0 5725.415
+  coords 701.275 0 5725.415
   angleY -57.997
  }
  {
@@ -22846,11 +22846,11 @@ $grp SCR_DestructibleBuildingEntity : "{F5BECEAAA3A53E00}Prefabs/Structures/Hous
   angleY 122.128
  }
  {
-  coords 683.55 -0.147 5722.197
+  coords 683.55 0.109 5722.197
   angleY 121.844
  }
  {
-  coords 686.118 -0.178 5726.33
+  coords 686.118 -0.036 5726.33
   angleY 121.844
  }
 }
