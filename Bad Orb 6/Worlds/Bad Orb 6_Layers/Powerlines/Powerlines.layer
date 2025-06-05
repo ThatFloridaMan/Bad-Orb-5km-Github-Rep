@@ -75023,8 +75023,8 @@ $grp SCR_DestructibleBuildingEntity : "{8A37E3E7A89A3177}Prefabs/Structures/Indu
  }
 }
 SCR_DestructibleBuildingEntity : "{8A89D92954310E59}Prefabs/Structures/Houses/Town/House_Town_E_2I02_RedRoof_fd.et" {
- coords 5322.071 0.001 3095.372
- angleY -49
+ coords 5328.074 0.001 3092.715
+ angleY -42
 }
 $grp SCR_DestructibleBuildingEntity : "{8BECE0D1740FAAEB}Prefabs/Structures/Industrial/Workplaces/Warehouse_01_Office_V2_fd_fd.et" {
  {

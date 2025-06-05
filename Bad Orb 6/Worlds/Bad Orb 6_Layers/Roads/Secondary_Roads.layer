@@ -67240,6 +67240,9 @@ $grp Tree : "{6CBFCB1E5A9B8EEF}Prefabs/Vegetation/Tree/t_prunus_domestica_2s_fd_
   scale 1.155
  }
 }
+SCR_DestructibleBuildingEntity : "{701AD8BFBCC24862}Prefabs/Props/Recreation/Toy_Factory_fb.et" {
+ coords 623.887 159.783 5631.169
+}
 $grp SCR_DestructibleEntity : "{70D554B91C368F83}PrefabsEditable/Auto/Props/Decorations/Flowerpots/FlowerpotStreet_01/E_FlowerpotStreet_01_rect_long_begonia_white.et" {
  {
   coords 5242.644 177.45 3571.881
@@ -68677,6 +68680,10 @@ $grp Tree : "{8520122192ED3D6C}PrefabLibrary/Vegetation/Trees/t_prunus_domestica
 SCR_DestructibleBuildingEntity : "{8A37E3E7A89A3177}Prefabs/Structures/Industrial/Workplaces/Workshop_02_grey_fd_fd.et" {
  coords 2775.61 0.027 5979.743
  angleY -109
+}
+SCR_DestructibleBuildingEntity : "{8A89D92954310E59}Prefabs/Structures/Houses/Town/House_Town_E_2I02_RedRoof_fd.et" {
+ coords 5310.703 0 3071.5
+ angleY 18
 }
 SCR_DestructibleBuildingEntity : "{8BECE0D1740FAAEB}Prefabs/Structures/Industrial/Workplaces/Warehouse_01_Office_V2_fd_fd.et" {
  Flags 1027
