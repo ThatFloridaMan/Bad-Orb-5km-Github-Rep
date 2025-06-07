@@ -15305,78 +15305,6 @@ $grp PolylineShapeEntity {
       }
      }
     }
-    {
-     $grp SCR_DestructibleEntity : "{15BE3A6617F91789}Prefabs/Structures/Walls/Pipe/PipeRailing_01/PipeRailing_01_6m.et" {
-      {
-       coords -4.277 -0.073 -33.873
-       angleY -76.667
-      }
-      {
-       coords -2.896 0.071 -28.047
-       angleY -76.667
-      }
-      {
-       coords 2.018 0.086 -13.973
-       angleY -54.83
-      }
-      {
-       coords 7.224 -0.01 -6.636
-       angleY -123.512
-      }
-      {
-       coords -6.208 0.016 -7.56
-       angleY -246.275
-      }
-      {
-       coords -8.619 -0.06 -13.038
-       angleY -251.538
-      }
-      {
-       coords -10.515 -0.181 -18.717
-       angleY -251.538
-      }
-     }
-     $grp SCR_DestructibleEntity : "{3E76CAB74D4C2F0C}Prefabs/Structures/Walls/Pipe/PipeRailing_01/PipeRailing_01_3m.et" {
-      {
-       coords -3.81 -0.046 -36.824
-       angleY -98.755
-      }
-      {
-       coords 0.844 0.129 -16.72
-       angleY -66.734
-      }
-      {
-       coords 5.467 0.075 -9.078
-       angleY -54.83
-      }
-      {
-       coords 3.919 -0.059 -1.644
-       angleY -123.512
-      }
-     }
-     SCR_DestructibleEntity : "{AAD15873D7C6A4F5}Prefabs/Structures/Walls/Pipe/PipeRailing_01/PipeRailing_01_Pole.et" {
-      coords -13.931 0.052 -30.175
-      angleY -255.283
-     }
-     $grp SCR_DestructibleEntity : "{C555C1712226D272}Prefabs/Structures/Walls/Pipe/PipeRailing_01/PipeRailing_01_6m_Old.et" {
-      {
-       coords -1.521 0.055 -22.22
-       angleY -66.734
-      }
-      {
-       coords 2.274 -0.087 0.897
-       angleY -224.968
-      }
-      {
-       coords -1.962 -0.417 -3.335
-       angleY -224.968
-      }
-      {
-       coords -12.413 -0.033 -24.396
-       angleY -255.283
-      }
-     }
-    }
    }
   }
  }
@@ -36151,11 +36079,6 @@ $grp Tree : "{05A3738C33E15AA8}PrefabLibrary/Vegetation/Trees/t_picea_abies_3d_f
 StaticModelEntity : "{07F043DD6AACCD0B}Prefabs/Structures/Infrastructure/Barriers/BarGate_01/BarGate_01.et" {
  coords 1075.921 -0.001 5810.757
  angleY -66
-}
-StaticModelEntity : "{0A247EB653304FBE}Prefabs/Structures/Infrastructure/Culverts/Culvert_01_small_fd_fd.et" {
- coords 5344.167 171.239 3084.799
- angleY -133.391
- scale 1.728
 }
 $grp Tree : "{0D0A8FDAA4C367BB}Prefabs/Vegetation/Bushes/b_corylus_avellana_1l_fd_fd.et" {
  {
@@ -75082,32 +75005,6 @@ $grp SCR_DestructibleBuildingEntity : "{8BECE0D1740FAAEB}Prefabs/Structures/Indu
  {
   coords 884.959 -0.002 5742.815
   angleY -116
- }
-}
-$grp SCR_DestructibleBuildingEntity : "{8CBDD1B02C8DA103}Prefabs/Structures/Infrastructure/Bridges/ConcreteBridge_01_Pillar_fd_fd.et" {
- {
-  coords 5345.931 167.834 3077.481
-  angleY 43.637
- }
- {
-  coords 5340.438 167.822 3068.303
-  angleY 19.034
- }
- {
-  coords 5338.477 167.834 3084.587
-  angleY 43.637
- }
- {
-  coords 5332.032 167.822 3074.462
-  angleY 19.684
- }
- {
-  coords 5328.831 167.834 3063.104
-  angleY 11.332
- }
- {
-  coords 5338.212 167.822 3057.029
-  angleY 2.826
  }
 }
 $grp SCR_DestructibleBuildingEntity : "{8DF6F5F77A618958}Prefabs/Structures/Industrial/Workplaces/Warehouse_01_Office_fd_fd.et" {
