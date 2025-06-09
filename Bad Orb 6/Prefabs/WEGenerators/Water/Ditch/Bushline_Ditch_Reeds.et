@@ -1,14 +1,14 @@
 PrefabGeneratorEntity {
  ID "61712C4F2623D3DE"
- coords 0 0 0
  Flags 1048579
+ coords 0 0 0
  GeneratorType GeneratorTypeVegetation "{61712C4F2623D3D6}" {
  }
  m_PrefabNames {
   "{077C695F02F4312C}PrefabLibrary/Vegetation/Bushes/b_phragmites_australis_1.et"
  }
  m_Weights {
-  0
+  1
  }
  m_fDistance 4
  m_bAlignWithShape 0
