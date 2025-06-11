@@ -32313,6 +32313,17 @@ $grp SCR_DestructibleEntity : "{6DEB94D45F649C44}PrefabLibrary/Walls/Wooden/Wood
   angleY 122.53
  }
 }
+$grp GenericEntity : "{7022F1A36DC9510C}Prefabs/Structures/BuildingParts/Entry/ConcreteStairs_02_SideSquareWide.et" {
+ {
+  coords 2773.902 140.956 5990.514
+  angleX 30.361
+  angleY 71.076
+ }
+ {
+  coords 2774.014 140.104 5990.537
+  angleY 71.076
+ }
+}
 $grp SCR_DestructibleEntity : "{71E286EA16ED81B5}Prefabs/Props/Decorations/FlowerpotFlowers_01_tagetes_orange_fd_fd.et" {
  {
   coords 616.157 154.29 5587.854
@@ -39288,6 +39299,125 @@ $grp SCR_DestructibleBuildingEntity : "{9AC6D381105F7FB5}Prefabs/Structures/Hous
  {
   coords 534.553 -0.009 5264.716
   angleY -89.783
+ }
+}
+$grp StaticModelEntity : "{9C7477A3F066F750}Prefabs/Terrain/Erosion/ErodedEmbankment_01_forest_straight_fd_fd.et" {
+ {
+  coords 836.5 157.135 5878.442
+  angleX -15.438
+  scale 2
+ }
+ {
+  coords 813.745 155.284 5843.96
+  angleX -12.016
+  angleY -120.612
+  angleZ -8.208
+  scale 2
+ }
+ {
+  coords 844.719 156.281 5878.237
+  angleX -16.874
+  angleY 39.035
+  angleZ 3.57
+  scale 2
+ }
+ {
+  coords 801.407 155.81 5852.929
+  angleX -11.831
+  angleY -166.533
+  angleZ 1.747
+  scale 2
+ }
+ {
+  coords 830.583 152.335 5792.489
+  angleX -21.984
+  angleY 128.878
+  angleZ 0.368
+  scale 2
+ }
+ {
+  coords 838.738 151.658 5805.318
+  angleX -23.954
+  angleY 119.924
+  angleZ -7.727
+  scale 2
+ }
+ {
+  coords 840.253 156.741 5875.382
+  angleX -16.317
+  angleY -165.87
+  angleZ -7.375
+  scale 2
+ }
+ {
+  coords 852.587 153.607 5866.957
+  angleX -8.805
+  angleY -120.444
+  angleZ -17.75
+  scale 2
+ }
+ {
+  coords 770.142 159.794 5868.405
+  angleX -23.12
+  angleY 99.949
+  angleZ 1.223
+  scale 2
+ }
+ {
+  coords 768.345 158.814 5860.397
+  angleX -23.506
+  angleY 140.88
+  angleZ -0.744
+  scale 2
+ }
+ {
+  coords 829.954 153.242 5803.445
+  angleX -11.056
+  angleY -28.146
+  angleZ 2.445
+  scale 2
+ }
+ {
+  coords 780.681 160.169 5879.772
+  angleX -24.695
+  angleY 162.92
+  angleZ -2.369
+  scale 2
+ }
+ {
+  coords 804.85 156.692 5855.704
+  angleX -17.976
+  angleY -5.837
+  angleZ 3.946
+  scale 2
+ }
+ {
+  coords 885.207 152.012 5858.287
+  angleX -18.944
+  angleY -76.357
+  angleZ 0.308
+  scale 2
+ }
+ {
+  coords 815.111 155.416 5844.561
+  angleX -24.458
+  angleY 69.736
+  angleZ 4.793
+  scale 2
+ }
+ {
+  coords 767.368 159.594 5865.671
+  angleX -15.437
+  angleY -69.359
+  angleZ 1.048
+  scale 2
+ }
+ {
+  coords 821.491 153.523 5792.86
+  angleX -11.969
+  angleY -151.801
+  angleZ -5.326
+  scale 2
  }
 }
 $grp Tree : "{9D1D30F36F79B0B4}Prefabs/Vegetation/Tree/t_betula_pendula_2s_fd_fd.et" {
