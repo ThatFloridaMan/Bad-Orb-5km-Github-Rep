@@ -8,7 +8,7 @@ PrefabGeneratorEntity {
   "{6CBFCB1E5A9B8EEF}Prefabs/Vegetation/Tree/t_prunus_domestica_2s_fd_fd.et"
  }
  m_Weights {
-  0
+  1
  }
  m_fDistance 10
  m_bAlignWithShape 0

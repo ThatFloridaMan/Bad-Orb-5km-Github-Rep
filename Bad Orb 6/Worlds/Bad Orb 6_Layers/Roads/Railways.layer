@@ -859,6 +859,7 @@ $grp SplineShapeEntity {
    RoadGeneratorEntity : "{6B2D0F426DC3118F}Prefabs/WEGenerators/Roads/Railway/R_Railway.et" {
     coords 0 0 0
     GenerateRoad 0
+    RoadClearance 10
     {
      RoadEntity {
       ID "5262CB47BB2B3833"

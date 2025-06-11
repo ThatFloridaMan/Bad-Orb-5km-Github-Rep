@@ -2955,15 +2955,15 @@ $grp GenericEntity : "{3DECB10E2D0EBA77}Prefabs/Labels/Forests.et" {
   }
   coords 2960.861 215.265 3633.754
  }
- Triwald {
+ Treswald {
   components {
    SCR_EditableCommentComponent "{64C95E64DD2D4953}" {
     m_UIInfo SCR_EditableCommentUIInfo "{64C95E64332BA6EB}" {
-     Name "Triwald"
+     Name "Treswald"
     }
    }
    SCR_MapDescriptorComponent "{64C95E6491A91086}" {
-    DisplayName "Triwald"
+    DisplayName "Treswald"
    }
   }
   coords 2353.341 186.154 3694.817
