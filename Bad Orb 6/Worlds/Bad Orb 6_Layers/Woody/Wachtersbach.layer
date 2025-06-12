@@ -45030,6 +45030,23 @@ $grp SCR_DestructibleBuildingEntity : "{F5BECEAAA3A53E00}Prefabs/Structures/Hous
   angleY -63.726
  }
 }
+$grp SCR_DestructibleEntity : "{F666DC35B15CBB49}Prefabs/Props/Decorations/flowerpotstreet/FlowerpotStreet_01_octa_begonia_white_fd_fd.et" {
+ {
+  coords 805.074 156.827 5744.678
+  angleY -62.706
+  scale 2
+ }
+ {
+  coords 802.862 156.827 5740.393
+  angleY -62.706
+  scale 2
+ }
+ {
+  coords 807.292 156.827 5748.976
+  angleY -62.706
+  scale 2
+ }
+}
 SCR_DestructibleBuildingEntity : "{F7B9B2DD8B512720}Prefabs/Structures/Walls/Concrete/ConcreteRetainingWall_02/ConcreteRetainingWall_02_8m.et" {
  coords 635.308 150.549 5615.501
  angleY 30.884
@@ -45081,22 +45098,7 @@ $grp SCR_DestructibleEntity : "{FB5F6A6C2BC10787}Prefabs/Props/Decorations/Flowe
   scale 2
  }
  {
-  coords 802.862 156.827 5740.393
-  angleY -62.706
-  scale 2
- }
- {
-  coords 805.074 156.827 5744.678
-  angleY -62.706
-  scale 2
- }
- {
   coords 803.971 156.827 5742.539
-  angleY -62.706
-  scale 2
- }
- {
-  coords 807.292 156.827 5748.976
   angleY -62.706
   scale 2
  }
