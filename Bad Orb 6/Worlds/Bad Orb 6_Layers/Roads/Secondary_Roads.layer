@@ -2951,13 +2951,6 @@ $grp PolylineShapeEntity {
        scale 1.03
       }
       {
-       coords 428.563 0.798 -104.596
-       angleX 1.019
-       angleY -32.422
-       angleZ -0.534
-       scale 1.096
-      }
-      {
        coords 422.971 0.266 -108.754
        angleX -2.029
        angleY -54.791
@@ -28526,10 +28519,13 @@ $grp PolylineShapeEntity {
   coords 2707.241 141.904 5941.072
   Points {
    ShapePoint "{6510E286E8A3C44B}" {
-    Position 0 0 0
+    Position 0.365 0.036 -1.166
+   }
+   ShapePoint "{65A245FC693888F7}" {
+    Position -1.11 -0.554 16.728
    }
    ShapePoint "{6510E286E8A00CAD}" {
-    Position -1.201 -0.925 26.108
+    Position -1.363 -0.872 25.031
    }
    ShapePoint "{6510E286EF43341C}" {
     Position 13.564 -1.666 28.485
@@ -28548,65 +28544,69 @@ $grp PolylineShapeEntity {
     {
      $grp SCR_DestructibleEntity : "{1D26060DCD40C9F7}PrefabLibrary/Walls/Wooden/WoodenFence_04_2m.et" {
       {
-       coords -0.918 -0.665 19.963
-       angleY -92.634
+       coords -1.11 -0.622 18.762
+       angleY -92.303
       }
       {
-       coords 10.606 -1.557 27.992
-       angleY -9.475
+       coords 10.267 -1.537 27.675
+       angleY -13.797
       }
       {
-       coords 27.283 -1.731 34.444
-       angleY -26.686
+       coords 16.153 -1.761 28.947
+       angleY -11.37
       }
       {
-       coords 29.083 -1.688 35.349
-       angleY -26.686
+       coords 28.714 -1.691 35.065
+       angleY -28.446
       }
      }
      $grp SCR_DestructibleEntity : "{6DEB94D45F649C44}PrefabLibrary/Walls/Wooden/WoodenFence_04_4m.et" {
       {
-       coords -0.734 -0.53 15.958
-       angleY -92.634
+       coords -0.949 -0.492 14.756
+       angleY -92.303
       }
       {
-       coords -1.011 -0.734 21.975
-       angleY -92.634
+       coords -1.191 -0.682 20.774
+       angleY -92.303
       }
       {
-       coords 6.655 -1.382 27.332
-       angleY -9.475
+       coords 6.376 -1.342 26.72
+       angleY -13.797
       }
       {
-       coords 12.592 -1.649 28.322
-       angleY -10.522
+       coords 12.22 -1.627 28.157
+       angleY -11.37
+      }
+      {
+       coords 21.659 -1.82 31.244
+       angleY -28.446
+      }
+      {
+       coords 25.186 -1.786 33.154
+       angleY -28.446
       }
      }
      SCR_DestructibleEntity : "{863305E1A7ACBED2}PrefabLibrary/Walls/Wooden/WoodenFence_04_4m_Pole.et" {
-      coords 30.845 -1.617 36.234
-      angleY -26.686
+      coords 30.448 -1.632 36.005
+      angleY -28.446
      }
      $grp SCR_DestructibleEntity : "{8C70B1677B2C3722}PrefabLibrary/Walls/Wooden/WoodenFence_04_8m.et" {
       {
-       coords 0.002 0.001 -0.042
-       angleY -92.634
+       coords 0.368 0.038 -1.208
+       angleY -94.711
       }
       {
-       coords -0.366 -0.249 7.958
-       angleY -92.634
+       coords -0.29 -0.212 6.774
+       angleY -94.711
       }
       {
-       coords -1.238 -0.912 26.015
-       angleY -9.475
-      }
-      {
-       coords 16.539 -1.776 29.044
-       angleY -26.686
+       coords -1.395 -0.861 24.811
+       angleY -13.797
       }
      }
      SCR_DestructibleEntity : "{D94DB89BB5C4E8F4}PrefabLibrary/Walls/Wooden/WoodenFence_04_4m_D.et" {
-      coords 23.699 -1.812 32.642
-      angleY -26.686
+      coords 18.132 -1.779 29.333
+      angleY -28.446
      }
     }
    }
@@ -28944,228 +28944,6 @@ $grp PolylineShapeEntity {
       }
      }
     }
-   }
-  }
- }
- {
-  coords 2805.532 159.608 5689.807
-  Points {
-   ShapePoint "{651132E7B9705FFE}" {
-    Position -1.149 -1.026 4.552
-   }
-   ShapePoint "{651132E78E00638B}" {
-    Position -3.042 -2.722 12.048
-   }
-   ShapePoint "{651132E7882735C2}" {
-    Position -6.085 -4.721 24.095
-   }
-   ShapePoint "{651132E78E01EA12}" {
-    Position -9.127 -6.477 36.143
-   }
-   ShapePoint "{651132E7926A8263}" {
-    Position -12.169 -8.076 48.19
-   }
-   ShapePoint "{651132E78EFF16AC}" {
-    Position -15.211 -9.425 60.238
-   }
-   ShapePoint "{651132E788249A6C}" {
-    Position -18.254 -10.466 72.286
-   }
-   ShapePoint "{651132E78EFC9615}" {
-    Position -21.296 -11.057 84.333
-   }
-   ShapePoint "{651132E7B96A3D1A}" {
-    Position -24.338 -11.295 96.381
-   }
-  }
-  {
-   RoadGeneratorEntity : "{48E1BAACC5B80686}Prefabs/WEGenerators/Bushline/Plum_row.et" {
-    coords 0 0 0
-   }
-  }
- }
- {
-  coords 2812.96 159.713 5690.651
-  Points {
-   ShapePoint "{651132E7B9705FFE}" {
-    Position -1.295 -1.136 5.09
-   }
-   ShapePoint "{651132E7834C7F19}" {
-    Position -3.049 -2.78 12.358
-   }
-   ShapePoint "{651132E78C1449DF}" {
-    Position -6.056 -5.19 24.821
-   }
-   ShapePoint "{651132E7834DEC42}" {
-    Position -9.064 -6.981 37.284
-   }
-   ShapePoint "{651132E7978F884D}" {
-    Position -12.072 -8.541 49.748
-   }
-   ShapePoint "{651132E7834B6842}" {
-    Position -15.079 -9.853 62.211
-   }
-   ShapePoint "{651132E78C15D0E6}" {
-    Position -18.087 -10.827 74.674
-   }
-   ShapePoint "{651132E78348FF2A}" {
-    Position -21.094 -11.39 87.137
-   }
-   ShapePoint "{651132E7B96A3D1A}" {
-    Position -24.102 -11.557 99.6
-   }
-  }
-  {
-   RoadGeneratorEntity : "{48E1BAACC5B80686}Prefabs/WEGenerators/Bushline/Plum_row.et" {
-    coords 0 0 0
-   }
-  }
- }
- {
-  coords 2820.288 159.817 5692.843
-  Points {
-   ShapePoint "{651132E7B9705FFE}" {
-    Position -1.212 -1.258 4.565
-   }
-   ShapePoint "{651132E7873B51F5}" {
-    Position -2.959 -3.289 12.314
-   }
-   ShapePoint "{651132E7817DC32C}" {
-    Position -5.787 -5.848 24.856
-   }
-   ShapePoint "{651132E787392137}" {
-    Position -8.615 -7.657 37.399
-   }
-   ShapePoint "{651132E796051AB0}" {
-    Position -11.443 -9.136 49.941
-   }
-   ShapePoint "{651132E78736A111}" {
-    Position -14.271 -10.317 62.484
-   }
-   ShapePoint "{651132E7817B576B}" {
-    Position -17.099 -11.184 75.026
-   }
-   ShapePoint "{651132E787342424}" {
-    Position -19.927 -11.685 87.569
-   }
-   ShapePoint "{651132E7B96A3D1A}" {
-    Position -22.756 -11.834 100.111
-   }
-  }
-  {
-   RoadGeneratorEntity : "{48E1BAACC5B80686}Prefabs/WEGenerators/Bushline/Plum_row.et" {
-    coords 0 0 0
-   }
-  }
- }
- {
-  coords 2803.878 147.875 5788.725
-  Points {
-   ShapePoint "{651132E7B9705FFE}" {
-    Position 24.171 10.65 -89.064
-   }
-   ShapePoint "{651132E77A8A3C61}" {
-    Position 22.364 8.37 -80.913
-   }
-   ShapePoint "{651132E78442ED9B}" {
-    Position 19.564 5.431 -68.283
-   }
-   ShapePoint "{651132E77A8BB585}" {
-    Position 16.765 3.564 -55.653
-   }
-   ShapePoint "{651132E7952A0CE2}" {
-    Position 13.965 2.136 -43.023
-   }
-   ShapePoint "{651132E77A8931F1}" {
-    Position 11.165 1.04 -30.394
-   }
-   ShapePoint "{651132E7844067C9}" {
-    Position 8.366 0.331 -17.764
-   }
-   ShapePoint "{651132E77A86849F}" {
-    Position 5.566 -0.064 -5.134
-   }
-   ShapePoint "{651132E7B96A3D1A}" {
-    Position 2.767 -0.103 7.496
-   }
-  }
-  {
-   RoadGeneratorEntity : "{48E1BAACC5B80686}Prefabs/WEGenerators/Bushline/Plum_row.et" {
-    coords 0 0 0
-   }
-  }
- }
- {
-  coords 2808.468 147.752 5800.057
-  Points {
-   ShapePoint "{651132E7B9705FFE}" {
-    Position 29.061 9.803 -94.416
-   }
-   ShapePoint "{651132E77E086BA7}" {
-    Position 27.375 7.662 -86.628
-   }
-   ShapePoint "{651132E77FB31854}" {
-    Position 24.709 4.793 -74.311
-   }
-   ShapePoint "{651132E77E09EDC0}" {
-    Position 22.043 2.99 -61.993
-   }
-   ShapePoint "{651132E7943D178B}" {
-    Position 19.377 1.619 -49.675
-   }
-   ShapePoint "{651132E77E071638}" {
-    Position 16.711 0.611 -37.358
-   }
-   ShapePoint "{651132E77FB09EFA}" {
-    Position 14.044 -0.05 -25.04
-   }
-   ShapePoint "{651132E77E04E434}" {
-    Position 11.378 -0.383 -12.722
-   }
-   ShapePoint "{651132E7B96A3D1A}" {
-    Position 8.712 -0.32 -0.405
-   }
-  }
-  {
-   RoadGeneratorEntity : "{48E1BAACC5B80686}Prefabs/WEGenerators/Bushline/Plum_row.et" {
-    coords 0 0 0
-   }
-  }
- }
- {
-  coords 2830.888 147.278 5791.185
-  Points {
-   ShapePoint "{651132E7B9705FFE}" {
-    Position 16.696 9.244 -78.128
-   }
-   ShapePoint "{651132E77200074F}" {
-    Position 15.021 7.317 -70.583
-   }
-   ShapePoint "{651132E7739D4047}" {
-    Position 12.378 4.651 -58.678
-   }
-   ShapePoint "{651132E772001165}" {
-    Position 9.734 3.065 -46.773
-   }
-   ShapePoint "{651132E78B294C2D}" {
-    Position 7.091 1.816 -34.867
-   }
-   ShapePoint "{651132E77200665D}" {
-    Position 4.448 0.874 -22.962
-   }
-   ShapePoint "{651132E7739DA847}" {
-    Position 1.805 0.271 -11.056
-   }
-   ShapePoint "{651132E772004E33}" {
-    Position -0.839 -0.027 0.849
-   }
-   ShapePoint "{651132E7B96A3D1A}" {
-    Position -3.482 0.034 12.754
-   }
-  }
-  {
-   RoadGeneratorEntity : "{48E1BAACC5B80686}Prefabs/WEGenerators/Bushline/Plum_row.et" {
-    coords 0 0 0
    }
   }
  }
@@ -85818,32 +85596,6 @@ $grp Tree : "{0D0A8FDAA4C367BB}Prefabs/Vegetation/Bushes/b_corylus_avellana_1l_f
   scale 0.8
  }
  {
-  coords 2672.74 0 5875.62
-  angleX -4.975
-  angleY -95.725
-  angleZ 4.077
-  scale 0.8
- }
- {
-  coords 2674.928 0 5875.246
-  angleX 5.281
-  angleY 88.804
-  angleZ -3.672
-  scale 0.8
- }
- {
-  coords 2681.465 0 5874.659
-  angleX 3.08
-  angleY 64.505
-  angleZ 6.428
-  scale 0.8
- }
- {
-  coords 2689.212 0 5876.147
-  angleY 108.905
-  scale 0.8
- }
- {
   coords 2723.6 0 5861.89
   angleX -2.462
   angleY -58.33
@@ -91083,14 +90835,7 @@ $grp Tree : "{1E4BD6CB38106267}Prefabs/Vegetation/Tree/t_alnus_glutinosa_2f_fd_f
   scale 0.991
  }
  {
-  coords 2725.398 0 5882.853
-  angleX 5.588
-  angleY -143.338
-  angleZ 1.278
-  scale 0.936
- }
- {
-  coords 2729.842 0 5882.343
+  coords 2730.419 0.028 5882.841
   angleX 2.826
   angleY 28.164
   angleZ -0.875
@@ -93255,10 +93000,10 @@ $grp Tree : "{2DD08897D2B403E0}Prefabs/Vegetation/Tree/t_carpinus_betulus_3s_fd_
  }
 }
 GenericEntity : "{2E89F89F600EA6C5}PrefabLibrary/Props/Garbage/GarbageStack_01_Medium.et" {
- coords 2644.289 143.805 5873.172
+ coords 2644.292 143.742 5873.168
  angleX -3.009
  angleY -76.305
- angleZ 4.777
+ angleZ 1.559
 }
 SCR_DestructibleBuildingEntity : "{2EC358E97E66CEB3}Prefabs/Structures/Industrial/Sheds/ShedMetal_03_v2_fd_fd.et" {
  coords 3147.872 0.117 5887.389
@@ -95332,7 +95077,7 @@ SCR_DestructibleBuildingEntity : "{47968238070DF903}Prefabs/Structures/Houses/Fa
  angleY -46
 }
 SCR_DestructibleBuildingEntity : "{4865C92AD14DD664}Prefabs/Structures/Industrial/Workplaces/Warehouse_01_V3_fd_fd.et" {
- coords 2813.852 -0.002 5954.529
+ coords 2813.852 0.379 5954.529
  angleY -109
 }
 $grp StaticModelEntity : "{4A4BFC5FE128F9F1}PrefabLibrary/Props/Agricultural/HaystackSmall_01.et" {
@@ -99388,10 +99133,6 @@ $grp SCR_DestructibleEntity : "{750B424306CE40F7}PrefabsEditable/Auto/Props/Deco
   angleY -134
  }
 }
-Vehicle M998_covered_long_MERDC1 : "{751AFEEA19DDFB04}Prefabs/Vehicles/Wheeled/M998/M998_covered_long_MERDC.et" {
- coords 2157.22 152.67 6119.785
- angleY -64
-}
 GenericEntity : "{783B2F0821264C9E}Prefabs/Structures/Civilian/PlaygroundSlide_01_fd_fd.et" {
  coords 710.434 163.161 5756.116
  angleX 2.963
@@ -99573,573 +99314,6 @@ $grp SCR_DestructibleEntity : "{7FBBCC13B2624643}PrefabsEditable/Auto/Props/Deco
  }
 }
 $grp Tree : "{8520122192ED3D6C}PrefabLibrary/Vegetation/Trees/t_prunus_domestica_2s.et" {
- {
-  coords 2804.717 0 5693.238
-  angleX -0.572
-  angleY 120.782
-  angleZ 0.229
-  scale 1.106
- }
- {
-  coords 2803.322 0 5698.542
-  angleX 2.106
-  angleY -88.569
-  angleZ 2.05
-  scale 1.18
- }
- {
-  coords 2800.983 0 5707.511
-  angleX 1.547
-  angleY -26.121
-  angleZ 1.528
-  scale 1.067
- }
- {
-  coords 2798.869 0 5715.612
-  angleX 0.376
-  angleY -170.167
-  angleZ -1.433
-  scale 1.125
- }
- {
-  coords 2795.054 0 5728.821
-  angleX -1.394
-  angleY -168.332
-  angleZ 3.395
-  scale 1.101
- }
- {
-  coords 2792.972 0 5742.488
-  angleX 3.361
-  angleY 113.432
-  angleZ -0.308
-  scale 0.988
- }
- {
-  coords 2791.123 0 5746.557
-  angleX -0.385
-  angleY 151.874
-  angleZ 3.109
-  scale 1.065
- }
- {
-  coords 2791.228 0 5751.044
-  angleX -0.242
-  angleY -165.618
-  angleZ 3.993
-  scale 0.982
- }
- {
-  coords 2788.144 0 5759.628
-  angleX -0.611
-  angleY -141.195
-  angleZ 2.824
-  scale 0.949
- }
- {
-  coords 2785.736 0 5767.692
-  angleX -1.292
-  angleY 102.346
-  angleZ -0.45
-  scale 1.091
- }
- {
-  coords 2785.478 0 5772.089
-  angleX -0.788
-  angleY -136.658
-  angleZ 1.221
-  scale 0.9
- }
- {
-  coords 2811.968 0 5695.409
-  angleX 0.52
-  angleY 62.454
-  angleZ -1.574
-  scale 0.929
- }
- {
-  coords 2810.854 0 5699.997
-  angleX -3.49
-  angleY -100.654
-  angleZ 0.275
-  scale 0.919
- }
- {
-  coords 2809.052 0 5708.256
-  angleX 2.517
-  angleY -16.859
-  angleZ 3.946
-  scale 0.803
- }
- {
-  coords 2808.02 0 5712.253
-  angleX -3.777
-  angleY 83.109
-  angleZ 1.327
-  scale 1.145
- }
- {
-  coords 2805.445 0 5720.676
-  angleX -2.926
-  angleY 70.32
-  angleZ -0.471
-  scale 1.126
- }
- {
-  coords 2804.699 0 5724.707
-  angleX 0.153
-  angleY 135.185
-  angleZ 3.27
-  scale 0.97
- }
- {
-  coords 2803.686 0 5728.788
-  angleX 0.072
-  angleY 28.725
-  angleZ 0.287
-  scale 1.079
- }
- {
-  coords 2800.07 0 5741.11
-  angleX 0.404
-  angleY -65.519
-  angleZ 0.119
-  scale 1.008
- }
- {
-  coords 2798.863 0 5749.793
-  angleX -3.897
-  angleY 172.903
-  angleZ -1.55
-  scale 0.931
- }
- {
-  coords 2796.198 0 5763.272
-  angleX 0.703
-  angleY 139.745
-  angleZ -2.265
-  scale 1.085
- }
- {
-  coords 2793.134 0 5770.693
-  angleX 3.267
-  angleY 147.227
-  angleZ 2.563
-  scale 0.96
- }
- {
-  coords 2793.292 0 5775.002
-  angleX -2.782
-  angleY 138.602
-  angleZ -0.504
-  scale 0.975
- }
- {
-  coords 2791.199 0 5784.164
-  angleX -0.368
-  angleY 113.926
-  angleZ -0.054
-  scale 1.114
- }
- {
-  coords 2789.947 0 5788.381
-  angleX 0.191
-  angleY 126.176
-  angleZ 1.374
-  scale 0.872
- }
- {
-  coords 2819.37 0 5696.262
-  angleX 2.94
-  angleY -48.797
-  angleZ 3.022
-  scale 0.9
- }
- {
-  coords 2817.675 0 5704.987
-  angleX 2.219
-  angleY -174.913
-  angleZ -1.506
-  scale 1.065
- }
- {
-  coords 2815.955 0 5714.432
-  angleX -0.181
-  angleY 97.886
-  angleZ 2.872
-  scale 1.165
- }
- {
-  coords 2813.107 0 5722.737
-  angleX -0.172
-  angleY 132.724
-  angleZ 2.187
-  scale 1.138
- }
- {
-  coords 2812.972 0 5727.642
-  angleX -1.773
-  angleY -89.887
-  angleZ 2.022
-  scale 1.063
- }
- {
-  coords 2811.246 0 5732.351
-  angleX 2.004
-  angleY -129.626
-  angleZ -0.828
-  scale 1.146
- }
- {
-  coords 2807.715 0 5744.364
-  angleX 1.181
-  angleY -0.17
-  angleZ 3.566
-  scale 0.998
- }
- {
-  coords 2802.728 0 5767.141
-  angleX 3.757
-  angleY -37.118
-  angleZ 2.255
-  scale 1.182
- }
- {
-  coords 2800.713 0 5776.229
-  angleX 3.154
-  angleY -114.069
-  angleZ -2.666
-  scale 1.116
- }
- {
-  coords 2799.858 0 5780.645
-  angleX 2.524
-  angleY 123.309
-  angleZ 3.224
-  scale 1.034
- }
- {
-  coords 2797.59 0 5790.418
-  angleX 2.669
-  angleY 90.008
-  angleZ -3.951
-  scale 0.83
- }
- {
-  coords 2826.776 0 5707.838
-  angleX 3.601
-  angleY 146.194
-  angleZ 2.362
-  scale 0.936
- }
- {
-  coords 2825.222 0 5712.288
-  angleX 3.865
-  angleY 167.563
-  angleZ 0.105
-  scale 0.86
- }
- {
-  coords 2823.562 0 5717.154
-  angleX -2.281
-  angleY -42.183
-  angleZ -0.645
-  scale 1.009
- }
- {
-  coords 2823.418 0 5721.836
-  angleX 2.79
-  angleY -164.157
-  angleZ -1.056
-  scale 1.113
- }
- {
-  coords 2821.58 0 5730.46
-  angleX 0.181
-  angleY -27.956
-  angleZ 3.369
-  scale 1.125
- }
- {
-  coords 2820.073 0 5734.399
-  angleX 2.927
-  angleY 144.447
-  angleZ -0.474
-  scale 0.931
- }
- {
-  coords 2817.755 0 5743.374
-  angleX -1.532
-  angleY -43.249
-  angleZ 3.459
-  scale 1.039
- }
- {
-  coords 2815.114 0 5757.651
-  angleX -2.705
-  angleY 30.098
-  angleZ 2.006
-  scale 1.117
- }
- {
-  coords 2813.522 0 5761.358
-  angleX 0.027
-  angleY -70.002
-  angleZ -1.514
-  scale 0.817
- }
- {
-  coords 2811.981 0 5770.052
-  angleX -3.294
-  angleY -12.816
-  angleZ -1.083
-  scale 1.065
- }
- {
-  coords 2811.375 0 5774.033
-  angleX -2.549
-  angleY -94.568
-  angleZ -3.804
-  scale 1.152
- }
- {
-  coords 2811.243 0 5778.896
-  angleX 1.319
-  angleY -14.442
-  angleZ 0.345
-  scale 1.01
- }
- {
-  coords 2809.015 0 5787.763
-  angleX 2.588
-  angleY -145.007
-  angleZ -0.057
-  scale 0.921
- }
- {
-  coords 2807.041 0 5791.328
-  angleX -3.149
-  angleY -3.258
-  angleZ 1.39
-  scale 0.857
- }
- {
-  coords 2806.421 0 5795.998
-  angleX -1.885
-  angleY 91.349
-  angleZ -1.459
-  scale 1.164
- }
- {
-  coords 2837.635 0 5705.732
-  angleX 0.824
-  angleY 122.858
-  angleZ 3.579
-  scale 1.03
- }
- {
-  coords 2835.188 0 5714.563
-  angleX 3.918
-  angleY 145.293
-  angleZ -1.983
-  scale 0.981
- }
- {
-  coords 2834.81 0 5718.625
-  angleX 2.892
-  angleY 20.88
-  angleZ 3.089
-  scale 1.128
- }
- {
-  coords 2832.337 0 5726.89
-  angleX -2.89
-  angleY 123.089
-  angleZ -1.499
-  scale 1.062
- }
- {
-  coords 2831.431 0 5735.141
-  angleX 3.199
-  angleY 120.156
-  angleZ -0.589
-  scale 1.038
- }
- {
-  coords 2829.715 0 5743.813
-  angleX 2.308
-  angleY 174.869
-  angleZ -1.734
-  scale 1.168
- }
- {
-  coords 2828.688 0 5748.286
-  angleX -0.089
-  angleY 12.695
-  angleZ -2.42
-  scale 1.112
- }
- {
-  coords 2826.064 0 5757.024
-  angleX 2.302
-  angleY 102.643
-  angleZ 3.754
-  scale 0.874
- }
- {
-  coords 2825.584 0 5765.553
-  angleX 1.403
-  angleY 88.316
-  angleZ 1.663
-  scale 0.928
- }
- {
-  coords 2823.554 0 5769.509
-  angleX -0.24
-  angleY -48.512
-  angleZ -0.122
-  scale 0.857
- }
- {
-  coords 2822.607 0 5774.976
-  angleX -1.115
-  angleY -80.769
-  angleZ 2.644
-  scale 0.937
- }
- {
-  coords 2822.509 0 5779.31
-  angleX -0.669
-  angleY 118.618
-  angleZ 2.306
-  scale 1.197
- }
- {
-  coords 2821.169 0 5783.471
-  angleX 0.876
-  angleY -84.174
-  angleZ 2.474
-  scale 1.15
- }
- {
-  coords 2819.641 0 5787.639
-  angleX -2.511
-  angleY -129.912
-  angleZ -2.072
-  scale 1.078
- }
- {
-  coords 2819.363 0 5792.437
-  angleX 0.996
-  angleY -151.061
-  angleZ -3.136
-  scale 1.179
- }
- {
-  coords 2846.412 0 5712.778
-  angleX -0.33
-  angleY -32.735
-  angleZ 3.882
-  scale 1.033
- }
- {
-  coords 2845.005 0 5721.438
-  angleX 1.863
-  angleY 82.988
-  angleZ -1.186
-  scale 0.861
- }
- {
-  coords 2842.573 0 5730.331
-  angleX 0.048
-  angleY 155.939
-  angleZ 2.544
-  scale 1.14
- }
- {
-  coords 2840.408 0 5738.699
-  angleX -3.191
-  angleY 176.66
-  angleZ -0.085
-  scale 0.854
- }
- {
-  coords 2838.244 0 5750.721
-  angleX -0.07
-  angleY 27.736
-  angleZ -2.774
-  scale 1.188
- }
- {
-  coords 2838.403 0 5754.795
-  angleX -1.148
-  angleY 50.061
-  angleZ -1.339
-  scale 1.157
- }
- {
-  coords 2837.574 0 5758.935
-  angleX -1.397
-  angleY -14.464
-  angleZ 2.903
-  scale 0.963
- }
- {
-  coords 2835.466 0 5762.982
-  angleX 2.771
-  angleY 161.246
-  angleZ 3.599
-  scale 0.822
- }
- {
-  coords 2835.2 0 5767.303
-  angleX 2.976
-  angleY 90.634
-  angleZ -0.305
-  scale 0.993
- }
- {
-  coords 2832.522 0 5775.16
-  angleX -1.437
-  angleY 110.147
-  angleZ 1.045
-  scale 0.804
- }
- {
-  coords 2832.938 0 5779.168
-  angleX -2.57
-  angleY -75.242
-  angleZ -3.735
-  scale 1.101
- }
- {
-  coords 2831.733 0 5783.585
-  angleX -2.283
-  angleY -136.537
-  angleZ 1.824
-  scale 1.04
- }
- {
-  coords 2830.401 0 5787.512
-  angleX 3.278
-  angleY -90.085
-  angleZ 3.104
-  scale 1.053
- }
- {
-  coords 2828.952 0 5795.93
-  angleX -0.601
-  angleY -72.507
-  angleZ -0.349
-  scale 1.025
- }
- {
-  coords 2828.035 0 5800.31
-  angleX -1.267
-  angleY 81.274
-  angleZ 2.411
-  scale 0.863
- }
  {
   coords 2974.991 0 5791.349
   angleX -2.718
@@ -100616,7 +99790,7 @@ SCR_DestructibleBuildingEntity : "{8F8DBBF287CC726B}Prefabs/Structures/Houses/Vi
 }
 $grp SCR_DestructibleBuildingEntity : "{92AC652FED0FC35B}Prefabs/Structures/Houses/Village/House_Village_E_1I02_white_fd_fd.et" {
  {
-  coords 3127.834 0 5905.194
+  coords 3126.793 0 5905.524
   angleY -96
  }
  {
@@ -100627,10 +99801,6 @@ $grp SCR_DestructibleBuildingEntity : "{92AC652FED0FC35B}Prefabs/Structures/Hous
 SCR_DestructibleBuildingEntity : "{92E8F78BCF17D93E}Prefabs/Structures/Commercial/Shops/ShopHouse_E_2I01t_clothesstore_fd_fd.et" {
  coords 5266.73 0 3178.024
  angleY -45
-}
-SCR_DestructibleBuildingEntity : "{93AC93061CFAE6E5}Prefabs/Structures/Houses/Village/House_Mountain_E_1I01_short_fd_fd.et" {
- coords 2824.491 -0.001 5845.877
- angleY -18
 }
 GenericEntity : "{986F38072A8DD564}Prefabs/Props/Garbage/Generic/Junk_01_single_planks_fd_fd.et" {
  coords 790.877 156.871 5785.257
@@ -101123,9 +100293,9 @@ $grp Tree : "{ADC72D627217DDE2}Prefabs/Vegetation/Tree/t_alnus_glutinosa_2s_fd_f
  }
  {
   coords 2720.204 0 5880.707
-  angleX -2.999
-  angleY -141.448
-  angleZ -3.353
+  angleX -4.397
+  angleY -177.502
+  angleZ -0.948
   scale 0.868
  }
  {
@@ -101148,13 +100318,6 @@ $grp Tree : "{ADC72D627217DDE2}Prefabs/Vegetation/Tree/t_alnus_glutinosa_2s_fd_f
   angleY 95.458
   angleZ -4.659
   scale 0.789
- }
- {
-  coords 2668.725 0 5876.231
-  angleX -6.055
-  angleY -126.517
-  angleZ -1.472
-  scale 0.997
  }
  {
   coords 2733.707 0 5865.368
@@ -102015,7 +101178,7 @@ $grp SCR_IndestructibleEnvironmentalEntity : "{B034AC05C2F91A6D}Prefabs/Rocks/Gr
  }
 }
 SCR_DestructibleBuildingEntity : "{B1F1B1BEB21102A7}Prefabs/Structures/Industrial/Houses/FactoryHall_E_01/FactoryHall_E_01.et" {
- coords 2775.878 142.269 5937.636
+ coords 2775.878 142.41 5937.636
  angleY 67
 }
 $grp SCR_DestructibleBuildingEntity : "{B27AF198E146D70E}Prefabs/Structures/Houses/Village/House_Village_E_1I01_RedRoof_fd_fd.et" {
@@ -102040,10 +101203,6 @@ $grp SCR_DestructibleBuildingEntity : "{B7FE3FE8D2F1DA2A}Prefabs/Structures/Agri
  {
   coords 3398.887 0.271 5323.354
   angleY 58
- }
- {
-  coords 2788.911 0 5809.237
-  angleY 73
  }
  {
   coords 3147.191 0 5893.258
@@ -102610,14 +101769,6 @@ $grp SCR_DestructibleBuildingEntity : "{CE99A0981A15FDE7}Prefabs/Structures/Agri
   }
  }
 }
-SCR_DestructibleBuildingEntity : "{D0E6A3CAC7EAF61B}Prefabs/Structures/Houses/Village/House_Mountain_E_1I01_fd_fd.et" {
- coords 2798.006 0 5854.517
- angleY 73
-}
-SCR_DestructibleBuildingEntity : "{D27B49BF4856567B}Prefabs/Structures/Agriculture/Hayloft/Hayloft_Wood_fd.et" {
- coords 2826.335 0.878 5817.61
- angleY 70
-}
 $grp GenericEntity : "{D3B7C4398B72FC02}Prefabs/Props/Agriculture/Farm/HayBale_01_square_big_fd_fd.et" {
  {
   coords 5250.425 304.556 4668.535
@@ -102756,27 +101907,6 @@ $grp Tree : "{DACD45EA86B53292}Prefabs/Vegetation/Tree/t_alnus_glutinosa_3s_fd_f
   scale 0.627
  }
  {
-  coords 2693.909 0 5876.557
-  angleX 1.897
-  angleY 71.188
-  angleZ -0.528
-  scale 0.72
- }
- {
-  coords 2687.787 0 5875.982
-  angleX -2.628
-  angleY 119.694
-  angleZ 0.77
-  scale 0.667
- }
- {
-  coords 2679.464 0.001 5873.771
-  angleX 1.335
-  angleY -33.855
-  angleZ 3
-  scale 0.995
- }
- {
   coords 2753.937 0 5897.013
   angleX -0.986
   angleY -116.607
@@ -102803,13 +101933,6 @@ $grp Tree : "{DACD45EA86B53292}Prefabs/Vegetation/Tree/t_alnus_glutinosa_3s_fd_f
   angleY -120.386
   angleZ -1.301
   scale 0.607
- }
- {
-  coords 2663.363 0 5874.458
-  angleX 2.491
-  angleY -22.726
-  angleZ 2.34
-  scale 0.641
  }
  {
   coords 2719.014 0 5835.054
@@ -104181,41 +103304,6 @@ $grp Tree : "{E3F3D096B9284C3F}Prefabs/Vegetation/Bushes/b_corylus_avellana_1_fd
   angleX -7.85
   angleY 42.665
   angleZ -7.175
-  scale 0.8
- }
- {
-  coords 2677.747 0 5875.37
-  angleX 2.5
-  angleY 117.756
-  angleZ -4.738
-  scale 0.8
- }
- {
-  coords 2676.429 0 5877.413
-  angleX -0.721
-  angleY 53.062
-  angleZ -3.932
-  scale 0.8
- }
- {
-  coords 2684.171 0 5875.743
-  angleX 1.956
-  angleY 56.88
-  angleZ 2.995
-  scale 0.8
- }
- {
-  coords 2683.533 0 5878.233
-  angleX -3.324
-  angleY -92.664
-  angleZ 5.506
-  scale 0.8
- }
- {
-  coords 2691.909 0 5876.491
-  angleX 6.849
-  angleY -4.18
-  angleZ -4.058
   scale 0.8
  }
  {
@@ -107286,14 +106374,6 @@ $grp SCR_DestructibleBuildingEntity : "{F5BECEAAA3A53E00}Prefabs/Structures/Hous
  {
   coords 2738.38 0.139 5939.95
   angleY -97
- }
- {
-  coords 2828.587 0 5860.454
-  angleY -108
- }
- {
-  coords 2826.473 -0.001 5866.479
-  angleY -108
  }
  {
   coords 3163.469 0.07 5911.155
