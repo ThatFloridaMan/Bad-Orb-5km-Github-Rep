@@ -13,10 +13,10 @@ SplineShapeEntity {
  coords 642.702 153.594 5650.333
  Points {
   ShapePoint "{657ECE8F3E5F8349}" {
-   Position 0 -0 0
+   Position 0 0 0
   }
   ShapePoint "{657ECE8F3E5FF6C3}" {
-   Position 54.824 -0 -31.168
+   Position 54.824 0 -31.168
   }
   ShapePoint "{657ECE8F336B0E8D}" {
    Position 99.233 -0.886 -56.633
@@ -30,10 +30,10 @@ SplineShapeEntity {
      ID "60BB53BBB01C3E2F"
      SplinePoints {
       ShapePoint "{657ECE8F376E4F19}" {
-       Position 0 -0 0
+       Position 0 0 0
       }
       ShapePoint "{657ECE8F376E4E67}" {
-       Position 54.824 -0 -31.168
+       Position 54.824 0 -31.168
       }
       ShapePoint "{657ECE8F376E4E23}" {
        Position 99.233 -0.886 -56.633
@@ -937,7 +937,7 @@ $grp GenericEntity : "{B08DF585ECD2CF4D}Prefabs/Structures/BuildingParts/Entry/C
  }
  {
   coords 2769.916 141.945 5987.14
-  angleY -108.799
+  angleY 71.201
  }
  {
   coords 2771.521 141.944 5987.683
@@ -945,20 +945,19 @@ $grp GenericEntity : "{B08DF585ECD2CF4D}Prefabs/Structures/BuildingParts/Entry/C
  }
  {
   coords 2766.542 141.945 5985.992
-  angleY -108.799
+  angleY 71.201
  }
  {
   coords 2768.148 141.944 5986.535
   angleY -108.799
  }
  {
-  coords 2763.143 141.728 5984.833
-  angleX -13.799
+  coords 2763.143 141.934 5984.833
   angleY -108.799
  }
  {
   coords 2764.836 141.944 5985.407
-  angleY -108.799
+  angleY 71.201
  }
 }
 GenericEntity : "{C0D2C730DA557010}Prefabs/Structures/Signs/SignStop_01_pole_fd_fd.et" {
