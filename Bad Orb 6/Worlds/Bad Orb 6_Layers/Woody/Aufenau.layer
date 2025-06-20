@@ -13078,7 +13078,7 @@ $grp PolylineShapeEntity {
   coords 2911.806 147.225 5891.7
   Points {
    ShapePoint "{65A51CBBE0C4964B}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{65A51CBBE0C5193F}" {
     Position 0.674 0.47 -8.007
@@ -13354,7 +13354,7 @@ $grp PolylineShapeEntity {
   coords 2945.522 145.625 5910.179
   Points {
    ShapePoint "{65A51C87AE8A4E9D}" {
-    Position -0.059 -0 0.015
+    Position -0.059 0 0.015
    }
    ShapePoint "{65A51C87AE8AC022}" {
     Position -0.247 2.933 -29.103
@@ -13373,7 +13373,7 @@ $grp PolylineShapeEntity {
     {
      $grp StaticModelEntity : "{1B2F4654BAEFFB71}PrefabLibrary/Infrastructure/Pavements/Asphalt/AsphaltPavement_01_Narrow_4m_A.et" {
       {
-       coords -0.057 -0 0.223
+       coords -0.057 0 0.223
        angleY -269.629
       }
       {
@@ -13523,7 +13523,7 @@ $grp PolylineShapeEntity {
     {
      $grp StaticModelEntity : "{1B2F4654BAEFFB71}PrefabLibrary/Infrastructure/Pavements/Asphalt/AsphaltPavement_01_Narrow_4m_A.et" {
       {
-       coords 0.188 -0 0.003
+       coords 0.188 0 0.003
        angleY -186.032
       }
       {
@@ -13897,7 +13897,7 @@ $grp PolylineShapeEntity {
   coords 2835.428 150.819 5734.553
   Points {
    ShapePoint "{65A51C238FB12143}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{65A51C238FB1EE24}" {
     Position 4.259 7.719 -37.697
@@ -14001,7 +14001,7 @@ $grp PolylineShapeEntity {
   coords 2907.907 150.918 5799.085
   Points {
    ShapePoint "{65A51C2209E0F117}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{65A51C2209E10CCE}" {
     Position 7.815 4.344 -29.134
@@ -14159,7 +14159,7 @@ $grp PolylineShapeEntity {
   coords 2870.067 150.538 5760.66
   Points {
    ShapePoint "{65A51C22736302B8}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{65A51C227363A6E6}" {
     Position 17.473 5.462 -25.252
@@ -14621,7 +14621,7 @@ $grp PolylineShapeEntity {
   coords 2803.994 146.904 5845.093
   Points {
    ShapePoint "{65A51C4B62C0376A}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{65A51C4B62C0B06F}" {
     Position 1.7 0.284 -10.335
@@ -14634,7 +14634,7 @@ $grp PolylineShapeEntity {
     {
      $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/Infrastructure/Roads/ConcreteKerb_01_2m_v2.et" {
       {
-       coords 0 -0 0
+       coords 0 0 0
        angleY 80.657
       }
       {
@@ -14675,7 +14675,7 @@ $grp PolylineShapeEntity {
     {
      $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/Infrastructure/Roads/ConcreteKerb_01_2m_v2.et" {
       {
-       coords 0 -0 0
+       coords 0 0 0
        angleY -267.892
       }
       {
@@ -14716,7 +14716,7 @@ $grp PolylineShapeEntity {
     {
      $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/Infrastructure/Roads/ConcreteKerb_01_2m_v2.et" {
       {
-       coords 0 -0 0
+       coords 0 0 0
        angleY 80.973
       }
       {
@@ -14753,7 +14753,7 @@ $grp PolylineShapeEntity {
     {
      $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/Infrastructure/Roads/ConcreteKerb_01_2m_v2.et" {
       {
-       coords 0 -0 0
+       coords 0 0 0
        angleY 89.72
       }
       {
@@ -14790,7 +14790,7 @@ $grp PolylineShapeEntity {
     {
      $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/Infrastructure/Roads/ConcreteKerb_01_2m_v2.et" {
       {
-       coords 0 -0 0
+       coords 0 0 0
        angleY 89.15
       }
       {
@@ -15022,7 +15022,7 @@ $grp PolylineShapeEntity {
   coords 2970.472 145.688 5911.188
   Points {
    ShapePoint "{65A51DB35947EBC0}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{65A51DB3594439A4}" {
     Position 0.067 0.653 -12.336
@@ -15035,7 +15035,7 @@ $grp PolylineShapeEntity {
     {
      $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/Infrastructure/Roads/ConcreteKerb_01_2m_v2.et" {
       {
-       coords 0 -0 0
+       coords 0 0 0
        angleY 89.69
       }
       {
@@ -15080,7 +15080,7 @@ $grp PolylineShapeEntity {
     {
      $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/Infrastructure/Roads/ConcreteKerb_01_2m_v2.et" {
       {
-       coords 0 -0 0
+       coords 0 0 0
        angleY 89.341
       }
       {
@@ -15271,7 +15271,7 @@ $grp PolylineShapeEntity {
   coords 2922.128 145.546 5908.673
   Points {
    ShapePoint "{65A51DB15EA5B47F}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{65A51DB15EA23AD0}" {
     Position -0.02 0.627 -6.764
@@ -15284,7 +15284,7 @@ $grp PolylineShapeEntity {
     {
      $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/Infrastructure/Roads/ConcreteKerb_01_2m_v2.et" {
       {
-       coords 0 -0 0
+       coords 0 0 0
        angleY -269.828
       }
       {
@@ -15669,10 +15669,10 @@ $grp PolylineShapeEntity {
   coords 2974.244 145.688 5911.254
   Points {
    ShapePoint "{65A51DBA99251EE6}" {
-    Position -0.423 -0 -0.136
+    Position -0.423 0 -0.136
    }
    ShapePoint "{65A51DBA9925819F}" {
-    Position -3.025 -0 -0.237
+    Position -3.025 0 -0.237
    }
   }
   LineColor 0 0 0 0
@@ -15681,11 +15681,11 @@ $grp PolylineShapeEntity {
     Flags 1048579
     {
      SCR_DestructibleEntity : "{685FBE4ABE9D4542}PrefabLibrary/Walls/Wooden/WoodenFence_02_2m.et" {
-      coords -0.175 -0 -0.127
+      coords -0.175 0 -0.127
       angleY -182.224
      }
      SCR_DestructibleEntity : "{83786C36D543C6CE}PrefabLibrary/Walls/Wooden/WoodenFence_02_Pole.et" {
-      coords -2.611 -0 -0.221
+      coords -2.611 0 -0.221
       angleY -182.224
      }
     }
@@ -16379,7 +16379,7 @@ $grp PolylineShapeEntity {
   coords 3096.806 147.711 5899.75
   Points {
    ShapePoint "{65A51DEF10615A1E}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{65A51DEF123A50EB}" {
     Position 0.28 0.742 -6.13
@@ -16471,7 +16471,7 @@ $grp PolylineShapeEntity {
   coords 3088.526 146.063 5915.043
   Points {
    ShapePoint "{65A51DEFE99D8539}" {
-    Position 0.216 -0 0.159
+    Position 0.216 0 0.159
    }
    ShapePoint "{65A51DEFE99A1BA9}" {
     Position 0.125 0.544 -7.625
@@ -16484,7 +16484,7 @@ $grp PolylineShapeEntity {
     {
      $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/Infrastructure/Roads/ConcreteKerb_01_2m_v2.et" {
       {
-       coords 0.216 -0 0.159
+       coords 0.216 0 0.159
        angleY -269.331
       }
       {
@@ -16638,7 +16638,7 @@ $grp PolylineShapeEntity {
   coords 3088.891 148.997 5891.404
   Points {
    ShapePoint "{65A51DEECBE1967F}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{65A51DEECD3968E6}" {
     Position -0.126 -1.425 9.137
@@ -16651,7 +16651,7 @@ $grp PolylineShapeEntity {
     {
      $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/Infrastructure/Roads/ConcreteKerb_01_2m_v2.et" {
       {
-       coords 0 -0 0
+       coords 0 0 0
        angleY -90.79
       }
       {
@@ -16675,7 +16675,7 @@ $grp PolylineShapeEntity {
   coords 3077.737 148.757 5889.266
   Points {
    ShapePoint "{65A51DEEC5D8229F}" {
-    Position 0 -0 0
+    Position 0 0 0
    }
    ShapePoint "{65A51DEEC742459A}" {
     Position -6.287 -0.186 0.03
@@ -16691,7 +16691,7 @@ $grp PolylineShapeEntity {
     {
      $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/Infrastructure/Roads/ConcreteKerb_01_2m_v2.et" {
       {
-       coords 0 -0 0
+       coords 0 0 0
        angleY -179.729
       }
       {
@@ -16731,7 +16731,7 @@ $grp PolylineShapeEntity {
   coords 3048.028 145.881 5913.833
   Points {
    ShapePoint "{65A51DF7B9B8EECA}" {
-    Position -0.744 -0 -0.014
+    Position -0.744 0 -0.014
    }
    ShapePoint "{65A51DF7B9B97297}" {
     Position 9.443 0.025 0.176
@@ -16747,7 +16747,7 @@ $grp PolylineShapeEntity {
       angleY -1.065
      }
      SCR_DestructibleEntity : "{5EF68161E25B9320}PrefabLibrary/Walls/Wooden/WoodenFence_03_8m.et" {
-      coords -0.805 -0 -0.015
+      coords -0.805 0 -0.015
       angleY -1.065
      }
      SCR_DestructibleEntity : "{CFA0360B54376DF5}PrefabLibrary/Walls/Wooden/WoodenFence_03_2m.et" {
@@ -16778,7 +16778,7 @@ $grp PolylineShapeEntity {
     {
      $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/Infrastructure/Roads/ConcreteKerb_01_2m_v2.et" {
       {
-       coords 0 -0 0
+       coords 0 0 0
        angleY 81.257
       }
       {
@@ -17174,7 +17174,7 @@ $grp SplineShapeEntity {
     Position 3.103 -0.068 1.197
    }
    ShapePoint "{65A51C2A18AC655A}" {
-    Position -19.441 -0.969 -3.686
+    Position -19.4 -0.959 -3.688
    }
    ShapePoint "{65A51C2A1A72B959}" {
     Position -25.979 -2.861 2.29
@@ -17193,7 +17193,7 @@ $grp SplineShapeEntity {
         Position 3.103 -0.068 1.197
        }
        ShapePoint "{556C6556BF2A9DE7}" {
-        Position -19.441 -0.969 -3.686
+        Position -19.4 -0.959 -3.687
        }
        ShapePoint "{65A51C2A2C124623}" {
         Position -25.979 -2.861 2.29
@@ -18525,7 +18525,6 @@ $grp Tree : "{106ED5DD4C2F3E0A}Prefabs/Vegetation/Bushes/b_rosa_canina_0s_fd_fd.
   angleX 1.814
   angleY 37.126
   angleZ -5.345
-  scale 1
  }
  {
   coords 2882.324 0 5795.839
@@ -18845,7 +18844,6 @@ $grp Tree : "{106ED5DD4C2F3E0A}Prefabs/Vegetation/Bushes/b_rosa_canina_0s_fd_fd.
   angleX 2.826
   angleY 55.288
   angleZ -8.422
-  scale 1
  }
  {
   coords 2862.671 0 5746.371
@@ -19543,7 +19541,7 @@ $grp SCR_DestructibleBuildingEntity : "{1A5E36A36CC191ED}Prefabs/Structures/Hous
   angleY -95.308
  }
  {
-  coords 2872.771 -0.597 5766.347
+  coords 2872.771 -0.299 5766.346
   angleY -48.77
  }
  {
@@ -21352,7 +21350,6 @@ $grp Tree : "{2417E177CE240450}Prefabs/Vegetation/Plant/p_urtica_dioica_0s_fd_fd
   angleX -1.13
   angleY -10.172
   angleZ 3.834
-  scale 1
  }
  {
   coords 2921.325 -0.132 5792.329
@@ -21604,7 +21601,6 @@ $grp Tree : "{2417E177CE240450}Prefabs/Vegetation/Plant/p_urtica_dioica_0s_fd_fd
   angleX -2.048
   angleY -4.219
   angleZ -3.433
-  scale 1
  }
  {
   coords 2852.054 -0.208 5780.026
@@ -28375,7 +28371,6 @@ $grp Tree : "{80C2B17EB509D6D0}Prefabs/Vegetation/Plant/p_echium_vulgare_0s_fd_f
   angleX 0.08
   angleY -162.37
   angleZ 5.643
-  scale 1
  }
  {
   coords 2909.889 0 5800.588
@@ -36575,7 +36570,7 @@ $grp Tree : "{E3F3D096B9284C3F}Prefabs/Vegetation/Bushes/b_corylus_avellana_1_fd
   scale 0.8
  }
  {
-  coords 2860.618 0 5766.368
+  coords 2859.609 -0 5764.449
   angleX -4.28
   angleY -77.146
   angleZ 2.685
@@ -36799,7 +36794,7 @@ $grp GenericEntity : "{F429E4F1B21A5055}Prefabs/Props/Decorations/FlowerpotPelar
      angleZ -1.762
     }
     {
-     coords -3.584 -0.12 -0
+     coords -3.584 -0.12 0
      angleZ -1.762
     }
    }
