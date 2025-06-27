@@ -15825,7 +15825,7 @@ $grp PolylineShapeEntity {
      $grp SCR_DestructibleEntity : "{2DEFFC3B4DE1E33A}Prefabs/Structures/Walls/Net/NetFence_02/NetFence_02_2m.et" {
       {
        coords -9.763 0.727 3.947
-       angleY -159.546
+       angleY -159.543
       }
       {
        coords -31.327 1.744 29.058
@@ -15867,7 +15867,7 @@ $grp PolylineShapeEntity {
      $grp SCR_DestructibleEntity : "{CBB323D90F2FF29F}Prefabs/Structures/Walls/Net/NetFence_02/NetFence_02_8m.et" {
       {
        coords -2.351 -0.097 1.182
-       angleY -159.546
+       angleY -159.543
       }
       {
        coords -11.628 1.076 4.623
