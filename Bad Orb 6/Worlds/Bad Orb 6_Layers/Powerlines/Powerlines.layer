@@ -40062,23 +40062,6 @@ $grp Tree : "{0D0A8FDAA4C367BB}Prefabs/Vegetation/Bushes/b_corylus_avellana_1l_f
   scale 0.8
  }
  {
-  coords 729.856 0 5542.068
-  angleX 1.497
-  angleY 123.223
-  angleZ 0.981
-  scale 0.8
- }
- {
-  coords 719.745 0 5546.515
-  angleY -111.751
-  scale 0.8
- }
- {
-  coords 715.37 0 5538.034
-  angleY -40.7
-  scale 0.8
- }
- {
   coords 453.469 0 5241.35
   angleX -27.351
   angleY 25.305
@@ -62977,7 +62960,7 @@ SCR_DestructibleBuildingEntity : "{4AFF77C432E037B2}Prefabs/Structures/Commercia
 }
 $grp SCR_DestructibleBuildingEntity : "{4E0845B85F4535D9}Prefabs/Structures/Agriculture/CowShed/CowShed_E_01_short_fd_fd.et" {
  {
-  coords 918.035 0.218 5599.177
+  coords 918.035 0.587 5599.177
   angleY 29
  }
  {
@@ -86072,23 +86055,6 @@ $grp Tree : "{E3F3D096B9284C3F}Prefabs/Vegetation/Bushes/b_corylus_avellana_1_fd
   angleX 1.077
   angleY -17.508
   angleZ 3.41
-  scale 0.8
- }
- {
-  coords 718.725 0 5543.884
-  angleY -119.837
-  scale 0.8
- }
- {
-  coords 716.687 0 5542.063
-  angleX 1.382
-  angleY -11.913
-  angleZ -2.12
-  scale 0.8
- }
- {
-  coords 716.143 0 5540.012
-  angleY -79.142
   scale 0.8
  }
  {

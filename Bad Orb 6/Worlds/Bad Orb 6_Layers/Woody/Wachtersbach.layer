@@ -6346,8 +6346,8 @@ $grp PolylineShapeEntity {
        angleY 30.94
       }
       {
-       coords 22.906 0.099 -13.737
-       angleY 30.94
+       coords 22.223 0.099 -13.328
+       angleY 31.604
       }
      }
     }
@@ -16456,6 +16456,302 @@ $grp PolylineShapeEntity {
    }
   }
  }
+ {
+  coords 771.425 149.757 5477.653
+  Points {
+   ShapePoint "{65B72CDBA5123DDF}" {
+    Position 0 0 0
+   }
+   ShapePoint "{65B72CDBA51356BD}" {
+    Position 12.176 -0.692 -7.959
+   }
+   ShapePoint "{65B72CDBD82EDD62}" {
+    Position 26.773 -1.528 -17.919
+   }
+   ShapePoint "{65B72CDBD96C8811}" {
+    Position 32.429 -1.848 -21.718
+   }
+   ShapePoint "{65B72CDBDBD34030}" {
+    Position 36.918 -2.071 -24.351
+   }
+   ShapePoint "{65B72CDBDD068D46}" {
+    Position 40.973 -2.258 -26.063
+   }
+   ShapePoint "{65B72CDBDE339BBC}" {
+    Position 44.168 -2.338 -26.513
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{B369FBF98A1B3541}PrefabLibrary/Generators/Pavements/Asphalt/WG_Asphalt_Pavement_01_Narrow.et" {
+    Flags 1048579
+    {
+     $grp StaticModelEntity : "{1B2F4654BAEFFB71}PrefabLibrary/Infrastructure/Pavements/Asphalt/AsphaltPavement_01_Narrow_4m_A.et" {
+      {
+       coords -0.175 0.009 0.114
+       angleY 33.173
+      }
+      {
+       coords 3.134 -0.179 -2.049
+       angleY 33.173
+      }
+      {
+       coords 6.442 -0.364 -4.211
+       angleY 33.173
+      }
+      {
+       coords 9.753 -0.566 -6.371
+       angleY 34.156
+      }
+      {
+       coords 13.023 -0.738 -8.59
+       angleY 34.156
+      }
+      {
+       coords 16.294 -0.941 -10.81
+       angleY 34.156
+      }
+      {
+       coords 19.565 -1.112 -13.029
+       angleY 34.156
+      }
+      {
+       coords 22.836 -1.315 -15.248
+       angleY 33.997
+      }
+      {
+       coords 26.113 -1.487 -17.459
+       angleY 33.997
+      }
+      {
+       coords 29.386 -1.689 -19.675
+       angleY 31.83
+      }
+      {
+       coords 32.736 -1.865 -21.774
+       angleY 27.508
+      }
+      {
+       coords 36.243 -2.028 -23.6
+       angleY 27.508
+      }
+      {
+       coords 39.732 -2.225 -25.475
+       angleY 13.167
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 820.793 147.221 5449.219
+  Points {
+   ShapePoint "{65B72CDBD72E55B1}" {
+    Position -0.178 0.02 0.093
+   }
+   ShapePoint "{65B72CDBD72ED4F2}" {
+    Position 4.918 -0.457 -3.046
+   }
+   ShapePoint "{65B72CDBED6E3D71}" {
+    Position 12.346 -0.909 -7.962
+   }
+   ShapePoint "{65B72CDBEE82869A}" {
+    Position 19.118 -1.343 -12.198
+   }
+   ShapePoint "{65B72CDBE0BB858A}" {
+    Position 25.109 -1.767 -14.878
+   }
+   ShapePoint "{65B72CDBE3048937}" {
+    Position 34.1 -2.284 -18.84
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{B369FBF98A1B3541}PrefabLibrary/Generators/Pavements/Asphalt/WG_Asphalt_Pavement_01_Narrow.et" {
+    Flags 1048579
+    {
+     $grp StaticModelEntity : "{1B2F4654BAEFFB71}PrefabLibrary/Infrastructure/Pavements/Asphalt/AsphaltPavement_01_Narrow_4m_A.et" {
+      {
+       coords -0.355 0.041 0.203
+       angleY 31.631
+      }
+      {
+       coords 3.006 -0.354 -1.861
+       angleY 33.15
+      }
+      {
+       coords 6.314 -0.54 -4.022
+       angleY 33.15
+      }
+      {
+       coords 9.62 -0.746 -6.185
+       angleY 32.339
+      }
+      {
+       coords 12.959 -0.958 -8.299
+       angleY 32.339
+      }
+      {
+       coords 16.288 -1.139 -10.43
+       angleY 26.757
+      }
+      {
+       coords 19.814 -1.384 -12.209
+       angleY 26.757
+      }
+      {
+       coords 23.337 -1.656 -13.995
+       angleY 24.238
+      }
+      {
+       coords 26.94 -1.94 -15.617
+       angleY 24.238
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 878.441 147.406 5486.698
+  Points {
+   ShapePoint "{65B72CDBF4411FD0}" {
+    Position 0.142 0 -0.289
+   }
+   ShapePoint "{65B72CDBF78F612A}" {
+    Position -12.22 -1.031 -24.677
+   }
+   ShapePoint "{65B72CDA002F5D8B}" {
+    Position -23.675 -2.367 -47.207
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{B369FBF98A1B3541}PrefabLibrary/Generators/Pavements/Asphalt/WG_Asphalt_Pavement_01_Narrow.et" {
+    Flags 1048579
+    {
+     $grp StaticModelEntity : "{1B2F4654BAEFFB71}PrefabLibrary/Infrastructure/Pavements/Asphalt/AsphaltPavement_01_Narrow_4m_A.et" {
+      {
+       coords 0.237 0 -0.102
+       angleY -243.12
+      }
+      {
+       coords -1.551 0 -3.629
+       angleY -243.12
+      }
+      {
+       coords -3.339 -0.011 -7.156
+       angleY -243.12
+      }
+      {
+       coords -5.127 -0.209 -10.683
+       angleY -243.12
+      }
+      {
+       coords -6.915 -0.422 -14.211
+       angleY -243.12
+      }
+      {
+       coords -8.703 -0.634 -17.738
+       angleY -243.12
+      }
+      {
+       coords -10.49 -0.832 -21.265
+       angleY -243.058
+      }
+      {
+       coords -12.281 -1.034 -24.787
+       angleY -243.058
+      }
+      {
+       coords -14.071 -1.245 -28.31
+       angleY -243.058
+      }
+      {
+       coords -15.861 -1.459 -31.832
+       angleY -243.058
+      }
+      {
+       coords -17.651 -1.673 -35.355
+       angleY -243.058
+      }
+      {
+       coords -19.442 -1.881 -38.877
+       angleY -243.058
+      }
+      {
+       coords -21.232 -2.084 -42.399
+       angleY -243.058
+      }
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 851.802 144.91 5430.116
+  Points {
+   ShapePoint "{65B72CDA11FF7091}" {
+    Position -0.122 -0.001 -0.051
+   }
+   ShapePoint "{65B72CDA11FFF702}" {
+    Position -4.978 -0.128 -10.895
+   }
+   ShapePoint "{65B72CDA2ED3FE03}" {
+    Position -9.44 -0.349 -22.543
+   }
+   ShapePoint "{65B72CDA20732A4B}" {
+    Position -14.448 -0.85 -35.2
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{B369FBF98A1B3541}PrefabLibrary/Generators/Pavements/Asphalt/WG_Asphalt_Pavement_01_Narrow.et" {
+    Flags 1048579
+    {
+     $grp StaticModelEntity : "{1B2F4654BAEFFB71}PrefabLibrary/Infrastructure/Pavements/Asphalt/AsphaltPavement_01_Narrow_4m_A.et" {
+      {
+       coords -0.036 0.005 0.139
+       angleY -245.875
+      }
+      {
+       coords -1.654 -0.035 -3.472
+       angleY -245.875
+      }
+      {
+       coords -3.279 -0.096 -7.08
+       angleY -248.278
+      }
+      {
+       coords -4.743 -0.128 -10.755
+       angleY -248.278
+      }
+      {
+       coords -6.208 -0.191 -14.431
+       angleY -248.278
+      }
+      {
+       coords -7.672 -0.222 -18.106
+       angleY -248.376
+      }
+      {
+       coords -9.13 -0.306 -21.783
+       angleY -248.376
+      }
+      {
+       coords -10.587 -0.452 -25.46
+       angleY -248.376
+      }
+      {
+       coords -12.045 -0.605 -29.137
+       angleY -248.376
+      }
+     }
+    }
+   }
+  }
+ }
 }
 $grp SplineShapeEntity {
  {
@@ -19831,27 +20127,6 @@ $grp Tree : "{106ED5DD4C2F3E0A}Prefabs/Vegetation/Bushes/b_rosa_canina_0s_fd_fd.
   scale 0.999
  }
  {
-  coords 895.941 0 5884.175
-  angleX 1.822
-  angleY 52.787
-  angleZ 5.342
-  scale 0.977
- }
- {
-  coords 893.13 0 5883.09
-  angleX -5.63
-  angleY 157.572
-  angleZ 0.392
-  scale 0.932
- }
- {
-  coords 893.752 0 5885.753
-  angleX 5.45
-  angleY -33.536
-  angleZ -1.468
-  scale 0.948
- }
- {
   coords 894.374 0 5873.189
   angleX 2.754
   angleY -79.311
@@ -19992,27 +20267,6 @@ $grp Tree : "{106ED5DD4C2F3E0A}Prefabs/Vegetation/Bushes/b_rosa_canina_0s_fd_fd.
   scale 0.839
  }
  {
-  coords 842.726 0 5786.934
-  angleX 5.128
-  angleY -96.328
-  angleZ -2.361
-  scale 0.89
- }
- {
-  coords 851.384 0 5796.567
-  angleX -3.798
-  angleY 134.776
-  angleZ -1.248
-  scale 0.993
- }
- {
-  coords 852.411 0 5797.167
-  angleX -2.876
-  angleY 160.59
-  angleZ -2.777
-  scale 0.859
- }
- {
   coords 852.849 0 5804.911
   angleX 3.743
   angleY -84.023
@@ -20046,20 +20300,6 @@ $grp Tree : "{106ED5DD4C2F3E0A}Prefabs/Vegetation/Bushes/b_rosa_canina_0s_fd_fd.
   angleY 24.069
   angleZ 6.338
   scale 0.85
- }
- {
-  coords 832.704 0 5821.62
-  angleX 7.113
-  angleY -93.297
-  angleZ -0.409
-  scale 0.961
- }
- {
-  coords 831.343 0 5826.041
-  angleX 4.533
-  angleY -34.904
-  angleZ 3.366
-  scale 0.917
  }
  {
   coords 821.262 0 5820.064
@@ -20174,20 +20414,6 @@ $grp Tree : "{106ED5DD4C2F3E0A}Prefabs/Vegetation/Bushes/b_rosa_canina_0s_fd_fd.
   scale 0.872
  }
  {
-  coords 810.818 0 5874.182
-  angleX -2.08
-  angleY 75.119
-  angleZ 6.084
-  scale 0.801
- }
- {
-  coords 816.543 0 5876.922
-  angleX -1.255
-  angleY 84.371
-  angleZ 5.503
-  scale 0.892
- }
- {
   coords 823.56 0 5877.89
   angleX 3.533
   angleY 1.359
@@ -20265,13 +20491,6 @@ $grp Tree : "{106ED5DD4C2F3E0A}Prefabs/Vegetation/Bushes/b_rosa_canina_0s_fd_fd.
   scale 0.928
  }
  {
-  coords 890.46 0 5882.744
-  angleX -5.324
-  angleY 142.123
-  angleZ 1.876
-  scale 0.892
- }
- {
   coords 798.286 0 5894.703
   angleX 1.063
   angleY -138.035
@@ -20319,13 +20538,6 @@ $grp Tree : "{106ED5DD4C2F3E0A}Prefabs/Vegetation/Bushes/b_rosa_canina_0s_fd_fd.
   angleY -45.097
   angleZ -0.009
   scale 0.913
- }
- {
-  coords 841.429 0 5849.237
-  angleX 4.973
-  angleY -55.111
-  angleZ -0.886
-  scale 0.829
  }
  {
   coords 831.374 0 5855.017
@@ -20391,13 +20603,6 @@ $grp Tree : "{106ED5DD4C2F3E0A}Prefabs/Vegetation/Bushes/b_rosa_canina_0s_fd_fd.
   scale 0.927
  }
  {
-  coords 850.518 0 5843.113
-  angleX -4.897
-  angleY 120.771
-  angleZ 1.24
-  scale 0.882
- }
- {
   coords 857.697 0 5842.985
   angleX -4.439
   angleY 106.426
@@ -20452,13 +20657,6 @@ $grp Tree : "{106ED5DD4C2F3E0A}Prefabs/Vegetation/Bushes/b_rosa_canina_0s_fd_fd.
   angleY -156.536
   angleZ -4.462
   scale 0.997
- }
- {
-  coords 840.043 0 5858.033
-  angleX 6.811
-  angleY -70.731
-  angleZ -3.271
-  scale 0.906
  }
  {
   coords 837.971 0 5863.006
@@ -20578,41 +20776,6 @@ $grp Tree : "{106ED5DD4C2F3E0A}Prefabs/Vegetation/Bushes/b_rosa_canina_0s_fd_fd.
   angleY -178.074
   angleZ -5.353
   scale 0.964
- }
- {
-  coords 824.888 0 5819.567
-  angleX 3.666
-  angleY -43.113
-  angleZ 3.907
-  scale 0.95
- }
- {
-  coords 824.176 0 5818.793
-  angleX 5.189
-  angleY -75.632
-  angleZ 1.327
-  scale 0.908
- }
- {
-  coords 831.531 0 5815.985
-  angleX -4.648
-  angleY 154.917
-  angleZ -5.69
-  scale 0.85
- }
- {
-  coords 836.003 0 5815.919
-  angleX -5.134
-  angleY 66.573
-  angleZ 6.086
-  scale 0.828
- }
- {
-  coords 835.76 0 5817.138
-  angleX 2.539
-  angleY -134.938
-  angleZ -7.542
-  scale 0.875
  }
  {
   coords 851.067 0 5813.173
@@ -21236,13 +21399,6 @@ $grp Tree : "{106ED5DD4C2F3E0A}Prefabs/Vegetation/Bushes/b_rosa_canina_0s_fd_fd.
   scale 0.894
  }
  {
-  coords 843.881 0 5795.752
-  angleX 1.389
-  angleY -155.116
-  angleZ -7.21
-  scale 0.869
- }
- {
   coords 824.112 0 5790.425
   angleX -2.855
   angleY 171.268
@@ -21262,13 +21418,6 @@ $grp Tree : "{106ED5DD4C2F3E0A}Prefabs/Vegetation/Bushes/b_rosa_canina_0s_fd_fd.
   angleY 86.499
   angleZ 2.105
   scale 0.856
- }
- {
-  coords 830.563 0 5816.459
-  angleX -3.023
-  angleY 166.133
-  angleZ -4.768
-  scale 0.895
  }
  {
   coords 824.034 0 5808.743
@@ -21376,20 +21525,6 @@ $grp Tree : "{106ED5DD4C2F3E0A}Prefabs/Vegetation/Bushes/b_rosa_canina_0s_fd_fd.
   scale 0.804
  }
  {
-  coords 831.405 0 5817.296
-  angleX -2.516
-  angleY 20.58
-  angleZ 6.668
-  scale 0.921
- }
- {
-  coords 829.428 0 5814.626
-  angleX -3.62
-  angleY 43.441
-  angleZ 6.392
-  scale 0.989
- }
- {
   coords 833.692 0 5810.504
   angleX 8.838
   angleY -91.332
@@ -21404,13 +21539,6 @@ $grp Tree : "{106ED5DD4C2F3E0A}Prefabs/Vegetation/Bushes/b_rosa_canina_0s_fd_fd.
   scale 0.99
  }
  {
-  coords 829.775 0 5817.875
-  angleX -5.11
-  angleY 150.086
-  angleZ -5.279
-  scale 0.937
- }
- {
   coords 833.373 0 5798.358
   angleX 8.294
   angleY -38.226
@@ -21423,13 +21551,6 @@ $grp Tree : "{106ED5DD4C2F3E0A}Prefabs/Vegetation/Bushes/b_rosa_canina_0s_fd_fd.
   angleY -69.701
   angleZ -0.866
   scale 0.935
- }
- {
-  coords 843.58 0 5793.833
-  angleX 2.991
-  angleY -129.648
-  angleZ -4.788
-  scale 0.823
  }
  {
   coords 751.513 0 5763.535
@@ -23457,10 +23578,6 @@ $grp Tree : "{2417E177CE240450}Prefabs/Vegetation/Plant/p_urtica_dioica_0s_fd_fd
   angleZ 1.786
  }
  {
-  coords 850.685 0 5797.729
-  angleZ 5.356
- }
- {
   coords 850.329 0 5811.841
   angleX 3.576
   angleZ 5.345
@@ -23471,17 +23588,8 @@ $grp Tree : "{2417E177CE240450}Prefabs/Vegetation/Plant/p_urtica_dioica_0s_fd_fd
   angleZ 7.111
  }
  {
-  coords 842.745 0 5821.709
-  angleX 3.576
-  angleZ 7.111
- }
- {
   coords 809.3 0 5830.709
   angleZ 1.79
- }
- {
-  coords 790.565 0 5837.876
-  angleZ 3.576
  }
  {
   coords 765.688 0 5852.451
@@ -23510,15 +23618,6 @@ $grp Tree : "{2417E177CE240450}Prefabs/Vegetation/Plant/p_urtica_dioica_0s_fd_fd
   coords 773.185 0 5873.155
   angleX 1.79
   angleZ 1.789
- }
- {
-  coords 804.621 0 5877.325
-  angleX 5.356
-  angleZ 1.782
- }
- {
-  coords 813.334 0 5877.184
-  angleX 5.356
  }
  {
   coords 837.037 0 5887.399
@@ -23579,20 +23678,6 @@ $grp Tree : "{2417E177CE240450}Prefabs/Vegetation/Plant/p_urtica_dioica_0s_fd_fd
   angleY 112.093
   angleZ 4.565
   scale 1.345
- }
- {
-  coords 813.543 -0.48 5868.14
-  angleX -7.128
-  angleY 179.911
-  angleZ -1.765
-  scale 1.321
- }
- {
-  coords 814.292 -0.235 5870.537
-  angleX -7.085
-  angleY 173.91
-  angleZ 0.754
-  scale 1.017
  }
  {
   coords 823.175 -0.202 5873.187
@@ -23700,41 +23785,6 @@ $grp Tree : "{2417E177CE240450}Prefabs/Vegetation/Plant/p_urtica_dioica_0s_fd_fd
   scale 1.297
  }
  {
-  coords 857.032 -0.451 5844.065
-  angleX -5.472
-  angleY 155.451
-  angleZ -3.379
-  scale 1.276
- }
- {
-  coords 853.072 -0.341 5840.745
-  angleX 3.935
-  angleY -83.9
-  angleZ -3.169
-  scale 1.003
- }
- {
-  coords 854.14 -0.378 5840.074
-  angleX 4.99
-  angleY -17.102
-  angleZ 4.059
-  scale 1.082
- }
- {
-  coords 856.937 -0.361 5842.525
-  angleX 3.546
-  angleY 0.323
-  angleZ 5.366
-  scale 1.244
- }
- {
-  coords 855.451 -0.035 5843.901
-  angleX -4.908
-  angleY 121.278
-  angleZ 1.197
-  scale 1.195
- }
- {
   coords 865.311 -0.188 5853.897
   angleX 5.044
   angleY -48.152
@@ -23768,27 +23818,6 @@ $grp Tree : "{2417E177CE240450}Prefabs/Vegetation/Plant/p_urtica_dioica_0s_fd_fd
   angleY 50.72
   angleZ 6.398
   scale 1.271
- }
- {
-  coords 847.223 -0.437 5841.675
-  angleX 3.732
-  angleY -2.566
-  angleZ 3.406
-  scale 1.125
- }
- {
-  coords 846.318 -0.438 5839.715
-  angleX -3.11
-  angleY 165.08
-  angleZ -4.712
-  scale 1.108
- }
- {
-  coords 849.439 -0.375 5846.15
-  angleX 5.044
-  angleY -41.843
-  angleZ 0.278
-  scale 1.053
  }
  {
   coords 863.359 -0.476 5835.763
@@ -23861,20 +23890,6 @@ $grp Tree : "{2417E177CE240450}Prefabs/Vegetation/Plant/p_urtica_dioica_0s_fd_fd
   scale 1.369
  }
  {
-  coords 790.452 -0.086 5839.602
-  angleX 2.149
-  angleY -36.9
-  angleZ 2.859
-  scale 1.394
- }
- {
-  coords 790.578 -0.237 5843.498
-  angleX 2.495
-  angleY -54.591
-  angleZ -0.422
-  scale 1.052
- }
- {
   coords 766.907 -0.164 5870.17
   angleX 2.312
   angleY -20.997
@@ -23896,53 +23911,11 @@ $grp Tree : "{2417E177CE240450}Prefabs/Vegetation/Plant/p_urtica_dioica_0s_fd_fd
   scale 1.071
  }
  {
-  coords 807.085 -0.053 5875.332
-  angleX 4.877
-  angleY 7.082
-  angleZ 4.193
-  scale 1.046
- }
- {
-  coords 807.065 -0.065 5878.183
-  angleX 4.367
-  angleY -75.242
-  angleZ -2.542
-  scale 1.395
- }
- {
-  coords 812.87 -0.356 5880.168
-  angleX 3.617
-  angleY -0.665
-  angleZ 3.528
-  scale 1.017
- }
- {
   coords 820.936 -0.444 5876.326
   angleX 5.662
   angleY -5.317
   angleZ 3.05
   scale 1.039
- }
- {
-  coords 822.433 -0.011 5822.604
-  angleX -3.283
-  angleY 37.722
-  angleZ 4.234
-  scale 1.175
- }
- {
-  coords 828.915 -0.279 5822.534
-  angleX 6.997
-  angleY -100.923
-  angleZ -1.347
-  scale 1.131
- }
- {
-  coords 842.849 -0.322 5820.353
-  angleX -6.966
-  angleY 145.602
-  angleZ -3.852
-  scale 1.333
  }
  {
   coords 843.53 -0.267 5823.708
@@ -23964,20 +23937,6 @@ $grp Tree : "{2417E177CE240450}Prefabs/Vegetation/Plant/p_urtica_dioica_0s_fd_fd
   angleY 17.264
   angleZ 7.851
   scale 1.369
- }
- {
-  coords 816.958 -0.411 5875.655
-  angleX -5.41
-  angleY 144.958
-  angleZ 1.611
-  scale 1.399
- }
- {
-  coords 816.523 -0.011 5873.981
-  angleX -6.59
-  angleY 157.541
-  angleZ 2.716
-  scale 1.15
  }
  {
   coords 820.74 -0.443 5882.304
@@ -24034,27 +23993,6 @@ $grp Tree : "{2417E177CE240450}Prefabs/Vegetation/Plant/p_urtica_dioica_0s_fd_fd
   angleY -74.027
   angleZ -4.156
   scale 1.07
- }
- {
-  coords 886.133 -0.442 5885.897
-  angleX -4.145
-  angleY 118.736
-  angleZ 3.833
-  scale 1.231
- }
- {
-  coords 894.305 -0.034 5878.924
-  angleX 1.697
-  angleY 38.347
-  angleZ 3.62
-  scale 1.301
- }
- {
-  coords 895.998 -0.458 5881.561
-  angleX 3.085
-  angleY 38.514
-  angleZ 4.728
-  scale 1.255
  }
  {
   coords 880.97 -0.142 5877.423
@@ -24273,11 +24211,6 @@ $grp Tree : "{2417E177CE240450}Prefabs/Vegetation/Plant/p_urtica_dioica_0s_fd_fd
   angleZ 5.315
  }
  {
-  coords 833.014 0 5856.498
-  angleX 8.881
-  angleZ 3.534
- }
- {
   coords 822.276 0 5848.002
   angleX 3.576
   angleZ 3.569
@@ -24291,16 +24224,6 @@ $grp Tree : "{2417E177CE240450}Prefabs/Vegetation/Plant/p_urtica_dioica_0s_fd_fd
   coords 828.895 0 5842.394
   angleX 1.79
   angleZ 3.575
- }
- {
-  coords 853.635 0 5841.971
-  angleX 3.576
-  angleZ 3.569
- }
- {
-  coords 854.406 0 5845.896
-  angleX 3.576
-  angleZ 3.569
  }
  {
   coords 839.762 0 5844.002
@@ -24393,11 +24316,6 @@ $grp Tree : "{2417E177CE240450}Prefabs/Vegetation/Plant/p_urtica_dioica_0s_fd_fd
  {
   coords 819.802 0 5818.817
   angleZ 3.576
- }
- {
-  coords 823.388 0 5820.107
-  angleX 1.79
-  angleZ 5.353
  }
  {
   coords 853.354 0 5808.637
@@ -24522,11 +24440,6 @@ $grp Tree : "{2417E177CE240450}Prefabs/Vegetation/Plant/p_urtica_dioica_0s_fd_fd
   angleZ 1.786
  }
  {
-  coords 886.333 0 5889.187
-  angleX 10.62
-  angleZ 1.759
- }
- {
   coords 974.311 0 5844.605
   angleX 1.79
  }
@@ -24596,13 +24509,6 @@ $grp Tree : "{2417E177CE240450}Prefabs/Vegetation/Plant/p_urtica_dioica_0s_fd_fd
   angleY -120.41
   angleZ -4.888
   scale 1.37
- }
- {
-  coords 825.582 -0.479 5815.802
-  angleX 4.733
-  angleY -62.031
-  angleZ 2.509
-  scale 1.071
  }
  {
   coords 822.795 -0.206 5813.164
@@ -24675,20 +24581,6 @@ $grp Tree : "{2417E177CE240450}Prefabs/Vegetation/Plant/p_urtica_dioica_0s_fd_fd
   scale 1.106
  }
  {
-  coords 845.857 -0.42 5788.289
-  angleX 4.28
-  angleY -52.962
-  angleZ 3.223
-  scale 1.11
- }
- {
-  coords 849.966 -0.491 5800.646
-  angleX 3.377
-  angleY -18.227
-  angleZ 4.525
-  scale 1.044
- }
- {
   coords 854.129 -0.343 5807.729
   angleX -3.96
   angleY 96.545
@@ -24701,13 +24593,6 @@ $grp Tree : "{2417E177CE240450}Prefabs/Vegetation/Plant/p_urtica_dioica_0s_fd_fd
   angleY 34.933
   angleZ 6.427
   scale 1.293
- }
- {
-  coords 839.702 -0.053 5793.904
-  angleX -4.813
-  angleY 153.227
-  angleZ -5.551
-  scale 1.192
  }
  {
   coords 749.604 0 5759.925
@@ -24761,6 +24646,80 @@ $grp SCR_DestructibleBuildingEntity : "{24B56DF562489295}Prefabs/Structures/Infr
  {
   coords 817.593 1.279 5378.71
   angleY -140.996
+ }
+}
+$grp GenericEntity : "{254D18180BCD89CE}Prefabs/Structures/Infrastructure/Lamps/Lamp2/LampStreet_E_02_single_fd_fd.et" {
+ {
+  coords 770.362 0.01 5655.557
+  angleY 119.137
+ }
+ {
+  coords 790.603 0.06 5713.567
+  angleY -147.574
+ }
+ {
+  coords 738.531 0.128 5600.497
+  angleY 119.137
+ }
+ {
+  coords 745.854 0.131 5672.292
+  angleY 32.83
+ }
+ {
+  coords 696.122 0.062 5702.963
+  angleY 28.294
+ }
+ {
+  coords 766.49 0.127 5830.448
+  angleY 31.271
+ }
+ {
+  coords 803.031 0.111 5805.06
+  angleY 119.137
+ }
+ {
+  coords 772.143 0.126 5745.633
+  angleY 119.137
+ }
+ {
+  coords 635.788 0 5558.367
+  angleY -148.303
+ }
+ {
+  coords 679.901 0 5525.901
+  angleY -142.464
+ }
+ {
+  coords 738.789 0.129 5834.698
+  angleY -59.771
+ }
+ {
+  coords 715.266 0.128 5794.826
+  angleY -60.012
+ }
+ {
+  coords 693.94 0.157 5756.497
+  angleY -117.959
+ }
+ {
+  coords 669.131 0.121 5713.558
+  angleY -60.012
+ }
+ {
+  coords 617.52 0 5623.437
+  angleY -60.012
+ }
+ {
+  coords 2861.421 0 6003.719
+  angleY -40.886
+ }
+ {
+  coords 2866.854 0.132 5956.343
+  angleY -93.42
+ }
+ {
+  coords 2799.282 0 5965.447
+  angleY -112.092
  }
 }
 GenericEntity : "{29063844DEEAC10C}Prefabs/Props/Garbage/Generic/Junk_01_pile_large_fd_fd.et" {
@@ -25941,13 +25900,6 @@ $grp Tree : "{360B389FD683A65E}Prefabs/Vegetation/Bushes/b_rubus_idaeus_0s_fd_fd
   scale 1.014
  }
  {
-  coords 891.465 0 5880.158
-  angleX 4.913
-  angleY -47.989
-  angleZ -2.78
-  scale 1.28
- }
- {
   coords 878.835 0 5858.966
   angleX -4.73
   angleY 114.422
@@ -26074,13 +26026,6 @@ $grp Tree : "{360B389FD683A65E}Prefabs/Vegetation/Bushes/b_rubus_idaeus_0s_fd_fd
   scale 1.178
  }
  {
-  coords 843.018 0 5789.879
-  angleX -5.385
-  angleY 90.955
-  angleZ 1.693
-  scale 1.052
- }
- {
   coords 854.791 0 5807.137
   angleX 4.061
   angleY -81.558
@@ -26100,27 +26045,6 @@ $grp Tree : "{360B389FD683A65E}Prefabs/Vegetation/Bushes/b_rubus_idaeus_0s_fd_fd
   angleY -118.263
   angleZ -4.837
   scale 1.206
- }
- {
-  coords 833.591 0 5825.728
-  angleX 0.648
-  angleY 11.863
-  angleZ 5.607
-  scale 1.215
- }
- {
-  coords 830.458 0 5820.865
-  angleX -0.047
-  angleY 18.915
-  angleZ 5.644
-  scale 1.066
- }
- {
-  coords 821.969 0 5823.123
-  angleX -3.489
-  angleY 77.273
-  angleZ 0.787
-  scale 1.042
  }
  {
   coords 816.12 0 5828.196
@@ -26235,13 +26159,6 @@ $grp Tree : "{360B389FD683A65E}Prefabs/Vegetation/Bushes/b_rubus_idaeus_0s_fd_fd
   scale 1.174
  }
  {
-  coords 817.213 0 5875.439
-  angleX 4.055
-  angleY 25.726
-  angleZ 3.929
-  scale 1.046
- }
- {
   coords 826.518 0 5882.924
   angleX -2.912
   angleY 110.143
@@ -26339,27 +26256,6 @@ $grp Tree : "{360B389FD683A65E}Prefabs/Vegetation/Bushes/b_rubus_idaeus_0s_fd_fd
   scale 1.263
  }
  {
-  coords 842.284 0 5851.688
-  angleX 1.937
-  angleY 16.224
-  angleZ 6.131
-  scale 1.006
- }
- {
-  coords 839.51 0 5854.41
-  angleX 7.532
-  angleY -49.282
-  angleZ -0.562
-  scale 1.108
- }
- {
-  coords 838.207 0 5849.286
-  angleX -1.211
-  angleY -148.836
-  angleZ -4.904
-  scale 1.075
- }
- {
   coords 838.319 0 5847.223
   angleX -0.807
   angleY 38.2
@@ -26372,13 +26268,6 @@ $grp Tree : "{360B389FD683A65E}Prefabs/Vegetation/Bushes/b_rubus_idaeus_0s_fd_fd
   angleY -107.69
   angleZ -4.487
   scale 1.088
- }
- {
-  coords 835.361 0 5852.949
-  angleX 4.081
-  angleY -84.397
-  angleZ -4.971
-  scale 1.034
  }
  {
   coords 828.324 0 5850.939
@@ -26428,13 +26317,6 @@ $grp Tree : "{360B389FD683A65E}Prefabs/Vegetation/Bushes/b_rubus_idaeus_0s_fd_fd
   angleY 58.929
   angleZ 3.375
   scale 1.011
- }
- {
-  coords 855.318 0 5842.277
-  angleX -0.415
-  angleY 37.379
-  angleZ 6.415
-  scale 1.236
  }
  {
   coords 846.891 0 5846.584
@@ -26498,12 +26380,6 @@ $grp Tree : "{360B389FD683A65E}Prefabs/Vegetation/Bushes/b_rubus_idaeus_0s_fd_fd
   angleY -89.127
   angleZ -7.093
   scale 1.186
- }
- {
-  coords 836.473 0 5850.458
-  angleX -4.019
-  angleY 172.349
-  angleZ -3.062
  }
  {
   coords 835.826 0 5862.897
@@ -26588,20 +26464,6 @@ $grp Tree : "{360B389FD683A65E}Prefabs/Vegetation/Bushes/b_rubus_idaeus_0s_fd_fd
   angleY -48.921
   angleZ -3.168
   scale 1.044
- }
- {
-  coords 827.081 0 5818.602
-  angleX 3.01
-  angleY -13.708
-  angleZ 4.776
-  scale 1.212
- }
- {
-  coords 833.152 0 5816.266
-  angleX -2.129
-  angleY 177.817
-  angleZ -8.802
-  scale 1.107
  }
  {
   coords 854.187 0 5806.029
@@ -27215,13 +27077,6 @@ $grp Tree : "{360B389FD683A65E}Prefabs/Vegetation/Bushes/b_rubus_idaeus_0s_fd_fd
   angleY -85.501
   angleZ -2.981
   scale 1.29
- }
- {
-  coords 833.253 0 5813.375
-  angleX 3.207
-  angleY -9.278
-  angleZ 8.471
-  scale 1.12
  }
  {
   coords 748.482 0 5757.216
@@ -28250,13 +28105,6 @@ $grp Tree : "{410150172221492E}Prefabs/Vegetation/Bushes/b_rubus_idaeus_1s_fd_fd
   scale 1.125
  }
  {
-  coords 841.589 0 5785.341
-  angleX 1.018
-  angleY -151.205
-  angleZ -5.551
-  scale 0.892
- }
- {
   coords 858.976 0 5807.245
   angleX 3.893
   angleY -13.423
@@ -28411,25 +28259,11 @@ $grp Tree : "{410150172221492E}Prefabs/Vegetation/Bushes/b_rubus_idaeus_1s_fd_fd
   scale 0.869
  }
  {
-  coords 840.545 0 5851.011
-  angleX 4.531
-  angleY -71.3
-  angleZ -2.236
-  scale 1.122
- }
- {
   coords 838.098 0 5860.323
   angleX -8.763
   angleY 152.521
   angleZ -1.443
   scale 1.136
- }
- {
-  coords 838.051 0 5856.587
-  angleX -4.187
-  angleY -148.156
-  angleZ -6.771
-  scale 1.191
  }
  {
   coords 790.441 0 5854.993
@@ -28521,13 +28355,6 @@ $grp Tree : "{410150172221492E}Prefabs/Vegetation/Bushes/b_rubus_idaeus_1s_fd_fd
   angleY -92.133
   angleZ -0.133
   scale 1.028
- }
- {
-  coords 834.994 0 5816.719
-  angleX 6.764
-  angleY -52.969
-  angleZ 2.861
-  scale 0.996
  }
  {
   coords 852.22 0 5811.35
@@ -28869,13 +28696,6 @@ $grp Tree : "{410150172221492E}Prefabs/Vegetation/Bushes/b_rubus_idaeus_1s_fd_fd
   scale 1.001
  }
  {
-  coords 886.944 0 5888.518
-  angleX 2.369
-  angleY 57.235
-  angleZ 6.951
-  scale 0.845
- }
- {
   coords 888.615 0 5890.097
   angleX 13.254
   angleY 19.576
@@ -28895,13 +28715,6 @@ $grp Tree : "{410150172221492E}Prefabs/Vegetation/Bushes/b_rubus_idaeus_1s_fd_fd
   angleY -139.597
   angleZ -7.904
   scale 0.831
- }
- {
-  coords 838.345 0 5789.307
-  angleX -7.284
-  angleY 64.641
-  angleZ 5.392
-  scale 1.083
  }
  {
   coords 828.599 0 5783.229
@@ -31134,34 +30947,6 @@ $grp Tree : "{6764BD55B88DD17A}Prefabs/Vegetation/Bushes/b_rosa_canina_1s_fd_fd.
   scale 0.677
  }
  {
-  coords 848.624 0 5791.858
-  angleX -3.223
-  angleY 163.699
-  angleZ -4.635
-  scale 0.674
- }
- {
-  coords 849.748 0 5796.458
-  angleX -2.848
-  angleY 32.051
-  angleZ 4.538
-  scale 0.724
- }
- {
-  coords 844.203 0 5790.456
-  angleX -7.112
-  angleY 86.543
-  angleZ 0.429
-  scale 0.739
- }
- {
-  coords 840.253 0 5788.105
-  angleX -1.365
-  angleY -176.619
-  angleZ -7.215
-  scale 0.605
- }
- {
   coords 847.37 0 5789.135
   angleX -1.287
   angleY -174.704
@@ -31174,13 +30959,6 @@ $grp Tree : "{6764BD55B88DD17A}Prefabs/Vegetation/Bushes/b_rosa_canina_1s_fd_fd.
   angleY 129.428
   angleZ -2.27
   scale 0.66
- }
- {
-  coords 849.961 0 5799.583
-  angleX 0.626
-  angleY -6.689
-  angleZ 5.319
-  scale 0.782
  }
  {
   coords 857.243 0 5816.522
@@ -31218,13 +30996,6 @@ $grp Tree : "{6764BD55B88DD17A}Prefabs/Vegetation/Bushes/b_rosa_canina_1s_fd_fd.
   scale 0.693
  }
  {
-  coords 841.051 0 5824.714
-  angleX -7.148
-  angleY 117.304
-  angleZ -1.681
-  scale 0.673
- }
- {
   coords 823.889 0 5826.078
   angleX 2.122
   angleY -156.722
@@ -31260,25 +31031,11 @@ $grp Tree : "{6764BD55B88DD17A}Prefabs/Vegetation/Bushes/b_rosa_canina_1s_fd_fd.
   scale 0.741
  }
  {
-  coords 796.062 0 5839.783
-  angleX 2.156
-  angleY -13.412
-  angleZ 1.325
-  scale 0.63
- }
- {
   coords 787.976 0 5838.648
   angleX -3.541
   angleY 144.228
   angleZ -1.855
   scale 0.615
- }
- {
-  coords 791.008 0 5836.574
-  angleX 0.085
-  angleY -178.641
-  angleZ -3.575
-  scale 0.794
  }
  {
   coords 779.749 0 5846.393
@@ -31330,34 +31087,6 @@ $grp Tree : "{6764BD55B88DD17A}Prefabs/Vegetation/Bushes/b_rosa_canina_1s_fd_fd.
   scale 0.665
  }
  {
-  coords 806.833 0 5871.223
-  angleX -1.559
-  angleY 70.288
-  angleZ 6.237
-  scale 0.682
- }
- {
-  coords 803.708 0 5875.107
-  angleX 0.943
-  angleY 47.914
-  angleZ 6.359
-  scale 0.624
- }
- {
-  coords 812.415 0 5872.901
-  angleX 2.526
-  angleY 45.046
-  angleZ 5.048
-  scale 0.743
- }
- {
-  coords 814.716 0 5879.138
-  angleX -1.814
-  angleY 90.776
-  angleZ 1.765
-  scale 0.716
- }
- {
   coords 843.412 0 5893.016
   angleX 2.128
   angleY -113.111
@@ -31377,13 +31106,6 @@ $grp Tree : "{6764BD55B88DD17A}Prefabs/Vegetation/Bushes/b_rosa_canina_1s_fd_fd.
   angleY -79.026
   angleZ -4.915
   scale 0.712
- }
- {
-  coords 887.794 0 5882.807
-  angleX 1.213
-  angleY -96.061
-  angleZ -5.512
-  scale 0.694
  }
  {
   coords 814.793 0 5898.713
@@ -31412,34 +31134,6 @@ $grp Tree : "{6764BD55B88DD17A}Prefabs/Vegetation/Bushes/b_rosa_canina_1s_fd_fd.
   angleY -72.452
   angleZ 1.078
   scale 0.631
- }
- {
-  coords 836.233 0 5856.743
-  angleX 7.918
-  angleY -32.174
-  angleZ -0.775
-  scale 0.693
- }
- {
-  coords 841.307 0 5855.759
-  angleX -6.125
-  angleY 164.073
-  angleZ -1.958
-  scale 0.701
- }
- {
-  coords 844.427 0 5852.441
-  angleX -0.101
-  angleY 34.584
-  angleZ 6.428
-  scale 0.755
- }
- {
-  coords 833.504 0 5855.684
-  angleX -7.859
-  angleY 162.439
-  angleZ -1.241
-  scale 0.719
  }
  {
   coords 821.223 0 5855.261
@@ -31498,13 +31192,6 @@ $grp Tree : "{6764BD55B88DD17A}Prefabs/Vegetation/Bushes/b_rosa_canina_1s_fd_fd.
   scale 0.766
  }
  {
-  coords 852.319 0 5844.211
-  angleX -4.794
-  angleY 153.411
-  angleZ -1.593
-  scale 0.672
- }
- {
   coords 864.092 0 5844.782
   angleX -3.107
   angleY 104.882
@@ -31545,13 +31232,6 @@ $grp Tree : "{6764BD55B88DD17A}Prefabs/Vegetation/Bushes/b_rosa_canina_1s_fd_fd.
   angleY 49.243
   angleZ 7.876
   scale 0.73
- }
- {
-  coords 822.528 0 5867.847
-  angleX -0.72
-  angleY -105.833
-  angleZ -9.025
-  scale 0.768
  }
  {
   coords 836.043 0 5875.179
@@ -31608,13 +31288,6 @@ $grp Tree : "{6764BD55B88DD17A}Prefabs/Vegetation/Bushes/b_rosa_canina_1s_fd_fd.
   angleY -121.831
   angleZ -7.922
   scale 0.726
- }
- {
-  coords 819.146 0 5870.865
-  angleX 6.785
-  angleY -36.605
-  angleZ -2.811
-  scale 0.758
  }
  {
   coords 833.999 0 5849.404
@@ -31734,34 +31407,6 @@ $grp Tree : "{6764BD55B88DD17A}Prefabs/Vegetation/Bushes/b_rosa_canina_1s_fd_fd.
   angleY -110.288
   angleZ -5.196
   scale 0.695
- }
- {
-  coords 821.591 0 5821.011
-  angleX 2.447
-  angleY -27.118
-  angleZ 4.766
-  scale 0.698
- }
- {
-  coords 824.765 0 5817.906
-  angleX -5.282
-  angleY 99.531
-  angleZ -0.886
-  scale 0.699
- }
- {
-  coords 831.316 0 5817.015
-  angleX 2.502
-  angleY -159.535
-  angleZ -6.673
-  scale 0.7
- }
- {
-  coords 834.148 0 5817.12
-  angleX 7.018
-  angleY -35.177
-  angleZ 3.757
-  scale 0.74
  }
  {
   coords 853.711 0 5803.194
@@ -32366,13 +32011,6 @@ $grp Tree : "{6764BD55B88DD17A}Prefabs/Vegetation/Bushes/b_rosa_canina_1s_fd_fd.
   scale 0.778
  }
  {
-  coords 891.687 0 5887.934
-  angleX 6.979
-  angleY 4.143
-  angleZ 2.285
-  scale 0.673
- }
- {
   coords 975.266 0 5846.383
   angleX 0.966
   angleY -57.347
@@ -32455,13 +32093,6 @@ $grp Tree : "{6764BD55B88DD17A}Prefabs/Vegetation/Bushes/b_rosa_canina_1s_fd_fd.
   angleY -62.724
   angleZ 1.677
   scale 0.75
- }
- {
-  coords 828.373 0 5822.386
-  angleX 5.275
-  angleY -50.667
-  angleZ 2.01
-  scale 0.704
  }
  {
   coords 838.176 0 5808.465
@@ -34943,13 +34574,6 @@ $grp Tree : "{80C2B17EB509D6D0}Prefabs/Vegetation/Plant/p_echium_vulgare_0s_fd_f
   scale 0.854
  }
  {
-  coords 804 0 5866.425
-  angleX -9.436
-  angleY 149.147
-  angleZ 1.496
-  scale 0.921
- }
- {
   coords 797.11 0 5865.54
   angleX 2.163
   angleY -112.882
@@ -35018,13 +34642,6 @@ $grp Tree : "{80C2B17EB509D6D0}Prefabs/Vegetation/Plant/p_echium_vulgare_0s_fd_f
   angleY 46.298
   angleZ 6.33
   scale 1.039
- }
- {
-  coords 820.644 0 5871.415
-  angleX 0.867
-  angleY -97.293
-  angleZ -7.291
-  scale 1.027
  }
  {
   coords 829.883 0 5872.346
@@ -35223,25 +34840,11 @@ $grp Tree : "{80C2B17EB509D6D0}Prefabs/Vegetation/Plant/p_echium_vulgare_0s_fd_f
   scale 1.158
  }
  {
-  coords 857.326 0 5840.88
-  angleX -1.204
-  angleY -148.759
-  angleZ -4.906
-  scale 1.125
- }
- {
   coords 859.353 0 5833.756
   angleX 1.876
   angleY 16.793
   angleZ 6.15
   scale 0.86
- }
- {
-  coords 855.893 0 5837.443
-  angleX -6.098
-  angleY 164.824
-  angleZ -2.037
-  scale 1.073
  }
  {
   coords 862.765 0 5844.177
@@ -35251,39 +34854,11 @@ $grp Tree : "{80C2B17EB509D6D0}Prefabs/Vegetation/Plant/p_echium_vulgare_0s_fd_f
   scale 1.128
  }
  {
-  coords 853.781 0 5843.508
-  angleX 1.503
-  angleY 27.732
-  angleZ 4.823
-  scale 0.811
- }
- {
-  coords 850.726 0 5836.854
-  angleX 6.34
-  angleY -46.763
-  angleZ 1.064
-  scale 0.892
- }
- {
-  coords 848.456 0 5832.386
-  angleX -4.263
-  angleY 75.104
-  angleZ 4.817
-  scale 0.86
- }
- {
   coords 844.671 0 5832.056
   angleX 6.374
   angleY -63.788
   angleZ -0.835
   scale 0.982
- }
- {
-  coords 850.166 0 5843.009
-  angleX -5.023
-  angleY 128.898
-  angleZ 0.536
-  scale 0.829
  }
  {
   coords 857.638 0 5850.694
@@ -35312,13 +34887,6 @@ $grp Tree : "{80C2B17EB509D6D0}Prefabs/Vegetation/Plant/p_echium_vulgare_0s_fd_f
   angleY -153.139
   angleZ -5.595
   scale 1.039
- }
- {
-  coords 857.306 0 5838.149
-  angleX 5.707
-  angleY -6.177
-  angleZ 2.965
-  scale 1.041
  }
  {
   coords 857.058 0 5831.362
@@ -35551,13 +35119,6 @@ $grp Tree : "{80C2B17EB509D6D0}Prefabs/Vegetation/Plant/p_echium_vulgare_0s_fd_f
   scale 0.803
  }
  {
-  coords 799.114 0 5841.076
-  angleX 1.605
-  angleY -153.358
-  angleZ -3.196
-  scale 0.815
- }
- {
   coords 803.631 0 5842.337
   angleX 1.907
   angleY -1.893
@@ -35649,20 +35210,6 @@ $grp Tree : "{80C2B17EB509D6D0}Prefabs/Vegetation/Plant/p_echium_vulgare_0s_fd_f
   scale 1.098
  }
  {
-  coords 814.869 0 5877.765
-  angleX -3.536
-  angleY -178.724
-  angleZ -1.866
-  scale 0.852
- }
- {
-  coords 810.707 0 5878.303
-  angleX -4.922
-  angleY 121.973
-  angleZ 1.137
-  scale 1.148
- }
- {
   coords 828.075 0 5878.138
   angleX 5.05
   angleY -46.111
@@ -35691,46 +35238,11 @@ $grp Tree : "{80C2B17EB509D6D0}Prefabs/Vegetation/Plant/p_echium_vulgare_0s_fd_f
   scale 1.178
  }
  {
-  coords 827.471 0 5825.796
-  angleX 2.742
-  angleY -30.724
-  angleZ 4.602
-  scale 1.157
- }
- {
-  coords 833.551 0 5818.744
-  angleX -4.518
-  angleY 156.21
-  angleZ -5.793
-  scale 1.032
- }
- {
-  coords 831.868 0 5824.309
-  angleX 6.992
-  angleY -78.85
-  angleZ 1.374
-  scale 1.156
- }
- {
   coords 840.841 0 5816.905
   angleX -7.27
   angleY 140.663
   angleZ -3.24
   scale 0.838
- }
- {
-  coords 840.769 0 5822.41
-  angleX 4.781
-  angleY -116.677
-  angleZ -6.367
-  scale 1.071
- }
- {
-  coords 841.404 0 5824.231
-  angleX 6.933
-  angleY -95.265
-  angleZ -2.421
-  scale 1.185
  }
  {
   coords 845.993 0 5816.669
@@ -35766,13 +35278,6 @@ $grp Tree : "{80C2B17EB509D6D0}Prefabs/Vegetation/Plant/p_echium_vulgare_0s_fd_f
   angleY -52.817
   angleZ -0.686
   scale 0.958
- }
- {
-  coords 809.337 0 5874.336
-  angleX 5.148
-  angleY 3.22
-  angleZ 3.856
-  scale 0.862
  }
  {
   coords 823.307 0 5880.768
@@ -35922,20 +35427,6 @@ $grp Tree : "{80C2B17EB509D6D0}Prefabs/Vegetation/Plant/p_echium_vulgare_0s_fd_f
   scale 1.054
  }
  {
-  coords 882.828 0 5887.147
-  angleX -6.019
-  angleY 166.944
-  angleZ -2.261
-  scale 0.882
- }
- {
-  coords 894.827 0 5885.684
-  angleX -5.325
-  angleY 142.157
-  angleZ 1.873
-  scale 1.068
- }
- {
   coords 899.208 0 5884.915
   angleX -7.33
   angleY 169.304
@@ -35962,20 +35453,6 @@ $grp Tree : "{80C2B17EB509D6D0}Prefabs/Vegetation/Plant/p_echium_vulgare_0s_fd_f
   angleY 53.52
   angleZ 5.365
   scale 0.992
- }
- {
-  coords 889.559 0 5881.185
-  angleX 2.594
-  angleY -99.977
-  angleZ -5.884
-  scale 0.993
- }
- {
-  coords 886.519 0 5883.036
-  angleX -7.34
-  angleY 164.519
-  angleZ 0.185
-  scale 0.977
  }
  {
   coords 883.319 0 5883.537
@@ -36018,20 +35495,6 @@ $grp Tree : "{80C2B17EB509D6D0}Prefabs/Vegetation/Plant/p_echium_vulgare_0s_fd_f
   angleY -87.129
   angleZ -5.16
   scale 1.019
- }
- {
-  coords 884.479 0 5875.933
-  angleX -4.352
-  angleY 121.935
-  angleZ 3.596
-  scale 0.804
- }
- {
-  coords 880.007 0 5874.47
-  angleX 5.016
-  angleY -38.237
-  angleZ 0.594
-  scale 0.823
  }
  {
   coords 880.58 0 5870.599
@@ -36412,13 +35875,6 @@ $grp Tree : "{80C2B17EB509D6D0}Prefabs/Vegetation/Plant/p_echium_vulgare_0s_fd_f
   scale 0.865
  }
  {
-  coords 828.859 0 5812.095
-  angleX -3.694
-  angleY 31.099
-  angleZ 6.097
-  scale 1.072
- }
- {
   coords 821.929 0 5812.015
   angleX -5.297
   angleY 98.549
@@ -36445,20 +35901,6 @@ $grp Tree : "{80C2B17EB509D6D0}Prefabs/Vegetation/Plant/p_echium_vulgare_0s_fd_f
   angleY 118.294
   angleZ -2.536
   scale 1.035
- }
- {
-  coords 823.218 0 5818.253
-  angleX 5.204
-  angleY -76.272
-  angleZ 1.269
-  scale 0.892
- }
- {
-  coords 827.069 0 5813.997
-  angleX 7.232
-  angleY -85.948
-  angleZ -1.27
-  scale 1.004
  }
  {
   coords 821.264 0 5792.584
@@ -36552,39 +35994,11 @@ $grp Tree : "{80C2B17EB509D6D0}Prefabs/Vegetation/Plant/p_echium_vulgare_0s_fd_f
   scale 1.04
  }
  {
-  coords 848.863 0 5799.791
-  angleX 5.035
-  angleY -135.188
-  angleZ -5.048
-  scale 1.104
- }
- {
-  coords 847.03 0 5796.929
-  angleX 2.928
-  angleY -12.732
-  angleZ 4.827
-  scale 0.861
- }
- {
   coords 849.577 0 5786.157
   angleX 1.09
   angleY -137.629
   angleZ -3.846
   scale 0.907
- }
- {
-  coords 845.027 0 5789.647
-  angleX -1.72
-  angleY 36.13
-  angleZ 5.376
-  scale 0.942
- }
- {
-  coords 848.602 0 5796.849
-  angleX 4.253
-  angleY -127.517
-  angleZ -3.259
-  scale 1.032
  }
  {
   coords 852.175 0 5809.294
@@ -36606,27 +36020,6 @@ $grp Tree : "{80C2B17EB509D6D0}Prefabs/Vegetation/Plant/p_echium_vulgare_0s_fd_f
   angleY 101.003
   angleZ 2.128
   scale 0.809
- }
- {
-  coords 847.75 0 5799.976
-  angleX 5.485
-  angleY -57.892
-  angleZ 1.332
-  scale 1.169
- }
- {
-  coords 844.004 0 5796.906
-  angleX 1.492
-  angleY 2.372
-  angleZ 7.19
-  scale 1.018
- }
- {
-  coords 843.943 0 5790.662
-  angleX 6.096
-  angleY -58.686
-  angleZ 3.696
-  scale 1.126
  }
  {
   coords 841.596 0 5780.159
@@ -39689,6 +39082,15 @@ $grp StaticModelEntity : "{987B35F6140166E9}Prefabs/Structures/Infrastructure/Pa
   angleZ -0.975
   scale 1.1
  }
+ {
+  coords 878.702 0 5486.663
+  angleY -59.819
+ }
+ {
+  coords 851.57 0.021 5430.348
+  angleY -65.278
+  scale 1.2
+ }
 }
 $grp SCR_DestructibleBuildingEntity : "{9AC6D381105F7FB5}Prefabs/Structures/Houses/Village/HouseAddon/HouseAddon_Workshop_E_01_fd_fd.et" {
  {
@@ -39924,6 +39326,26 @@ $grp SCR_DestructibleEntity : "{A533A4F9A7020219}PrefabLibrary/Walls/Net/NetFenc
 SCR_DestructibleEntity : "{A5E996F6771F7970}Prefabs/Structures/Walls/Pipe/Railing_01/PipeRailing_01_Pole_fd_fd.et" {
  coords 801.315 0.129 5778.771
  angleY 27.144
+}
+$grp GenericEntity : "{A9FC9D2A3C13C954}Prefabs/Structures/Infrastructure/Lamps/Lamp1/LampStreet_E_01_6m_fd_fd.et" {
+ {
+  coords 794.692 0.181 5507.045
+ }
+ {
+  coords 715.808 0.07 5604.152
+ }
+ {
+  coords 681.273 0 5631.613
+ }
+ {
+  coords 649.263 0 5611.863
+ }
+ {
+  coords 651.815 0 5587.687
+ }
+ {
+  coords 813.5 0 5451.871
+ }
 }
 $grp Tree : "{ADCADFD775B7857F}Prefabs/Vegetation/Plant/p_arctium_lappa_0s_fd_fd.et" {
  {
@@ -42160,20 +41582,6 @@ $grp Tree : "{ADCADFD775B7857F}Prefabs/Vegetation/Plant/p_arctium_lappa_0s_fd_fd
   scale 0.799
  }
  {
-  coords 814.953 0 5868.092
-  angleX -2.835
-  angleY -113.336
-  angleZ -6.54
-  scale 0.725
- }
- {
-  coords 811.037 0 5865.909
-  angleX 1.585
-  angleY 63.563
-  angleZ 7.17
-  scale 0.733
- }
- {
   coords 808.03 0 5864.002
   angleX 8.858
   angleY -40.993
@@ -42209,32 +41617,11 @@ $grp Tree : "{ADCADFD775B7857F}Prefabs/Vegetation/Plant/p_arctium_lappa_0s_fd_fd
   scale 0.707
  }
  {
-  coords 807.902 0 5868.336
-  angleX 8.899
-  angleY -43.3
-  angleZ -3.487
-  scale 0.647
- }
- {
-  coords 811.769 0 5868.825
-  angleX 6.299
-  angleY 17.011
-  angleZ 3.779
-  scale 0.754
- }
- {
   coords 817.188 0 5865.626
   angleX 8.698
   angleY -27.56
   angleZ -2.524
   scale 0.665
- }
- {
-  coords 819.098 0 5867.441
-  angleX -0.147
-  angleY -117.62
-  angleZ -7.954
-  scale 0.64
  }
  {
   coords 829.496 0 5870.693
@@ -42482,13 +41869,6 @@ $grp Tree : "{ADCADFD775B7857F}Prefabs/Vegetation/Plant/p_arctium_lappa_0s_fd_fd
   scale 0.702
  }
  {
-  coords 854.918 0 5835.408
-  angleX 2.465
-  angleY -123.846
-  angleZ -5.939
-  scale 0.72
- }
- {
   coords 860.228 0 5850.024
   angleX 5.961
   angleY -55.769
@@ -42545,39 +41925,11 @@ $grp Tree : "{ADCADFD775B7857F}Prefabs/Vegetation/Plant/p_arctium_lappa_0s_fd_fd
   scale 0.722
  }
  {
-  coords 850.924 0 5842.693
-  angleX 4.801
-  angleY -63.158
-  angleZ -1.572
-  scale 0.749
- }
- {
-  coords 848.507 0 5834.779
-  angleX 1.088
-  angleY -136.61
-  angleZ -6.336
-  scale 0.754
- }
- {
   coords 844.583 0 5829.897
   angleX 6.349
   angleY -47.249
   angleZ 1.01
   scale 0.757
- }
- {
-  coords 850.68 0 5840.556
-  angleX -0.343
-  angleY -138.885
-  angleZ -5.04
-  scale 0.728
- }
- {
-  coords 852.206 0 5845.98
-  angleX 0.618
-  angleY 37.99
-  angleZ 5.013
-  scale 0.728
  }
  {
   coords 859.528 0 5850.798
@@ -42769,20 +42121,6 @@ $grp Tree : "{ADCADFD775B7857F}Prefabs/Vegetation/Plant/p_arctium_lappa_0s_fd_fd
   scale 0.75
  }
  {
-  coords 791.617 0 5836.875
-  angleX 2.99
-  angleY -123.294
-  angleZ -1.962
-  scale 0.748
- }
- {
-  coords 793.44 0 5838.047
-  angleX 0.196
-  angleY -176.864
-  angleZ -3.571
-  scale 0.636
- }
- {
   coords 791.021 0 5832.395
   angleX -0.386
   angleY 173.816
@@ -42830,13 +42168,6 @@ $grp Tree : "{ADCADFD775B7857F}Prefabs/Vegetation/Plant/p_arctium_lappa_0s_fd_fd
   angleY 177.643
   angleZ -3.573
   scale 0.757
- }
- {
-  coords 798.551 0 5838.999
-  angleX 1.811
-  angleY -30.39
-  angleZ 3.084
-  scale 0.639
  }
  {
   coords 790.459 0 5847.859
@@ -42923,13 +42254,6 @@ $grp Tree : "{ADCADFD775B7857F}Prefabs/Vegetation/Plant/p_arctium_lappa_0s_fd_fd
   scale 0.622
  }
  {
-  coords 807.851 0 5873.048
-  angleX 0.777
-  angleY 49.399
-  angleZ 6.382
-  scale 0.782
- }
- {
   coords 819.754 0 5881.648
   angleX -2.972
   angleY -146.164
@@ -42951,13 +42275,6 @@ $grp Tree : "{ADCADFD775B7857F}Prefabs/Vegetation/Plant/p_arctium_lappa_0s_fd_fd
   scale 0.643
  }
  {
-  coords 825.043 0 5823.231
-  angleX -1.771
-  angleY -179.803
-  angleZ -5.359
-  scale 0.641
- }
- {
   coords 825.911 0 5826.196
   angleX -5.327
   angleY 84.039
@@ -42977,76 +42294,6 @@ $grp Tree : "{ADCADFD775B7857F}Prefabs/Vegetation/Plant/p_arctium_lappa_0s_fd_fd
   angleY 157.238
   angleZ -2.604
   scale 0.73
- }
- {
-  coords 828.533 0 5826.475
-  angleX -0.755
-  angleY -169.225
-  angleZ -5.593
-  scale 0.644
- }
- {
-  coords 828.049 0 5817.38
-  angleX 2.028
-  angleY -140.57
-  angleZ -5.268
-  scale 0.659
- }
- {
-  coords 826.985 0 5824.967
-  angleX 2.527
-  angleY -151.912
-  angleZ -4.724
-  scale 0.771
- }
- {
-  coords 835.836 0 5815.718
-  angleX -3.022
-  angleY -175.633
-  angleZ -7.363
-  scale 0.787
- }
- {
-  coords 833.3 0 5817.502
-  angleX -2.961
-  angleY 172.37
-  angleZ -8.56
-  scale 0.689
- }
- {
-  coords 837.753 0 5819.458
-  angleX -7.769
-  angleY 104.04
-  angleZ 1.72
-  scale 0.706
- }
- {
-  coords 838.926 0 5821.577
-  angleX -4.773
-  angleY 63.251
-  angleZ 6.373
-  scale 0.688
- }
- {
-  coords 839.126 0 5827.043
-  angleX -2.795
-  angleY -171.984
-  angleZ -5.792
-  scale 0.789
- }
- {
-  coords 836.811 0 5820.527
-  angleX -4.461
-  angleY 51.304
-  angleZ 5.837
-  scale 0.628
- }
- {
-  coords 837.556 0 5820.982
-  angleX -5.641
-  angleY 143.986
-  angleZ -4.707
-  scale 0.696
  }
  {
   coords 848.687 0 5820.199
@@ -43110,27 +42357,6 @@ $grp Tree : "{ADCADFD775B7857F}Prefabs/Vegetation/Plant/p_arctium_lappa_0s_fd_fd
   angleY -159.919
   angleZ -6.846
   scale 0.751
- }
- {
-  coords 809.702 0 5877.49
-  angleX 2.175
-  angleY -109.554
-  angleZ -4.56
-  scale 0.677
- }
- {
-  coords 810.906 0 5878.681
-  angleX 4.045
-  angleY -8.14
-  angleZ 3.027
-  scale 0.75
- }
- {
-  coords 815.188 0 5877.529
-  angleX 2.615
-  angleY -43.052
-  angleZ -2.441
-  scale 0.721
  }
  {
   coords 823.557 0 5883.03
@@ -43252,27 +42478,6 @@ $grp Tree : "{ADCADFD775B7857F}Prefabs/Vegetation/Plant/p_arctium_lappa_0s_fd_fd
   scale 0.767
  }
  {
-  coords 891.704 0 5887.778
-  angleX 4.849
-  angleY -62.853
-  angleZ -5.519
-  scale 0.714
- }
- {
-  coords 892.272 0 5885.341
-  angleX 7.332
-  angleY -11.034
-  angleZ 0.383
-  scale 0.709
- }
- {
-  coords 892.803 0 5882.453
-  angleX 5.029
-  angleY -45.5
-  angleZ -2.565
-  scale 0.656
- }
- {
   coords 898.323 0 5885.982
   angleX 4.305
   angleY -61.197
@@ -43301,25 +42506,11 @@ $grp Tree : "{ADCADFD775B7857F}Prefabs/Vegetation/Plant/p_arctium_lappa_0s_fd_fd
   scale 0.685
  }
  {
-  coords 899.484 0 5880.709
-  angleX 5.638
-  angleY -15.743
-  angleZ 0.265
-  scale 0.668
- }
- {
   coords 899.421 0 5873.99
   angleX -1.062
   angleY -131.953
   angleZ -3.854
   scale 0.781
- }
- {
-  coords 887.689 0 5878.748
-  angleX -5.296
-  angleY -178.158
-  angleZ -1.953
-  scale 0.686
  }
  {
   coords 876.609 0 5884.859
@@ -43369,13 +42560,6 @@ $grp Tree : "{ADCADFD775B7857F}Prefabs/Vegetation/Plant/p_arctium_lappa_0s_fd_fd
   angleY 53.553
   angleZ 5.366
   scale 0.694
- }
- {
-  coords 882.305 0 5874.273
-  angleX 5.57
-  angleY -9.153
-  angleZ 0.909
-  scale 0.8
  }
  {
   coords 898.681 0 5866.304
@@ -43803,13 +42987,6 @@ $grp Tree : "{ADCADFD775B7857F}Prefabs/Vegetation/Plant/p_arctium_lappa_0s_fd_fd
   scale 0.622
  }
  {
-  coords 825.479 0 5813.159
-  angleX 4.8
-  angleY -42.204
-  angleZ 5.272
-  scale 0.788
- }
- {
   coords 823.644 0 5802.671
   angleX 3.561
   angleY -29.862
@@ -43822,13 +42999,6 @@ $grp Tree : "{ADCADFD775B7857F}Prefabs/Vegetation/Plant/p_arctium_lappa_0s_fd_fd
   angleY 145.402
   angleZ -5.86
   scale 0.763
- }
- {
-  coords 823.987 0 5814.405
-  angleX 1.563
-  angleY -167.394
-  angleZ -6.952
-  scale 0.732
  }
  {
   coords 820.518 0 5800.914
@@ -43999,39 +43169,11 @@ $grp Tree : "{ADCADFD775B7857F}Prefabs/Vegetation/Plant/p_arctium_lappa_0s_fd_fd
   scale 0.706
  }
  {
-  coords 851.036 0 5794.964
-  angleX 1.977
-  angleY -3.034
-  angleZ 3.475
-  scale 0.76
- }
- {
   coords 850.635 0 5781.929
   angleX 4.09
   angleY -130.299
   angleZ -3.461
   scale 0.611
- }
- {
-  coords 846.701 0 5789.406
-  angleX 3.914
-  angleY -25.384
-  angleZ 4.069
-  scale 0.601
- }
- {
-  coords 845.406 0 5791.089
-  angleX -0.057
-  angleY 179.543
-  angleZ -7.125
-  scale 0.795
- }
- {
-  coords 849.839 0 5791.308
-  angleX -1.826
-  angleY 160.117
-  angleZ -5.036
-  scale 0.728
  }
  {
   coords 845.181 0 5799.079
@@ -44081,13 +43223,6 @@ $grp Tree : "{ADCADFD775B7857F}Prefabs/Vegetation/Plant/p_arctium_lappa_0s_fd_fd
   angleY 85.548
   angleZ 2.323
   scale 0.664
- }
- {
-  coords 842.892 0 5787.198
-  angleX 7.125
-  angleY -89.875
-  angleZ 0.015
-  scale 0.693
  }
  {
   coords 844.451 0 5783.463
@@ -44211,6 +43346,12 @@ SCR_DestructibleBuildingEntity : "{B53850CE1C696555}Prefabs/Structures/Services/
 SCR_DestructibleBuildingEntity : "{C25857B8323C8D1C}Prefabs/Structures/Cultural/Fountains/Fountain_01_water_SUFFIX.et" {
  coords 795.1 1.22 5744.407
  angleY 27.988
+}
+StaticModelEntity : "{C8987A7787B4C3F3}PrefabLibrary/Infrastructure/Pavements/Asphalt/AsphaltPavement_01_Wide_4m_A.et" {
+ coords 808.729 -0.18 5531.467
+ angleY 120.885
+ angleZ -0.465
+ placement none
 }
 $grp GenericEntity : "{CAF8666F26CEB7AD}Prefabs/Structures/BuildingParts/Entry/ConcreteStairs_02_Narrow.et" {
  {
@@ -44568,13 +43709,6 @@ $grp Tree : "{E3F3D096B9284C3F}Prefabs/Vegetation/Bushes/b_corylus_avellana_1_fd
   angleX 2.58
   angleY -134.438
   angleZ -5.021
-  scale 0.8
- }
- {
-  coords 837.638 0 5823.646
-  angleX 3.093
-  angleY 5.034
-  angleZ 5.638
   scale 0.8
  }
  {
