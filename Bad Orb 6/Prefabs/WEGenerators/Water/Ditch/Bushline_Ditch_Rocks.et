@@ -10,7 +10,7 @@ PrefabGeneratorEntity {
  m_Weights {
   1 1 1
  }
- m_fDistance 4
+ m_fDistance 6.5
  m_bAlignWithShape 0
  m_fOffsetVariance 1
  m_fGap 2

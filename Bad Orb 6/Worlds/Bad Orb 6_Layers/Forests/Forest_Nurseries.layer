@@ -206646,35 +206646,35 @@ $grp PolylineShapeEntity {
        scale 0.946
       }
       {
-       coords 7.772 11.981 -58.207
+       coords 7.772 11.981 -58.208
        angleX 19.485
        angleY -37.465
        angleZ 139.998
        scale 0.55
       }
       {
-       coords 5.8 11.965 -59.992
+       coords 5.801 11.965 -59.992
        angleX -10.349
        angleY 96.743
        angleZ -20.743
        scale 0.688
       }
       {
-       coords 9.687 12.377 -59.026
+       coords 9.687 12.377 -59.027
        angleX 72.721
        angleY -154.786
        angleZ -21.303
        scale 1.042
       }
       {
-       coords 7.027 8.925 -43.202
+       coords 7.027 8.925 -43.203
        angleX -29.159
        angleY 41.7
        angleZ 75.281
        scale 0.917
       }
       {
-       coords -20.967 5.964 -46.406
+       coords -20.967 5.928 -46.407
        angleX -2.076
        angleY -42.491
        angleZ 95.968
@@ -206695,14 +206695,14 @@ $grp PolylineShapeEntity {
        scale 0.969
       }
       {
-       coords -20.055 6.749 -50.162
+       coords -20.055 6.67 -50.162
        angleX 23.605
        angleY -66.612
        angleZ -19.803
        scale 1.013
       }
       {
-       coords -27.219 -1.224 -13.202
+       coords -27.218 -1.224 -13.202
        angleX -73.852
        angleY 78.077
        angleZ 155.143
@@ -206710,7 +206710,7 @@ $grp PolylineShapeEntity {
       }
      }
      Tree : "{425761285F36BF16}PrefabLibrary/Vegetation/Trees/t_betula_pendula_1s.et" {
-      coords 5.308 8.901 -44.059
+      coords 5.309 8.901 -44.059
       angleX 2.151
       angleY -19.523
       angleZ 2.903
@@ -206718,28 +206718,28 @@ $grp PolylineShapeEntity {
      }
      $grp Tree : "{4A162F808614FA14}Prefabs/Vegetation/Tree/t_picea_abies/t_picea_abies_stump_02.et" {
       {
-       coords -2.444 12.943 -81.771
+       coords -2.443 12.943 -81.771
        angleX 1.549
        angleY -44.869
        angleZ 0.808
        scale 0.938
       }
       {
-       coords -3.626 4.742 -28.294
+       coords -3.626 4.742 -28.295
        angleX 3.464
        angleY 121.216
        angleZ 4.469
        scale 0.959
       }
       {
-       coords -18.423 8.08 -57.245
+       coords -18.423 7.704 -57.245
        angleX 2.968
        angleY -40.123
        angleZ -5.215
        scale 0.79
       }
       {
-       coords -32.756 -0.736 -19.317
+       coords -32.756 -0.738 -19.318
        angleX 0.295
        angleY -108.911
        angleZ 1.76
@@ -206753,7 +206753,7 @@ $grp PolylineShapeEntity {
        scale 1.085
       }
       {
-       coords 11.598 13.746 -123.216
+       coords 11.598 13.523 -123.217
        angleX -0.971
        angleY -117.524
        angleZ 5.67
@@ -206767,7 +206767,7 @@ $grp PolylineShapeEntity {
        scale 0.97
       }
       {
-       coords 26.227 16.925 -99.801
+       coords 26.228 16.925 -99.801
        angleX 0.929
        angleY -92.585
        angleZ 5.669
@@ -206788,7 +206788,7 @@ $grp PolylineShapeEntity {
        scale 1.19
       }
       {
-       coords 56.313 21.41 -110.762
+       coords 56.314 21.41 -110.762
        angleX -5.963
        angleY 15.744
        angleZ 4.985
@@ -206804,28 +206804,28 @@ $grp PolylineShapeEntity {
      }
      $grp Tree : "{60C460D3DF44A186}Prefabs/Vegetation/Tree/t_picea_abies_2s_fd_fd.et" {
       {
-       coords -6.843 11.411 -70.142
+       coords -6.842 11.411 -70.142
        angleX -1.358
        angleY 68.546
        angleZ -1.19
        scale 1.472
       }
       {
-       coords 4.809 13.75 -101.772
+       coords 4.81 13.75 -101.773
        angleX 1.144
        angleY 35.718
        angleZ -1.981
        scale 1.349
       }
       {
-       coords -2.328 13.156 -90.437
+       coords -2.327 12.892 -90.437
        angleX -1.046
        angleY 19.424
        angleZ -0.313
        scale 1.434
       }
       {
-       coords 5.859 14.209 -83.642
+       coords 5.859 14.21 -83.642
        angleX 0.091
        angleY -59.064
        angleZ -0.715
@@ -206839,14 +206839,14 @@ $grp PolylineShapeEntity {
        scale 1.436
       }
       {
-       coords -18.788 3.846 -32.956
+       coords -18.788 3.846 -32.957
        angleX 1.88
        angleY 48.264
        angleZ 1.757
        scale 1.308
       }
       {
-       coords 5.967 7.809 -38.642
+       coords 5.968 7.809 -38.642
        angleX -0.896
        angleY 152.22
        angleZ -0.828
@@ -206860,14 +206860,14 @@ $grp PolylineShapeEntity {
        scale 1.492
       }
       {
-       coords -1.971 3.065 -17.448
+       coords -1.97 3.065 -17.449
        angleX 1.667
        angleY -34.817
        angleZ 0.005
        scale 1.337
       }
       {
-       coords -8.062 5.128 -32.924
+       coords -8.062 5.128 -32.925
        angleX 1.686
        angleY 50.044
        angleZ 0.558
@@ -206888,7 +206888,7 @@ $grp PolylineShapeEntity {
        scale 1.212
       }
       {
-       coords -22.586 6.196 -49.342
+       coords -22.585 6.018 -49.342
        angleX -0.682
        angleY -112.009
        angleZ -1.449
@@ -206909,7 +206909,7 @@ $grp PolylineShapeEntity {
        scale 1.13
       }
       {
-       coords -29.358 -4.099 -0.904
+       coords -29.357 -4.099 -0.905
        angleX -0.667
        angleY 90.97
        angleZ 1.998
@@ -206930,14 +206930,14 @@ $grp PolylineShapeEntity {
        scale 1.352
       }
       {
-       coords 19.88 14.999 -117.924
+       coords 19.881 14.999 -117.925
        angleX -0.655
        angleY -76.313
        angleZ -1.275
        scale 1.358
       }
       {
-       coords 44.42 16.694 -144.399
+       coords 44.421 16.694 -144.399
        angleX 1.48
        angleY -127.896
        angleZ 0.879
@@ -206958,28 +206958,28 @@ $grp PolylineShapeEntity {
        scale 1.186
       }
       {
-       coords 32.585 16.181 -125.61
+       coords 32.586 16.181 -125.611
        angleX -1.205
        angleY 174.512
        angleZ -1.929
        scale 1.462
       }
       {
-       coords 24.634 14.298 -140.145
+       coords 24.634 14.299 -140.145
        angleX 1.446
        angleY 123.6
        angleZ 0.6
        scale 1.203
       }
       {
-       coords 9.67 13.568 -122.131
+       coords 9.671 13.238 -122.132
        angleX 1.829
        angleY -145.31
        angleZ 1.083
        scale 1.469
       }
       {
-       coords 43.601 16.032 -153.944
+       coords 43.602 16.032 -153.944
        angleX 0.479
        angleY 175.534
        angleZ -1.421
@@ -207014,14 +207014,14 @@ $grp PolylineShapeEntity {
        scale 1.478
       }
       {
-       coords 40.163 18.549 -111.163
+       coords 40.164 18.549 -111.164
        angleX -0.292
        angleY 56.669
        angleZ 1.786
        scale 1.373
       }
       {
-       coords 31.836 16.458 -66.093
+       coords 31.836 16.458 -66.094
        angleX 0.001
        angleY 3.878
        angleZ -0.681
@@ -207035,49 +207035,49 @@ $grp PolylineShapeEntity {
        scale 1.196
       }
       {
-       coords 55.122 21.195 -102.042
+       coords 55.122 21.195 -102.043
        angleX -0.555
        angleY -122.699
        angleZ 1.095
        scale 1.377
       }
       {
-       coords 42.647 19.389 -93.129
+       coords 42.648 19.389 -93.13
        angleX 1.525
        angleY -99.737
        angleZ 0.493
        scale 1.281
       }
       {
-       coords 16.792 14.316 -65.359
+       coords 16.792 14.316 -65.36
        angleX -0.329
        angleY 94.991
        angleZ 0.289
        scale 1.157
       }
       {
-       coords 33.667 18.274 -86.471
+       coords 33.668 18.274 -86.471
        angleX -0.019
        angleY 175.27
        angleZ -0.58
        scale 1.242
       }
       {
-       coords 28.292 16.733 -109.034
+       coords 28.292 16.733 -109.035
        angleX 1.943
        angleY 6.801
        angleZ 1.141
        scale 1.158
       }
       {
-       coords 22.058 16.575 -81.88
+       coords 22.059 16.575 -81.881
        angleX -1.493
        angleY 11.997
        angleZ 1.9
        scale 1.293
       }
       {
-       coords 37.328 18.517 -100.939
+       coords 37.329 18.517 -100.939
        angleX 0.016
        angleY -122.677
        angleZ 1.21
@@ -207098,14 +207098,14 @@ $grp PolylineShapeEntity {
        scale 1.268
       }
       {
-       coords 29.442 14.578 -55.201
+       coords 29.442 14.578 -55.202
        angleX 1.713
        angleY -64.096
        angleZ -1.022
        scale 1.389
       }
       {
-       coords 18.586 13.052 -54.915
+       coords 18.587 13.052 -54.915
        angleX 0.912
        angleY -121.567
        angleZ 0.007
@@ -207119,7 +207119,7 @@ $grp PolylineShapeEntity {
        scale 1.394
       }
       {
-       coords 70.114 22.333 -130.494
+       coords 70.115 22.333 -130.494
        angleX -1.977
        angleY 50.088
        angleZ -0.609
@@ -207128,7 +207128,7 @@ $grp PolylineShapeEntity {
      }
      $grp Tree : "{779DF03FAB7A131E}PrefabLibrary/Vegetation/Trees/t_picea_abies_stump_01.et" {
       {
-       coords -10.577 11.33 -75.499
+       coords -10.577 10.196 -75.5
        angleY -123.523
        scale 0.866
       }
@@ -207143,7 +207143,7 @@ $grp PolylineShapeEntity {
        scale 1.022
       }
       {
-       coords -12.293 10.322 -67.61
+       coords -12.293 10.012 -67.61
        angleY 117.788
        scale 0.853
       }
@@ -207158,7 +207158,7 @@ $grp PolylineShapeEntity {
        scale 1.049
       }
       {
-       coords -5.371 1.78 -12.924
+       coords -5.37 1.78 -12.924
        angleY 93.716
        scale 1.055
       }
@@ -207168,42 +207168,42 @@ $grp PolylineShapeEntity {
        scale 1.063
       }
       {
-       coords -32.764 -4.646 -0.544
+       coords -32.763 -4.646 -0.544
        angleY 36.948
        scale 1.096
       }
       {
-       coords -26.363 -1.641 -10.572
+       coords -26.362 -1.641 -10.573
        angleY -101.704
        scale 1.147
       }
       {
-       coords 10.409 13.707 -120.66
+       coords 10.41 13.497 -120.661
        angleY -20.985
        scale 1.175
       }
       {
-       coords 42.995 18.056 -124.129
+       coords 42.996 18.056 -124.129
        angleY 25.346
        scale 1.086
       }
       {
-       coords 22.952 15.522 -116.2
+       coords 22.953 15.522 -116.2
        angleY -148.518
        scale 0.919
       }
       {
-       coords 25.375 13.836 -152.685
+       coords 25.376 13.836 -152.685
        angleY 150.045
        scale 0.904
       }
       {
-       coords 39.293 18.203 -114.441
+       coords 39.294 18.203 -114.441
        angleY 146.782
        scale 1.076
       }
       {
-       coords 8.009 13.441 -120.287
+       coords 8.009 13.111 -120.287
        angleY 167.7
        scale 1.051
       }
@@ -207213,7 +207213,7 @@ $grp PolylineShapeEntity {
        scale 1.067
       }
       {
-       coords 26.631 17.355 -86.2
+       coords 26.632 17.355 -86.201
        angleY -171.216
        scale 0.972
       }
@@ -207223,17 +207223,17 @@ $grp PolylineShapeEntity {
        scale 1.05
       }
       {
-       coords 26.352 17.294 -90.191
+       coords 26.353 17.294 -90.191
        angleY 133.576
        scale 1.089
       }
       {
-       coords 28.388 17.557 -84.491
+       coords 28.388 17.557 -84.492
        angleY 74.874
        scale 1.076
       }
       {
-       coords 6.964 14.455 -88.109
+       coords 6.964 14.455 -88.11
        angleY 68.908
        scale 1.101
       }
@@ -207243,12 +207243,12 @@ $grp PolylineShapeEntity {
        scale 1.012
       }
       {
-       coords 14.911 8.354 -35.254
+       coords 14.911 8.354 -35.255
        angleY 147.99
        scale 1.096
       }
       {
-       coords 24.003 13.642 -54.005
+       coords 24.004 13.642 -54.005
        angleY -92.596
        scale 1.04
       }
@@ -207258,21 +207258,21 @@ $grp PolylineShapeEntity {
        scale 1.028
       }
       {
-       coords 61.761 21.651 -121.016
+       coords 61.762 21.652 -121.016
        angleY -149.276
        scale 1.192
       }
      }
      $grp SCR_IndestructibleEnvironmentalEntity : "{926C09375D2DAA4D}PrefabLibrary/Rocks/Granite/GraniteStone_01.et" {
       {
-       coords 5.809 8.27 -40.876
+       coords 5.809 8.27 -40.877
        angleX 64.003
        angleY 111.943
        angleZ 142.766
        scale 0.5
       }
       {
-       coords 4.47 8.27 -41.643
+       coords 4.47 8.27 -41.644
        angleX -62.267
        angleY -16.535
        angleZ 125.957
@@ -207293,14 +207293,14 @@ $grp PolylineShapeEntity {
        scale 0.668
       }
       {
-       coords 4.356 14.075 -88.599
+       coords 4.356 14.075 -88.6
        angleX -23.116
        angleY -33.537
        angleZ 26.808
        scale 1.034
       }
       {
-       coords 8.288 7.65 -36.359
+       coords 8.289 7.65 -36.359
        angleX -73.797
        angleY -32.812
        angleZ -164.503
@@ -207323,7 +207323,7 @@ $grp PolylineShapeEntity {
        scale 1.055
       }
       {
-       coords 3.843 11.921 -61.636
+       coords 3.844 11.921 -61.636
        angleX -1.027
        angleY -113.272
        angleZ -0.654
@@ -207344,42 +207344,42 @@ $grp PolylineShapeEntity {
        scale 1.138
       }
       {
-       coords -28.648 -0.321 -18.579
+       coords -28.648 -0.321 -18.58
        angleX 0.149
        angleY 42.431
        angleZ 1.869
        scale 1.056
       }
       {
-       coords -7.294 8.051 -47.385
+       coords -7.294 8.051 -47.386
        angleX 1.075
        angleY -160.768
        angleZ 1.625
        scale 0.807
       }
       {
-       coords -1.098 2.034 -10.884
+       coords -1.097 2.034 -10.884
        angleX -0.576
        angleY -65.557
        angleZ -1.173
        scale 1.042
       }
       {
-       coords 1.211 2.275 -10.249
+       coords 1.211 2.275 -10.25
        angleX 1.61
        angleY -158.362
        angleZ -0.117
        scale 1.152
       }
       {
-       coords 36.611 18.127 -107.725
+       coords 36.611 18.127 -107.726
        angleX 0.456
        angleY -57.208
        angleZ 1.536
        scale 1.059
       }
       {
-       coords 26.433 17.189 -94.776
+       coords 26.434 17.189 -94.776
        angleX 0.492
        angleY -48.814
        angleZ 0.535
@@ -207393,14 +207393,14 @@ $grp PolylineShapeEntity {
        scale 1.148
       }
       {
-       coords 30.635 17.884 -86.132
+       coords 30.636 17.884 -86.132
        angleX -0.842
        angleY -35.904
        angleZ -0.244
        scale 0.973
       }
       {
-       coords 24.42 15.07 -62.568
+       coords 24.421 15.07 -62.569
        angleX -1.697
        angleY 110.383
        angleZ 1.866
@@ -207416,21 +207416,21 @@ $grp PolylineShapeEntity {
      }
      $grp Tree : "{A35E15EBC6033C07}PrefabLibrary/Vegetation/Bushes/b_corylus_avellana_1.et" {
       {
-       coords -5.549 7.423 -43.208
+       coords -5.549 7.423 -43.209
        angleX 0.395
        angleY 176.039
        angleZ 0.218
        scale 0.895
       }
       {
-       coords -8.668 7.573 -45.768
+       coords -8.667 7.573 -45.768
        angleX -0.62
        angleY 26.302
        angleZ 0.689
        scale 0.989
       }
       {
-       coords -17.259 6.304 -45.129
+       coords -17.259 6.304 -45.13
        angleX -1.887
        angleY 167.788
        angleZ 0.859
@@ -207445,13 +207445,13 @@ $grp PolylineShapeEntity {
        scale 0.658
       }
       {
-       coords 1.528 11.21 -58.921
+       coords 1.529 11.211 -58.922
        angleX -4.356
        angleY 168.53
        scale 0.688
       }
       {
-       coords -12.5 2.779 -23.361
+       coords -12.499 2.779 -23.362
        angleX -5.48
        angleY -133.215
        scale 0.829
@@ -207469,7 +207469,7 @@ $grp PolylineShapeEntity {
        scale 0.581
       }
       {
-       coords 18.951 15.217 -70.296
+       coords 18.952 15.217 -70.296
        angleX -2.976
        angleY -32.039
        scale 0.546
@@ -207493,7 +207493,7 @@ $grp PolylineShapeEntity {
      }
      $grp Tree : "{DA7492F3E6B63251}PrefabLibrary/Vegetation/Bushes/b_corylus_avellana_1l.et" {
       {
-       coords -3.074 8.07 -44.897
+       coords -3.074 8.07 -44.898
        angleX -0.36
        angleY -156.813
        angleZ 0.648
@@ -207523,14 +207523,14 @@ $grp PolylineShapeEntity {
      }
      $grp Tree : "{F9DAD94AC2A39016}Prefabs/Vegetation/Tree/t_picea_abies_1s_fd_fd.et" {
       {
-       coords -4.021 12.889 -86.173
+       coords -4.021 12.634 -86.173
        angleX -0.54
        angleY 32.652
        angleZ -1.667
        scale 1.361
       }
       {
-       coords -9.916 10.663 -67.338
+       coords -9.916 10.663 -67.339
        angleX -1.437
        angleY 96.891
        angleZ 0.676
@@ -207544,14 +207544,14 @@ $grp PolylineShapeEntity {
        scale 1.678
       }
       {
-       coords 3.256 9.333 -47.336
+       coords 3.256 9.333 -47.337
        angleX -1.071
        angleY 50.703
        angleZ -0.535
        scale 1.686
       }
       {
-       coords -12.75 4.132 -30.455
+       coords -12.75 4.132 -30.456
        angleX -0.653
        angleY -60.943
        angleZ -1.653
@@ -207565,14 +207565,14 @@ $grp PolylineShapeEntity {
        scale 1.643
       }
       {
-       coords -8.761 1.11 -12.181
+       coords -8.761 1.111 -12.181
        angleX -0.717
        angleY 62.965
        angleZ -1.992
        scale 1.666
       }
       {
-       coords -38.449 -2.728 -12.784
+       coords -38.449 -2.905 -12.784
        angleX -0.625
        angleY -136.366
        angleZ 0.241
@@ -207593,28 +207593,28 @@ $grp PolylineShapeEntity {
        scale 1.414
       }
       {
-       coords 24.117 15.726 -115.327
+       coords 24.117 15.726 -115.328
        angleX -1.08
        angleY 98.089
        angleZ 0.108
        scale 1.632
       }
       {
-       coords 33.204 14.839 -146.151
+       coords 33.204 14.84 -146.151
        angleX 1.934
        angleY 113.877
        angleZ -1.485
        scale 1.585
       }
       {
-       coords 13.943 15.338 -81.697
+       coords 13.944 15.338 -81.698
        angleX -0.743
        angleY 171.469
        angleZ 0.703
        scale 1.419
       }
       {
-       coords 49.654 20.179 -113.023
+       coords 49.655 20.179 -113.023
        angleX -0.109
        angleY -138.388
        angleZ -1.176
@@ -207628,21 +207628,21 @@ $grp PolylineShapeEntity {
        scale 1.798
       }
       {
-       coords 18.924 15.734 -101.25
+       coords 18.924 15.734 -101.251
        angleX 1.507
        angleY -168.459
        angleZ 1.326
        scale 1.701
       }
       {
-       coords 20.147 16.334 -91.891
+       coords 20.148 16.334 -91.891
        angleX -1.943
        angleY -32.619
        angleZ -1.393
        scale 1.615
       }
       {
-       coords 7.128 13.867 -105.833
+       coords 7.129 13.868 -105.833
        angleX -0.27
        angleY -39.332
        angleZ -1.386
@@ -207656,21 +207656,21 @@ $grp PolylineShapeEntity {
        scale 1.461
       }
       {
-       coords 31.752 17.163 -110.811
+       coords 31.753 17.163 -110.811
        angleX 0.481
        angleY 161.625
        angleZ -0.138
        scale 1.559
       }
       {
-       coords 38.363 18.808 -96.791
+       coords 38.363 18.809 -96.791
        angleX -0.924
        angleY 177.676
        angleZ 1.221
        scale 1.437
       }
       {
-       coords 7.646 13.585 -70.851
+       coords 7.646 13.585 -70.852
        angleX 0.449
        angleY -134.488
        angleZ -1.337
@@ -207684,14 +207684,14 @@ $grp PolylineShapeEntity {
        scale 1.433
       }
       {
-       coords 39.338 18.699 -105.181
+       coords 39.338 18.699 -105.182
        angleX 0.313
        angleY 133.818
        angleZ 0.44
        scale 1.464
       }
       {
-       coords 23.276 15.077 -63.847
+       coords 23.276 15.078 -63.848
        angleX 0.932
        angleY -98.221
        angleZ -1.65
@@ -207705,14 +207705,14 @@ $grp PolylineShapeEntity {
        scale 1.449
       }
       {
-       coords 19.938 14.545 -63.452
+       coords 19.939 14.545 -63.452
        angleX -1.482
        angleY 48.286
        angleZ 0.822
        scale 1.475
       }
       {
-       coords 61.451 19.682 -145.713
+       coords 61.452 19.682 -145.713
        angleX -1.96
        angleY -15.887
        angleZ -1.659
@@ -207721,28 +207721,28 @@ $grp PolylineShapeEntity {
      }
      $grp SCR_IndestructibleEnvironmentalEntity : "{FE383DD7E1E92563}PrefabLibrary/Rocks/Granite/GraniteStone_02.et" {
       {
-       coords -10.042 3.343 -24.606
+       coords -10.041 3.343 -24.607
        angleX -42.952
        angleY 54.812
        angleZ 137.097
        scale 0.961
       }
       {
-       coords 17.375 14.108 -129.181
+       coords 17.375 14.108 -129.182
        angleX 85.757
        angleY -135.411
        angleZ 125.001
        scale 1.058
       }
       {
-       coords 47.956 18.197 -133.64
+       coords 47.957 18.197 -133.64
        angleX 31.526
        angleY -173.37
        angleZ -98.237
        scale 0.754
       }
       {
-       coords 36.417 18.211 -105.175
+       coords 36.417 18.211 -105.176
        angleX 40.013
        angleY 120.507
        angleZ 65.349

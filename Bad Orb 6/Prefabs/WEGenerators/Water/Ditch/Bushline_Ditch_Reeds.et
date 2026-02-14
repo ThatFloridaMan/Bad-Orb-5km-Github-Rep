@@ -5,12 +5,12 @@ PrefabGeneratorEntity {
  GeneratorType GeneratorTypeVegetation "{61712C4F2623D3D6}" {
  }
  m_PrefabNames {
-  "{077C695F02F4312C}PrefabLibrary/Vegetation/Bushes/b_phragmites_australis_1.et"
+  "{D8B28BEFF43D65A2}Prefabs/Vegetation/Bushes/b_phragmites_australis_1_fd_Short.et"
  }
  m_Weights {
   1
  }
- m_fDistance 4
+ m_fDistance 1.5
  m_bAlignWithShape 0
  m_fOffsetVariance 2
  m_fRandomSpacing 1
