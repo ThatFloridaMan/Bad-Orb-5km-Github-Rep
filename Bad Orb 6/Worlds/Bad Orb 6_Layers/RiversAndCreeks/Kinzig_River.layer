@@ -86,7 +86,7 @@ $grp GenericEntity {
  }
 }
 $grp SplineShapeEntity {
- {
+ Kinzig6 {
   coords 6.872 132.291 3356.067
   Points {
    ShapePoint "{60BB61ECE29FA89E}" {
@@ -1581,7 +1581,7 @@ $grp SplineShapeEntity {
    }
   }
  }
- {
+ Kinzig7 {
   coords 6.872 129.291 3356.067
   Points {
    ShapePoint "{6509557B39F8220F}" {
