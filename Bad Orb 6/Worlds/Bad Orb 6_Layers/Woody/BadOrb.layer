@@ -7696,10 +7696,19 @@ $grp PolylineShapeEntity {
   coords 904.898 148.553 5616.035
   Points {
    ShapePoint "{65B8A6F5678802BA}" {
-    Position 0 0 0
+    Position 9.841 0.413 22.759
    }
    ShapePoint "{65B8A6F5796934AA}" {
-    Position -16.996 0.885 9.939
+    Position 8.487 0.282 15.592
+   }
+   ShapePoint "{68A377B39A16E3F5}" {
+    Position 4.649 -0.751 6.573
+   }
+   ShapePoint "{68A377B21C5E85B0}" {
+    Position -0.215 0.113 -2.386
+   }
+   ShapePoint "{68A377B39AD85183}" {
+    Position -19.527 1.203 10.248
    }
   }
   LineColor 0 0 0 0
@@ -7708,21 +7717,49 @@ $grp PolylineShapeEntity {
     Flags 0x100003 0
     {
      SCR_DestructibleEntity : "{0568EFE48849C7A8}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_3m_End.et" {
-      coords -15.584 0.723 9.114
-      angles 0 -149.68 0
+      coords -15.311 0.561 7.571
+      angles 0 -147.585 0
      }
-     SCR_DestructibleEntity : "{369C528573EF9512}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_6m_A.et" {
-      coords -10.334 0.218 6.043
-      angles 0 -149.68 0
+     SCR_DestructibleEntity : "{312BE6887A00B8A9}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_Pole.et" {
+      coords 5.459 0.455 8.594
+      angles 0 -242.671 0
+     }
+     $grp SCR_DestructibleEntity : "{369C528573EF9512}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_6m_A.et" {
+      {
+       coords 4.113 0.229 5.99
+       angles 0 -242.671 0
+      }
+      {
+       coords -10.177 0.071 4.31
+       angles 0 -147.585 0
+      }
      }
      $grp SCR_DestructibleEntity : "{79BB355CA784598B}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_6m.et" {
       {
-       coords 0.072 0.007 -0.042
-       angles 0 -149.68 0
+       coords 9.856 2.17 22.84
+       angles 0 -259.301 0
       }
       {
-       coords -5.131 -0.106 3.001
-       angles 0 -149.68 0
+       coords 8.759 1.486 16.947
+       angles 0 -248.389 0
+      }
+      {
+       coords -0.001 0.006 -2.151
+       angles 0 -147.585 0
+      }
+      {
+       coords -5.089 -0.202 1.08
+       angles 0 -147.585 0
+      }
+     }
+     $grp SCR_DestructibleEntity : "{90681E1C28473DA8}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_3m.et" {
+      {
+       coords 6.55 0.705 11.371
+       angles 0 -248.389 0
+      }
+      {
+       coords 1.345 0.072 0.633
+       angles 0 -242.671 0
       }
      }
     }
@@ -7736,7 +7773,7 @@ $grp PolylineShapeEntity {
     Position 0.756 0.196 1.333
    }
    ShapePoint "{65B8A6F57635AFB5}" {
-    Position -36.615 -1.758 -64.583
+    Position -34.911 -1.669 -61.577
    }
   }
   LineColor 0 0 0 0
@@ -7745,20 +7782,20 @@ $grp PolylineShapeEntity {
     Flags 0x100003 0
     {
      SCR_DestructibleEntity : "{0568EFE48849C7A8}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_3m_End.et" {
-      coords -36.287 -1.732 -64.005
+      coords -33.313 -1.527 -58.759
       angles 0 -240.449 0
      }
      $grp SCR_DestructibleEntity : "{312BE6887A00B8A9}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_Pole.et" {
       {
-       coords -8.127 -1.151 -14.335
+       coords -8.127 -1.151 -14.334
        angles 0 -240.449 0
       }
       {
-       coords -27.419 -1.261 -48.363
+       coords -27.419 -1.261 -48.364
        angles 0 -240.449 0
       }
       {
-       coords -28.865 -1.295 -50.913
+       coords -28.865 -1.296 -50.913
        angles 0 -240.449 0
       }
      }
@@ -7768,15 +7805,15 @@ $grp PolylineShapeEntity {
        angles 0 -240.449 0
       }
       {
-       coords -9.573 -1.221 -16.885
+       coords -9.572 -1.221 -16.884
        angles 0 -240.449 0
       }
       {
-       coords -12.547 -1.297 -22.131
+       coords -12.547 -1.298 -22.131
        angles 0 -240.449 0
       }
       {
-       coords -21.471 -1.238 -37.87
+       coords -21.47 -1.238 -37.871
        angles 0 -240.449 0
       }
       {
@@ -7786,27 +7823,23 @@ $grp PolylineShapeEntity {
      }
      $grp SCR_DestructibleEntity : "{79BB355CA784598B}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_6m.et" {
       {
-       coords 0.796 0.207 1.405
+       coords 0.797 0.207 1.405
        angles 0 -240.449 0
       }
       {
-       coords -2.178 -0.46 -3.842
+       coords -2.178 -0.46 -3.841
        angles 0 -240.449 0
       }
       {
-       coords -15.522 -1.299 -27.377
+       coords -15.521 -1.299 -27.377
        angles 0 -240.449 0
       }
       {
-       coords -18.496 -1.268 -32.624
+       coords -18.496 -1.269 -32.624
        angles 0 -240.449 0
       }
       {
        coords -24.445 -1.221 -43.117
-       angles 0 -240.449 0
-      }
-      {
-       coords -33.285 -1.526 -58.709
        angles 0 -240.449 0
       }
      }
@@ -7818,7 +7851,7 @@ $grp PolylineShapeEntity {
   coords 881.8 150.093 5629.692
   Points {
    ShapePoint "{65B8A6F581484122}" {
-    Position -3.875 0.307 2.009
+    Position -3.672 0.299 0.777
    }
    ShapePoint "{65B8A6F582CC8E06}" {
     Position -12.021 0.411 6.234
@@ -7830,12 +7863,90 @@ $grp PolylineShapeEntity {
     Flags 0x100003 0
     {
      SCR_DestructibleEntity : "{0568EFE48849C7A8}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_3m_End.et" {
-      coords -9.206 0.457 4.774
-      angles 0 -152.588 0
+      coords -8.698 0.414 4.062
+      angles 0 -146.829 0
      }
      SCR_DestructibleEntity : "{79BB355CA784598B}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_6m.et" {
-      coords -3.801 0.303 1.971
-      angles 0 -152.588 0
+      coords -3.603 0.147 0.731
+      angles 0 -146.829 0
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 4898.832 172.79 3824.604
+  Points {
+   ShapePoint "{68A377B7BFD5AD50}" {
+    Position 0.184 0.01 -0.065
+   }
+   ShapePoint "{68A377B7BFD25C3A}" {
+    Position 8.747 0.807 -6.105
+   }
+   ShapePoint "{68A377B7B31B599B}" {
+    Position 19.167 1.374 -13.833
+   }
+   ShapePoint "{68A377B7B58BA4E0}" {
+    Position 29.952 2.066 -21.212
+   }
+   ShapePoint "{68A377B7B7980239}" {
+    Position 40.481 2.335 -28.786
+   }
+  }
+  LineColor 0 0 0 0
+  {
+   WallGeneratorEntity : "{B369FBF98A1B3541}PrefabLibrary/DefaultLibrary/Generators/Pavements/Asphalt/WG_Asphalt_Pavement_01_Narrow.et" {
+    Flags 0x100003 0
+    {
+     $grp StaticModelEntity : "{1B2F4654BAEFFB71}PrefabLibrary/DefaultLibrary/Infrastructure/Pavements/Asphalt/AsphaltPavement_01_Narrow_4m_A.et" {
+      {
+       coords 0.014 0.003 0.055
+       angles 0 35.2 0
+      }
+      {
+       coords 3.238 0.501 -2.219
+       angles 0 35.2 0
+      }
+      {
+       coords 6.464 0.685 -4.49
+       angles 0 36.333 0
+      }
+      {
+       coords 9.65 0.858 -6.833
+       angles 0 36.333 0
+      }
+      {
+       coords 12.836 1.03 -9.176
+       angles 0 36.333 0
+      }
+      {
+       coords 16.018 1.201 -11.523
+       angles 0 34.811 0
+      }
+      {
+       coords 19.263 1.375 -13.779
+       angles 0 34.811 0
+      }
+      {
+       coords 22.507 1.589 -16.035
+       angles 0 34.811 0
+      }
+      {
+       coords 25.752 1.8 -18.291
+       angles 0 34.811 0
+      }
+      {
+       coords 28.998 2.01 -20.544
+       angles 0 35.669 0
+      }
+      {
+       coords 32.212 2.085 -22.851
+       angles 0 35.669 0
+      }
+      {
+       coords 35.426 2.117 -25.158
+       angles 0 35.669 0
+      }
      }
     }
    }
@@ -8240,6 +8351,14 @@ $grp StaticModelEntity : "{1B2F4654BAEFFB71}PrefabLibrary/DefaultLibrary/Infrast
  {
   coords 4870.547 0 3620.06
   angles 0 40.76 0
+ }
+ {
+  coords 4894.196 -0.084 3821.792
+  angles 0 -45.166 0
+ }
+ {
+  coords 4935.88 -0.022 3798.28
+  angles 0 36.481 0
  }
 }
 SCR_DestructibleBuildingEntity : "{1EB96C6D2933405D}Prefabs/Structures/Houses/Village/House_Village_E_1I01_BlackRoof_fd_fd.et" {
@@ -32132,6 +32251,16 @@ $grp StaticModelEntity : "{987B35F6140166E9}Prefabs/Structures/Infrastructure/Pa
  {
   coords 4648.304 0 3523.724
   angles 3.983 -58.521 0.342
+ }
+ {
+  coords 4939.39 0.024 3794.313
+  angles 0.565 -57.906 2.467
+  scale 1.1
+ }
+ {
+  coords 4898.665 -0.035 3824.683
+  angles -4.958 -139.417 -0.196
+  scale 1.1
  }
 }
 $grp GenericEntity : "{A9FC9D2A3C13C954}Prefabs/Structures/Infrastructure/Lamps/Lamp1/LampStreet_E_01_6m_fd_fd.et" {

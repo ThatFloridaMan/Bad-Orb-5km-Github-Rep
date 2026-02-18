@@ -4875,10 +4875,10 @@ $grp PolylineShapeEntity {
   coords 887.359 147.864 5561.003
   Points {
    ShapePoint "{657C008A885F4991}" {
-    Position -0.429 -0.008 -0.673
+    Position -3.3 -0.252 -6.054
    }
    ShapePoint "{657C008A885F3E7C}" {
-    Position -10.394 -0.855 -19.353
+    Position -10.494 -0.863 -19.54
    }
   }
   LineColor 0 0 0 0
@@ -4887,21 +4887,17 @@ $grp PolylineShapeEntity {
     Flags 0x100003 0
     {
      SCR_DestructibleEntity : "{0568EFE48849C7A8}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_3m_End.et" {
-      coords -8.928 -0.696 -16.606
-      angles 0 -241.922 0
-     }
-     SCR_DestructibleEntity : "{369C528573EF9512}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_6m_A.et" {
-      coords -6.065 -0.419 -11.238
-      angles 0 -241.922 0
+      coords -8.96 -0.699 -16.665
+      angles 0 -241.923 0
      }
      $grp SCR_DestructibleEntity : "{79BB355CA784598B}PrefabLibrary/DefaultLibrary/Walls/Pole/PoleFence_01_6m.et" {
       {
-       coords -0.39 -0.007 -0.6
-       angles 0 -241.922 0
+       coords -3.261 -0.179 -5.981
+       angles 0 -241.923 0
       }
       {
-       coords -3.227 -0.178 -5.919
-       angles 0 -241.922 0
+       coords -6.097 -0.422 -11.298
+       angles 0 -241.923 0
       }
      }
     }

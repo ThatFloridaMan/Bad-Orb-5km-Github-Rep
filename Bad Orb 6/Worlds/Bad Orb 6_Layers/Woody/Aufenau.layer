@@ -25112,8 +25112,8 @@ $grp StaticModelEntity : "{1B2F4654BAEFFB71}PrefabLibrary/DefaultLibrary/Infrast
   placement none
  }
  {
-  coords 2877.965 0.105 5821.23
-  angles -2.363 -8.688 -0.011
+  coords 2877.965 0.087 5821.23
+  angles -0.959 -8.687 -0.012
   placement none
  }
  {
@@ -44640,12 +44640,12 @@ $grp StaticModelEntity : "{B31AA9B374FB63C9}PrefabLibrary/DefaultLibrary/Infrast
   angles 2.24 175.308 1.773
  }
  {
-  coords 2882.765 0.026 5821.978
-  angles -0.911 -8.632 0.03
+  coords 2882.765 0.009 5821.978
+  angles 0.493 -8.631 0.03
  }
  {
-  coords 2876.861 0.026 5822.103
-  angles 2.087 80.944 -2.944
+  coords 2876.861 0.034 5822.105
+  angles 2.097 80.996 -1.539
  }
  {
   coords 2936.649 0.005 5909.909

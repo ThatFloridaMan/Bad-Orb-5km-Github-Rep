@@ -1,0 +1,54 @@
+$grp StaticModelEntity : "{9C7477A3F066F750}Prefabs/Terrain/Erosion/ErodedEmbankment_01_forest_straight_fd_fd.et" {
+ {
+  coords 1368.399 143.737 4210.071
+  angles 0 169.182 0
+  {
+   SCR_DestructibleEntity : "{EEE23553967B32A8}Prefabs/Structures/Walls/Stone/StoneWall_01/StoneWall_01_8m.et" {
+    coords 4.752 -0.659 -0.416
+    angles 8.539 -175.956 -1.922
+    scale 1.2
+    placement none
+   }
+  }
+ }
+ {
+  coords 1362.308 143.737 4209.639
+  angles 0 176.859 0
+  {
+   SCR_DestructibleEntity : "{EEE23553967B32A8}Prefabs/Structures/Walls/Stone/StoneWall_01/StoneWall_01_8m.et" {
+    coords 6.768 -0.396 0.358
+    angles 15.521 178.109 1.788
+    scale 1.2
+    placement none
+   }
+  }
+ }
+ {
+  coords 1354.105 143.744 4209.424
+  angles 4.6 -176.209 0
+ }
+ {
+  coords 1345.351 143.821 4209.049
+  angles 4.595 -178.971 -0.221
+  {
+   SCR_DestructibleEntity : "{EEE23553967B32A8}Prefabs/Structures/Walls/Stone/StoneWall_01/StoneWall_01_8m.et" {
+    coords 3.845 -0.113 0.588
+    angles 19.961 177.48 1.973
+    scale 1.2
+    placement none
+   }
+  }
+ }
+ {
+  coords 1337.412 143.868 4208.988
+  angles 4.597 -173.938 0.182
+  {
+   SCR_DestructibleEntity : "{EEE23553967B32A8}Prefabs/Structures/Walls/Stone/StoneWall_01/StoneWall_01_8m.et" {
+    coords 3.483 0.141 0.462
+    angles 11.681 179.937 4.547
+    scale 1.2
+    placement none
+   }
+  }
+ }
+}
