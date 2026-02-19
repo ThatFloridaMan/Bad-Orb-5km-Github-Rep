@@ -228,11 +228,11 @@ $grp GenericEntity : "{03262D2D61225380}PrefabLibrary/DefaultLibrary/Infrastruct
   angles 0 -51 0
  }
  {
-  coords 4776.06 0.001 3596.07
+  coords 4776.642 0.01 3596.552
   angles 0 -37 0
  }
  {
-  coords 4767.61 0 3587.24
+  coords 4767.326 -0.004 3586.465
   angles 0 -53 0
  }
  {

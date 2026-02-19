@@ -29157,47 +29157,10 @@ $grp PolylineShapeEntity {
  }
  {
   coords 5242.283 177.531 3574.763
-  Points {
-   ShapePoint "{6586170070B8CC80}" {
-    Position 0 0 0
-   }
-   ShapePoint "{6586170070B927EB}" {
-    Position 2.373 -0.031 -1.021
-   }
-   ShapePoint "{6586170076D7AD8F}" {
-    Position 1.225 -0.109 -3.155
-   }
-   ShapePoint "{6586170076190461}" {
-    Position -1.212 -0.067 -1.986
-   }
-   ShapePoint "{6586170061B8A897}" {
-    Position -0.151 0 0.32
-   }
-  }
   LineColor 0 0 0 0
   {
    WallGeneratorEntity : "{59B0C519BF4FCF13}Prefabs/WEGenerators/Pavements/Concrete/WG_ConcreteKerb_01_fd_fd.et" {
     Flags 0x100003 0
-    {
-     $grp StaticModelEntity : "{84CB4C5EC2DAFE91}PrefabLibrary/DefaultLibrary/Infrastructure/Roads/ConcreteKerb_01_2m_v2.et" {
-      {
-       coords 0 0 0
-       angles 0 23.289 0
-      }
-      {
-       coords 1.855 -0.031 -0.799
-       angles 0 -255.022 0
-      }
-      {
-       coords 1.334 -0.083 -2.749
-       angles 0 -163.321 0
-      }
-      {
-       coords -0.601 -0.078 -2.169
-       angles 0 -79.754 0
-      }
-     }
-    }
    }
   }
  }
@@ -70554,13 +70517,13 @@ $grp StaticModelEntity : "{0A247EB653304FBE}Prefabs/Structures/Infrastructure/Cu
   scale 1.591
  }
  {
-  coords 5248.097 174.381 3565.943
-  angles 0 -177.824 0
+  coords 5248.094 173.755 3565.944
+  angles 1.126 -177.858 -1.734
   scale 1.742
  }
  {
-  coords 5248.143 174.381 3567.165
-  angles 0 -177.824 0
+  coords 5248.14 173.735 3567.166
+  angles 1.126 -177.858 -2.078
   scale 1.742
  }
  {
@@ -70574,7 +70537,7 @@ $grp StaticModelEntity : "{0A247EB653304FBE}Prefabs/Structures/Infrastructure/Cu
   scale 1.742
  }
  {
-  coords 5213.156 167.186 3280.898
+  coords 5213.156 166.724 3280.898
   angles 0 21.176 0
   scale 1.742
  }
@@ -73763,11 +73726,6 @@ $grp Tree : "{106ED5DD4C2F3E0A}Prefabs/Vegetation/Bushes/b_rosa_canina_0s_fd_fd.
   scale 0.866
  }
  {
-  coords 5242.521 0 3572.003
-  angles -2.021 -93.759 -3.45
-  scale 0.924
- }
- {
   coords 5172.982 0 4811.167
   angles -1.049 11.378 -3.857
   scale 0.811
@@ -74775,14 +74733,6 @@ $grp SCR_DestructibleEntity : "{18919F2FEFD70BF4}Prefabs/Props/Civilian/BenchStr
  {
   coords 5231.305 178.538 3610.958
   angles -3.905 -141.063 -0.856
- }
- {
-  coords 5244.33 177.495 3572.83
-  angles -0.612 109.982 1.682
- }
- {
-  coords 5241.391 177.521 3573.673
-  angles 0.462 -79.05 -1.729
  }
 }
 $grp SCR_DestructibleBuildingEntity : "{1A5E36A36CC191ED}Prefabs/Structures/Houses/Shed/Shed_03_wide_fd_fd.et" {
@@ -76560,10 +76510,6 @@ $grp Tree : "{2417E177CE240450}Prefabs/Vegetation/Plant/p_urtica_dioica_0s_fd_fd
   angles 5.356 0 -1.782
  }
 }
-SCR_DestructibleEntity : "{258CB296E9484AAA}PrefabsEditable/Auto/Props/Decorations/Flowerpots/FlowerpotStreet_01/E_FlowerpotStreet_01_octa_Tagetes_yellow.et" {
- coords 5249.525 177.592 3584.637
- angles -0.743 -62.917 -6.386
-}
 SCR_DestructibleBuildingEntity : "{280024EC3D8A7A4B}Prefabs/Structures/Houses/Garage/Garage_01_Yellow_fd.et" {
  coords 3556.455 -0.201 6059.244
  angles 0 -49 0
@@ -76796,11 +76742,6 @@ $grp Tree : "{2DD08897D2B403E0}Prefabs/Vegetation/Tree/t_carpinus_betulus_3s_fd_
   coords 3136.756 0 5874.693
   angles -2.148 -40.491 0.46
   scale 1.058
- }
- {
-  coords 5250.559 0 3583.908
-  angles -0.529 -129.747 -1.734
-  scale 0.833
  }
 }
 GenericEntity : "{2E89F89F600EA6C5}PrefabLibrary/DefaultLibrary/Props/Garbage/GarbageStack_01_Medium.et" {
@@ -77098,15 +77039,9 @@ $grp Tree : "{360B389FD683A65E}Prefabs/Vegetation/Bushes/b_rubus_idaeus_0s_fd_fd
   scale 1.074
  }
 }
-$grp GenericEntity : "{393EA7D4604211A7}PrefabLibrary/DefaultLibrary/Infrastructure/Sings/SignParking.et" {
- {
-  coords 5235.845 178.587 3608.537
-  angles 1.166 39 1.55
- }
- {
-  coords 5240.848 178.575 3604.563
-  angles 1.166 48 1.55
- }
+GenericEntity : "{393EA7D4604211A7}PrefabLibrary/DefaultLibrary/Infrastructure/Sings/SignParking.et" {
+ coords 5241.545 179.899 3619.679
+ angles 1.355 40.655 1.388
 }
 $grp SCR_DestructibleBuildingEntity : "{40CAE09AC72BB99E}Prefabs/Structures/Agriculture/Hotbed/Hotbed_01_Half_Open_fd_fd.et" {
  {
@@ -81187,16 +81122,6 @@ $grp GenericEntity : "{6FD54E69CFDD6B08}Prefabs/Props/Industrial/BarrelFuel_01_c
 SCR_DestructibleBuildingEntity : "{701AD8BFBCC24862}Prefabs/Props/Recreation/Toy_Factory_fb.et" {
  coords 623.887 159.783 5631.169
 }
-$grp SCR_DestructibleEntity : "{70D554B91C368F83}PrefabsEditable/Auto/Props/Decorations/Flowerpots/FlowerpotStreet_01/E_FlowerpotStreet_01_rect_long_begonia_white.et" {
- {
-  coords 5242.644 177.45 3571.881
-  angles 0 13 0
- }
- {
-  coords 5243.536 177.515 3574.66
-  angles 0 21 0
- }
-}
 GenericEntity : "{71075182141D86A1}Prefabs/Structures/BuildingParts/Doors/Door_MetalGate_01_Short_RIGHT_EXT_ST_B.et" {
  coords 786.238 157.098 5773.917
  angles 0 -61 0
@@ -81217,10 +81142,6 @@ $grp SCR_DestructibleEntity : "{750B424306CE40F7}PrefabsEditable/Auto/Props/Deco
  {
   coords 5226.41 178.478 3615.287
   angles 0 -49 0
- }
- {
-  coords 5249.995 177.501 3583.022
-  angles 3.576 35 0
  }
 }
 GenericEntity : "{783B2F0821264C9E}Prefabs/Structures/Civilian/PlaygroundSlide_01_fd_fd.et" {
@@ -81741,10 +81662,6 @@ $grp Tree : "{9D1D30F36F79B0B4}Prefabs/Vegetation/Tree/t_betula_pendula_2s_fd_fd
  }
  {
   coords 5206.831 0 3612.647
- }
- {
-  coords 5243.09 0 3573.34
-  angles 0 53 0
  }
  {
   coords 5565.325 0 4639.252
@@ -82855,10 +82772,6 @@ $grp Tree : "{CCAB9CE2D5FD851F}Prefabs/Vegetation/Tree/t_picea_abies_3f_high_fd_
   angles 0.509 -66.749 2.136
   scale 0.637
  }
-}
-SCR_DestructibleEntity : "{CD28ED1CE3BBDFFA}PrefabsEditable/Auto/Props/Decorations/Flowerpots/FlowerpotStreet_01/E_FlowerpotStreet_01_octa_begonia_white.et" {
- coords 5251.477 177.554 3583.198
- angles 0.744 -58.104 -7.921
 }
 GenericEntity : "{CD493979D0222303}Prefabs/Props/Garbage/Bins/GarbageContainer_01_fd_fd.et" {
  coords 5209.826 177.956 3615.756
@@ -86407,10 +86320,6 @@ $grp SCR_DestructibleEntity : "{EC1CCB7995A9566B}Prefabs/Structures/Walls/Pipe/R
 SCR_DestructibleBuildingEntity : "{F0AFAA2ECDC2BD45}Prefabs/Structures/Houses/Shed/Shed_01_fd_fd.et" {
  coords 3533.72 0.211 6089.57
  angles 0 133 0
-}
-SCR_DestructibleEntity : "{F1D674AF251016A6}PrefabsEditable/Auto/Props/Decorations/Flowerpots/FlowerpotStreet_01/E_FlowerpotStreet_01_octa_begonia_pink.et" {
- coords 5251.043 177.73 3584.645
- angles 10.285 36.166 0.931
 }
 GenericEntity : "{F1EC6174400AD438}Prefabs/Props/Agriculture/CultivatorWreck_01_fd_fd.et" {
  coords 2622.961 147.788 5813.704
