@@ -1,0 +1,16 @@
+GenericEntity {
+ ID "688B22569DB3284A"
+ components {
+  MeshObject "{688B2256345F11C7}" {
+   Object "{02635E6F3A1F174D}Assets/Terrain/Flat/FlatTerrain_2m.xob"
+   LODFactors {
+    50 1
+   }
+  }
+  RigidBody "{688B22565D05EE95}" {
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ coords 1121.828 39.418 2422.676
+}

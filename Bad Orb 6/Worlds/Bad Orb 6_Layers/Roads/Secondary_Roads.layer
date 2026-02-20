@@ -54379,35 +54379,35 @@ $grp PolylineShapeEntity {
    }
    PrefabGeneratorEntity : "{DCF08671AE58F97B}Prefabs/WEGenerators/Bushline/Treeline_Plum.et" {
     Flags 0x100003 0
-    m_iSeed 37
+    m_iSeed 22842
     {
      $grp Tree : "{6CBFCB1E5A9B8EEF}Prefabs/Vegetation/Tree/t_prunus_domestica_2s_fd_fd.et" {
       {
-       coords -0.695 -0.672 -0.739
+       coords -0.769 -0.672 -0.624
       }
       {
-       coords -9.202 -2.466 -5.698
+       coords -9.103 -2.465 -5.853
       }
       {
-       coords -17.516 -4.243 -10.958
+       coords -17.371 -4.246 -11.185
       }
       {
-       coords -25.092 -5.779 -15.893
+       coords -25.125 -5.78 -15.842
       }
       {
-       coords -33.448 -7.481 -21.124
+       coords -33.258 -7.48 -21.419
       }
       {
-       coords -41.636 -8.975 -26.927
+       coords -41.653 -8.973 -26.899
       }
       {
-       coords -49.974 -10.446 -32.249
+       coords -50.142 -10.443 -31.985
       }
       {
-       coords -58.588 -11.384 -37.373
+       coords -58.51 -11.384 -37.495
       }
       {
-       coords -66.94 -12.321 -42.792
+       coords -66.959 -12.321 -42.762
       }
      }
     }
