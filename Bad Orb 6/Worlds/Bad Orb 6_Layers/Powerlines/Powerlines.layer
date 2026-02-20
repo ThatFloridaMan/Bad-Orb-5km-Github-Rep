@@ -38767,26 +38767,6 @@ $grp Tree : "{106ED5DD4C2F3E0A}Prefabs/Vegetation/Bushes/b_rosa_canina_0s_fd_fd.
   scale 0.933
  }
  {
-  coords 4984.032 0 3698.876
-  angles 0 2.653 0
-  scale 0.965
- }
- {
-  coords 4988.221 0 3702.344
-  angles 0 105.84 0
-  scale 0.847
- }
- {
-  coords 4988.748 0 3702.963
-  angles 0 27.351 0
-  scale 0.804
- }
- {
-  coords 4989.407 0 3703.197
-  angles 0 32.097 0
-  scale 0.86
- }
- {
   coords 2247.186 0 5885.964
   angles 8.358 -101.466 -3.493
   scale 0.955
@@ -45305,12 +45285,6 @@ $grp Tree : "{2417E177CE240450}Prefabs/Vegetation/Plant/p_urtica_dioica_0s_fd_fd
   angles 10.62 0 15.453
  }
  {
-  coords 4985.083 0 3699.578
- }
- {
-  coords 4986.261 0 3701.648
- }
- {
   coords 2257.752 0 5885.01
   angles 3.576 0 10.599
  }
@@ -47935,11 +47909,6 @@ $grp Tree : "{360B389FD683A65E}Prefabs/Vegetation/Bushes/b_rubus_idaeus_0s_fd_fd
   coords 5004.152 0 3716.3
   angles -1.333 -76.782 -2.151
   scale 1.003
- }
- {
-  coords 4990.843 0 3706.335
-  angles 0 -100.973 0
-  scale 1.061
  }
  {
   coords 4992.419 0 3707.65
@@ -55966,16 +55935,6 @@ $grp Tree : "{6764BD55B88DD17A}Prefabs/Vegetation/Bushes/b_rosa_canina_1s_fd_fd.
   scale 0.715
  }
  {
-  coords 4987.43 0 3702.627
-  angles 0 -155.533 0
-  scale 0.624
- }
- {
-  coords 4988.759 0 3704.463
-  angles 0 -140.173 0
-  scale 0.719
- }
- {
   coords 2243.543 0 5885.135
   angles 0.578 7.68 9.035
   scale 0.722
@@ -62840,8 +62799,8 @@ GenericEntity : "{6FD4315AF0CDA442}PrefabLibrary/DefaultLibrary/Props/Industrial
  angles 0.321 -52.276 2.51
 }
 SCR_DestructibleBuildingEntity : "{714CBC1C4FCCA9FB}PrefabLibrary/DefaultLibrary/Structures/Industrial/RampVehicle_01_concrete.et" {
- coords 4994.968 0.019 3716.877
- angles 0 55 0
+ coords 4973.144 0.02 3724.119
+ angles 0 123.765 0
 }
 GenericEntity : "{73524FA5556B9FCE}Prefabs/Props/Garbage/Cardboard/Cardboard_Pile_02_fd_fd.et" {
  coords 1097.426 144.81 5610.621

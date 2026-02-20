@@ -76,7 +76,7 @@ $grp GenericEntity : "{03262D2D61225380}PrefabLibrary/DefaultLibrary/Infrastruct
   angles 0 -40 0
  }
  {
-  coords 5023.97 0 3731.01
+  coords 5023.789 -0 3731.636
   angles 0 -15 0
  }
  {
@@ -88,11 +88,11 @@ $grp GenericEntity : "{03262D2D61225380}PrefabLibrary/DefaultLibrary/Infrastruct
   angles 0 -93 0
  }
  {
-  coords 4950.2 0 3750.38
+  coords 4951.121 0 3749.893
   angles 0 114 0
  }
  {
-  coords 4954.15 0 3766.14
+  coords 4955.57 -0.001 3765.491
   angles 0 114 0
  }
  {
@@ -124,16 +124,16 @@ $grp GenericEntity : "{03262D2D61225380}PrefabLibrary/DefaultLibrary/Infrastruct
   angles 0 -145 0
  }
  {
-  coords 5010.27 0 3719.97
+  coords 5008.795 -0 3721.7
   angles 0 -46 0
  }
  {
-  coords 4968.29 0 3721.23
-  angles 0 30 0
+  coords 4979.88 0.269 3721.8
+  angles 0 -143.477 0
  }
  {
-  coords 4956.56 0.001 3729.21
-  angles 0 30 0
+  coords 4960.529 0.298 3734.786
+  angles 0 -145.792 0
  }
  {
   coords 4899.14 0 3732.68
@@ -204,7 +204,7 @@ $grp GenericEntity : "{03262D2D61225380}PrefabLibrary/DefaultLibrary/Infrastruct
   angles 0 33 0
  }
  {
-  coords 4997.12 0 3709.3
+  coords 4994.328 0 3711.841
   angles 0 -33 0
  }
  {
