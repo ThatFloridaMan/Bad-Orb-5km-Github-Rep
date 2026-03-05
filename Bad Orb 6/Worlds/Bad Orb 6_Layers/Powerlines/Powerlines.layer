@@ -35342,12 +35342,7 @@ $grp Tree : "{0D0A8FDAA4C367BB}Prefabs/Vegetation/Bushes/b_corylus_avellana_1l_f
  }
  {
   coords 3790.535 0 5359.54
-  angles 0 -17.859 0
-  scale 0.8
- }
- {
-  coords 3786.283 0 5354.674
-  angles 0 -123.507 0
+  angles 0 29.549 0
   scale 0.8
  }
  {

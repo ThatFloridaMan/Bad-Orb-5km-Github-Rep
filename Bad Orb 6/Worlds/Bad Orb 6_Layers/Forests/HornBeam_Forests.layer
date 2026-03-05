@@ -209733,7 +209733,7 @@ $grp PolylineShapeEntity {
     Position -10.177 1.447 -39.203
    }
    ShapePoint "{651CD9DAFAB3638D}" {
-    Position 6.605 3.419 -64.668
+    Position 8.034 3.515 -66.395
    }
   }
   LineColor 0 0 0 0
@@ -209743,12 +209743,16 @@ $grp PolylineShapeEntity {
     {
      $grp SCR_DestructibleEntity : "{2BC751DB114A3280}Prefabs/Structures/Walls/Stone/Wall_02/StoneWall_02_4m_v3_fd_fd.et" {
       {
-       coords -9.011 0.398 -6.615
-       angles 0 -212.903 0
+       coords -8.731 0.402 -6.941
+       angles 0 -210.142 0
       }
       {
-       coords -15.007 0.83 -30.405
-       angles 0 61.234 0
+       coords -15.003 0.829 -30.384
+       angles 0 61.313 0
+      }
+      {
+       coords 4.898 3.221 -61.652
+       angles 0 56.529 0
       }
      }
      $grp SCR_DestructibleEntity : "{A20F29C2A16B2AC5}Prefabs/Structures/Walls/Stone/Wall_02/StoneWall_02_4m_v1_fd_fd.et" {
@@ -209757,69 +209761,69 @@ $grp PolylineShapeEntity {
        angles 0 -222.457 0
       }
       {
-       coords -2.928 0.37 -2.679
-       angles 0 -212.903 0
+       coords -2.718 0.37 -2.486
+       angles 0 -222.457 0
       }
       {
-       coords -5.97 0.37 -4.647
-       angles 0 -212.903 0
+       coords -5.598 0.383 -5.122
+       angles 0 -210.142 0
       }
       {
-       coords -12.221 0.402 -8.691
-       angles 0 -212.903 0
+       coords -12.036 0.402 -8.86
+       angles 0 -210.142 0
       }
       {
-       coords -15.502 0.404 -10.814
-       angles 0 -219.167 0
+       coords -15.416 0.405 -10.823
+       angles 0 -218.718 0
       }
       {
-       coords -18.532 0.433 -13.283
-       angles 0 -255.626 0
+       coords -18.466 0.433 -13.268
+       angles 0 -255.245 0
       }
       {
-       coords -19.432 0.433 -16.792
-       angles 0 -255.626 0
+       coords -19.388 0.433 -16.771
+       angles 0 -255.245 0
       }
       {
-       coords -20.402 0.491 -20.578
-       angles 0 61.234 0
+       coords -20.384 0.49 -20.55
+       angles 0 61.313 0
       }
       {
-       coords -18.66 0.559 -23.75
-       angles 0 61.234 0
+       coords -18.647 0.558 -23.725
+       angles 0 61.313 0
       }
       {
-       coords -13.169 1.045 -33.752
-       angles 0 61.234 0
+       coords -13.17 1.044 -33.734
+       angles 0 61.313 0
       }
       {
-       coords -11.291 1.288 -37.175
-       angles 0 56.939 0
+       coords -11.295 1.286 -37.159
+       angles 0 56.529 0
       }
       {
-       coords -9.318 1.53 -40.204
-       angles 0 56.939 0
+       coords -9.301 1.527 -40.175
+       angles 0 56.529 0
       }
       {
-       coords -3.163 2.316 -49.661
-       angles 0 56.939 0
+       coords -3.078 2.304 -49.589
+       angles 0 56.529 0
       }
       {
-       coords -1.191 2.571 -52.691
-       angles 0 56.939 0
+       coords -1.084 2.556 -52.604
+       angles 0 56.529 0
       }
       {
-       coords 0.781 2.794 -55.721
-       angles 0 56.939 0
+       coords 0.91 2.78 -55.62
+       angles 0 56.529 0
       }
       {
-       coords 2.754 3.016 -58.75
-       angles 0 56.939 0
+       coords 2.904 3.001 -58.636
+       angles 0 56.529 0
       }
      }
      SCR_DestructibleEntity : "{C4A09C9625CA6078}Prefabs/Structures/Walls/Stone/Wall_02/StoneWall_02_d_fd_fd.et" {
-      coords -16.919 0.664 -26.923
-      angles 0 61.234 0
+      coords -16.909 0.663 -26.9
+      angles 0 61.313 0
      }
      $grp SCR_DestructibleEntity : "{C4BFFA7F0A2DBDC6}Prefabs/Structures/Walls/Stone/Wall_02/StoneWall_02_pole_fd_fd.et" {
       {
@@ -209827,38 +209831,38 @@ $grp PolylineShapeEntity {
        angles 0 -222.457 0
       }
       {
-       coords -2.743 0.52 -2.51
+       coords -5.413 0.528 -4.953
        angles 0 -222.457 0
       }
       {
-       coords -15.292 0.552 -10.678
-       angles 0 -212.903 0
+       coords -15.199 0.552 -10.697
+       angles 0 -210.142 0
       }
       {
-       coords -18.338 0.583 -13.125
-       angles 0 -219.167 0
+       coords -18.27 0.583 -13.111
+       angles 0 -218.718 0
       }
       {
-       coords -20.34 0.633 -20.335
-       angles 0 -255.626 0
+       coords -20.32 0.632 -20.308
+       angles 0 -255.245 0
       }
       {
-       coords -11.411 1.417 -36.955
-       angles 0 61.234 0
+       coords -11.416 1.416 -36.94
+       angles 0 61.313 0
       }
       {
-       coords 4.745 3.241 -61.809
-       angles 0 56.939 0
+       coords 7.021 3.425 -64.863
+       angles 0 56.529 0
       }
      }
      $grp SCR_DestructibleEntity : "{CE5B1D221DAFA5EB}Prefabs/Structures/Walls/Stone/Wall_02/StoneWall_02_4m_v2_fd_fd.et" {
       {
-       coords -7.346 1.783 -43.234
-       angles 0 56.939 0
+       coords -7.308 1.778 -43.191
+       angles 0 56.529 0
       }
       {
-       coords -5.255 2.051 -46.448
-       angles 0 56.939 0
+       coords -5.193 2.043 -46.39
+       angles 0 56.529 0
       }
      }
     }
