@@ -10684,7 +10684,7 @@ $grp PolylineShapeEntity {
   coords 5224.069 177.688 3587.028
   Points {
    ShapePoint "{68CCC915933439EC}" {
-    Position 0.123 -0 0.192
+    Position 0.123 0 0.192
    }
    ShapePoint "{68CCC9159334CD14}" {
     Position -1.304 0.07 -12.642
@@ -10697,7 +10697,7 @@ $grp PolylineShapeEntity {
     {
      $grp StaticModelEntity : "{1B2F4654BAEFFB71}PrefabLibrary/DefaultLibrary/Infrastructure/Pavements/Asphalt/AsphaltPavement_01_Narrow_4m_A.et" {
       {
-       coords 0.146 -0 0.399
+       coords 0.146 0 0.399
        angles 0 -263.656 0
       }
       {
